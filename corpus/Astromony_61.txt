@@ -1,0 +1,193 @@
+Reviews
+Astronomy Terms – Space Jargon Made Easy
+Science talk can very easily go straight over many heads. If you are a passionate about astronomy and want to learn more, but are confused by some of the terminology, this guide is made for you. We've made astronomy terms simple to understand in this comprehensive glossary of space jargon.
+A
+Absolute magnitude
+Stars that are further away can appear less bright, so to show a true measure of a star's brightness, astronomers determine how bright stars would be if they were all viewed form the same distance of 10 parsecs (32.6 light years). This is a star's absolute magnitude.
+Aperture
+The size of a telescope's main lens or mirror, measured in millimetres or inches. It is one of the most important attributes in a telescope. The larger the aperture, the more light gathering power the telescope has.
+Aphelion
+Celestial bodies do not have perfect circular orbits. This means that there are times in a planet, asteroid or comet's orbit when it reaches its furthest point from the Sun, called aphelion.
+Apparent magnitude
+A measure of how bright a celestial object appears as seen from Earth. The lower the value assigned, the brighter the object is.
+Asterism
+Asterisms are star patterns that are not whole constellations, and which are not officially recognized. They can be part of an official constellation, or include stars from two or more constellations. Famous asterisms include the Pleiades in the constellation Taurus the Bull and the Big Dipper in the constellation Ursa Major (big bear).
+Asteroid
+Asteroids are small to medium sized bodies in orbit about the Sun, composed of mainly metal, rock and some gases. The bulk of the Solar System's asteroids are found between the orbits of Mars and Jupiter, in a region called the Kuiper Belt. Some asteroids do approach the Sun, thus crossing the Earth's orbit. Asteroids are classed as minor planets.
+Astronomical Unit
+The astronomical unit (AU) is a measurement of distance equal to the average distance from the Earth to the Sun. This is approximately 150 million kilometres (93 million miles).
+Azimuth
+Used as part of a coordinate system in astronomy, azimuth is the horizontal direction of a star or other astronomical body in the sky.
+B
+Barlow lens
+A Barlow lens is not a true telescope eyepiece . Instead, it is a lens which you place into your telescope's focusing tube which then doubles or even triples a telescope's focal length. The result is that any eyepiece you insert into the Barlow lens will also double or triple in magnification. Read here for a more in-depth look at telescope accessories.
+Big Bang
+The Big Bang is the prevailing model for how the observable universe began. Evidence suggests that the universe has its beginnings in an extremely dense and high temperature state, followed by an ongoing expansion and cooling to what is our current universe.
+Black hole
+A compact celestial object which is so massive and dense that not even light can escape from its strong gravitational pull. Stellar black holes are formed when massive stars collapse into a dense singularity. Astronomers are not entirely sure how super massive black holes like the one at the centre of our Milky Way galaxy (and which scientists believe are at the centre of most galaxies) are formed. One possible way is the merger of several stellar black holes.
+Brown dwarf
+A type of sub-stellar object the size of a large planet to a small star. A brown dwarf is not massive enough to sustain nuclear fusion reactions, but is massive enough to emit infrared radiation.
+C
+A compound telescope which makes use of both a mirror and a lens.
+Celestial sphere
+The celestial sphere is an imaginary globe that covers the entire sky and is fixed with respect to the background stars. The celestial sphere has a celestial equator and celestial poles, as well as its own celestial coordinate system.
+Circumpolar
+Circumpolar refers to any astronomical objects near a celestial pole (which indeed line up with Earth's North and South Poles) which never dip below the horizon as Earth rotates. The result is that the object, like a star or constellation, never appears to truly rise or set, but simply skims the horizon.
+Collimation
+Aligning the mirrors of a reflecting telescope or optics of a catadioptric (hybrid) telescope so that they are all focused to produce the best possible images.
+Comet
+A comet is a small icy body made of rocky debris and frozen gases in orbit around the Sun. Comets have long, elliptical orbits. Most comets are believed to originate from the Oort Cloud, a spherical shell of millions or even billions of comets which surround the outer reaches of the Solar System. Comets heat up when they approach the Sun. The frozen gases are heated and create a coma (a gaseous shell around the comet) and a long tail.
+Constellation
+The recognizable patterns formed by stars and informally used to organize the sky into distinct sections. There are 88 official constellations including mythological beings, animals, and objects. The stars in constellations are almost always unrelated and separated by vast light years, only appearing to group together from Earth.
+Corona
+A plasma surrounding Sun-like stars. We can see our Sun's corona as a bright glow around the Sun's disc during a solar eclipse. The corona has a higher temperature than the star's surface, though the exact reason why is not fully agreed upon by scientists.
+D
+Declination
+Astronomers use a special coordinate system which plots celestial objects' declination and right ascension. Declination is the celestial equivalent of latitude. Coordinates with declination north of the celestial equator are measured in positive degrees from 0° to 90°, while coordinates to the south are assigned negative degrees.
+Dobsonian
+A type of Newtonian reflector popularised by amateur astronomer John Dobson which uses a simple and sturdy mount. Dobsonians are generally large, portable and quite inexpensive considering their large apertures.
+Double star
+Also called a binary star, double stars are two stars that lie very close to one another. There are two types: line-of-sight doubles and true double star systems. Line-of-sight doubles are the result of our perspective from Earth. They are not physically bound. Double star systems (indeed, even triple systems or more) actually orbit one another. Such stars are sometimes so close to one another that from Earth they appear as a single point of light.
+Dwarf star
+A category of ordinary main sequence stars. The Sun is classed as a dwarf star.
+E
+Earthshine
+Sunlight reflected by Earth that makes the unlit part of the Moon glow. Earthshine is most prominent when the Moon is at a crescent phase.
+Eccentricity
+A measure of how much an orbit deviates from being perfectly circular. Earth's orbit is elliptical meaning that the eccentricity is greater than zero but less than one.
+Eclipse
+Eclipses occur when the shadow of a planet or moon falls on another celestial object. Solar eclipses occur when we see the Moon appear to block the Sun, and the Moon's shadow falls on Earth. Solar eclipses are possible because the Moon and Sun have almost the same sized disc as viewed from Earth. A lunar eclipse occurs when Earth's shadow falls on the Moon.
+Elongation
+The angular measure of how much a planet or other body is separated from the Sun as seen from Earth. Elongation also refers to the angular measure of how much a satellite is separated from its parent planet as viewed from Earth.
+Equinox
+The two times a year, when the Sun is directly overhead at noon as observed from the Earth's equator, and day and night are equal length on the equinoxes. The equinoxes occur near March 20th and September 22nd. Depending on which hemisphere the observer is in, these dates are either the autumnal equinox or vernal equinox.
+F
+Field of view
+The window of sky visible when looking through a telescope or binoculars. The general rule of thumb is that high magnifications yield a narrow field of view, and low magnifications yield a wider field of view.
+Finderscope
+The part of a telescope (which looks like a small telescope itself) used to aim and focus the main telescope. Finderscopes have low magnifications and wide fields of view. They also have crosshairs to more easily focus the telescope.
+Focal length
+The distance, in millimetres, from a telescope's primary mirror or lens to the point where the image is formed. In older telescopes, the focal length is almost always equal to the length of the tube. Modern telescopes can have short tubes and still have longer focal lengths.
+Focal ratio
+Focal ratio or f/number is a lens or mirror's focal length divided by its aperture.
+G
+Galactic nucleus
+The central region of a galaxy which is dense with stars (and other celestial objects), very bright and usually quite small in comparison to the galaxy. The galaxy's central supermassive black hole also lies in this region.
+Galilean moons
+The four moons of Jupiter that were discovered by Galileo Galilei in 1610. They are Io, Europa, Ganymede, and Callisto. The Galilean moons were the first objects discovered in orbit around another body.
+Gibbous
+The phase of the Moon (or other celestial bodies) when it appears more than half lit, but is not fully illuminated
+Globular cluster
+A tight spherical grouping of many hundreds of thousands of stars that are gravitationally bound. They orbit galaxies as satellites and are usually quite old, extending for billions of years.
+Gravitational lens
+A region of great mass, such as a galaxy or galaxy cluster, capable of distorting passing light from a distant source as it makes its way to an observer, bending it to a noticeable degree. The effect can make background objects appear to be arced.
+Galaxy
+A vast collection of stars, gas, and dust held together by gravity and usually containing a supermassive black hole at the centre of its mass. Galaxies are typically 10,000 to 100,000 light-years in diameter, containing billions of stars and other astronomical objects.
+H
+H II region
+A nebula of ionized gas which is powered by young, hot, massive stars. Ultraviolet photons from these hot stars ionize the Nebula's gas. This type of region indicates star formation is taking place, because the stars that power it have short lifetimes of only a few million years.
+Hertzsprung–Russell diagram
+A diagram that plots stars and shows the progress of stellar evolution based on the star's temperature vs. luminosity. Much about a star's life can be determined by its place on the H-R diagram including its mass and how the star is likely to die.
+I
+Interstellar medium
+Refers to the gas, dust and radiation that exists between stars in a galaxy. Most of the interstellar medium is made of hydrogen and helium, but there are also trace elements which originate from stars as they expel elements during their lives and deaths.
+J
+Jovian Mass
+Jupiter mass or Jovian mass is a unit of measure equal to the mass of the planet Jupiter – 1.89813 x 1027 kilograms. The unit may refer to the planet alone, or the Jovian system including Jupiter's planets. It is used to describe the mass of similarly sized objects both within and outside of the solar system.
+K
+Kepler Objects of Interest
+Abbreviated KOI, these are stars suspected of hosting one or more exo-planets which transit (cross the surface of) their Sun. Astronomers watch as the stars show periodic dips in their overall brightness as the planets transit the Sun along their orbits. Not all KOIs may host exo-planets: a star's brightness may dip as its binary companion transits.
+L
+Light-year
+Contrary to what the name suggests, a light year is a measure of distance rather than of time. It refers to the distance that light, moving in a vacuum, travels in a year. The speed of light is 300 000 kilometres per second (186 000 miles per second), and given year, light crosses a distance of about 9.5 trillion kilometres (nearly 6 trillion miles). Light years are predominately used in mainstream science magazines for the public. Professional astronomers are more likely to use parsecs. Read more on astronomical measurements.
+M
+Magnetosphere
+The magnetic field which encompasses planets including Earth. The magnetosphere deflects charged particles from outer space which come from solar winds and cosmic rays, thus protecting our planet from harmful radiation. The magnetosphere may also absorb these particles or deflect them to the poles. Aurora and magnetic storms occur when the magnetosphere interacts with these particles near the magnetic poles.
+Magnification
+Magnifying power refers to how much a telescope can enlarge the subject it is focused on. Magnification is calculated as such: the telescope's focal length divided by the eyepiece's focal length.
+Magnitude
+The number which indicates the brightness of a star or other body. The higher the magnitude, the fainter the object. The brightest objects, including the Sun, Moon, several major planets, and certain stars are assigned negative numbers. A first magnitude star is 100 times as bright as a sixth magnitude star. Objects of magnitude 6 generally fall to the lower limit of what can be seen with the unaided eye, although this depends on seeing conditions and how good the observer's eyesight is.
+Main sequence Stars
+These are stars in the stage of stellar evolution during which hydrogen is fused into helium. They are so named because they form a continuous and distinctive band called the main sequence on the Hertzsprung-Russell diagram.
+Meridian
+An imaginary line running north-south through the celestial poles and which passes through the zenith, connecting all the points equally.
+Messier object
+Objects included in the catalogue of 103 star clusters, nebulas, and galaxies compiled by French astronomer Charles Messier between 1758 and 1782. The modern-day Messier catalogue contains 109 objects. Messier was a comet hunter. Frustrated by mistaking these objects for comets, he noted them in this catalogue. Messier objects are bright and make wonderful binocular and telescope targets.
+Meteor
+A brief streak of light (ionization trail) caused by a small piece of rocky matter (usually the debris of a comet, asteroid or meteoroid) entering Earth's atmosphere at high speeds. They are also called "shooting stars." It is called a meteorite if it lands on the Earth's surface having survived the trip through the atmosphere in one piece.
+Meteor shower
+A shower or series of meteors that seemingly originate from the same point in the night sky. They are produced by the debris of larger objects such as comets, and so they are often predictable, recurring year after year as Earth enters the points in its orbit where the debris lies.
+Meteoroid
+A small body found in the solar system made of mainly rocky and metallic material. They are much smaller than asteroids, and when they are incredibly minute they are termed micrometeoroids. They are usually debris from asteroids or comets.
+Minor planet
+Any celestial body in direct orbit around the Sun which is neither one of the eight major planets or classed as a comet. Natural satellites orbit their parent planets, not the Sun directly, so they are not classed as minor planets.
+Molecular clouds
+Similar to nebula, molecular clouds are regions of space made of dust and gas, but where the conditions are ideal for allowing molecules to form.
+N
+Nebula
+Nebulae are great, interstellar clouds hydrogen, helium, other ionized gasses and dust. They are often star-forming regions. Nebulae may be lit by stars inside or nearby the cloud, or may also be dark.
+Neutron star
+A type of stellar remnant made almost entirely of neutrons. They are usually the remains of massive stars which went supernova. They are quite small in size, measuring a few kilometres, but are extremely dense.
+O
+The main lens or mirror of a telescope which gathers incoming light.
+Occultation
+When the Moon or a planet passes directly in front of a more distant planet or star thus obscuring the object from an observer's view for a period of time.
+Opposition
+When a planet or asteroid is opposite the Sun in the sky. An object in opposition is visible all night, from sunset to sunrise.
+P
+Parallax
+Parallax is the measure, in angles, of how a celestial body seemingly changes position in the sky based on our point of observation from Earth. The measure of parallax is usually so small that using angles as a unit is inefficient. Astronomers use arc seconds and arc minutes, which are smaller denominations of the angle.
+Parsec
+The parsec is the preferred measurement of distance used by professional astronomers. It is a portmanteau of the words parallax and second, and is equal to 3.2616 light years. A Parsec is the distance at which a star would show a parallax shift of exactly one arc second as observed from Earth.
+Perihelion
+This is the point in a planet or other celestial body's orbit when it is closest to the Sun.
+Planisphere
+A round star map device that can be adjusted to show the appearance of the night sky for any given time and date. Funnily enough considering the name, a planisphere is used for locating stars and not planets, as the positions of the planets are constantly changing. Planispheres are also called star wheels.
+Precession
+The slow change in the orientation of a celestial body's axis of rotation. For the Earth procession, referred to as the precession of the equinoxes, lasts over cyclical periods of approximately 26000 years.
+Protostar
+The early beginnings of a star. As giant interstellar clouds contract, mass falls to the centre and starts heating, forming the protostar. Read here for more on stellar evolution.
+Pulsar
+A neutron star which is highly magnetized and rotates rapidly as it emits precisely timed beams of electromagnetic radiation. The fastest pulsars can rotate thousands of times per second.
+Q
+Quasar
+A quasi-stellar radio source, abbreviated quasar, is a distant, point-like energy source originating from a powerful active galactic nucleus. Its luminosity is generated by accretion of gas onto a supermassive black hole. Quasars emit radiation across the electromagnetic spectrum from radio waves to X-rays, and their ultraviolet and optical spectra are characterized by strong,
+R
+Reflector
+Also called a Newtonian, a reflector is a telescope that gathers and directs light using a primary and secondary mirror.
+Refractor
+A telescope that gathers light using a lens. Read more on different types of telescopes.
+Retrograde
+Most objects in the solar system orbit the Sun and rotate counter clockwise as viewed from Earth. Bodies that have a clockwise orbit or rotation have retrograde motion. Retrograde also describes periods when bodies appear to backtrack in the sky due to a shifting perspective caused by the orbital motion of Earth.
+Right ascension
+Astronomers use a special coordinate system which plots celestial objects declination and right ascension. Right ascension is the celestial equivalent of longitude. As with longitude, right ascension is measured in angles from a zero point on the celestial equator, moving eastward from the zero point.
+S
+Solstice
+A solstice marks the time of year when the Sun reaches its most northerly or southerly point in the Sky as seen from Earth. The Summer Solstice has the longest day and shortest night, while the opposite is true for the Winter Solstice.
+Star Cluster
+A group of stars orbiting a common centre of mass. There are two main types of clusters: open clusters and globular clusters. Open clusters contain fewer and younger stars than globular stars.
+Sunspot
+Sunspots occur when large regions of gas on the Sun's surface are cooler than the surroundings. They appear as temporary dark spots on the surface of the Sun which can safely be viewed by amateurs using a solar filter.
+Supernova
+A violent end to a massive star's life. A supernova occurs when a massive star can no longer power itself with nuclear fusion reactions and explodes.
+Synodic
+The period it takes for one celestial body to complete orbit around another object with respect to the background stars.
+T
+Terminator
+The line on the Moon or a planet that divides the part which is lit by sunlight from the dark region. The terminator is one of the most richly detailed areas of the Moon to view through a telescope.
+Tidal locking
+A net result of continued tidal braking such that, over the course of an orbit, there is no net transfer of angular momentum between an astronomical body and its gravitational partner. When the orbital eccentricity is low, the result is that the satellite orbits with the same face always point toward its primary. The Moon is tidally locked with the Earth.
+Transit
+Transits occur when a celestial object crosses the face of a much larger body. For example, we get transits of Mercury and Venus across the Sun. Transit also refers to the point when a celestial object crosses the meridian and is at its highest in the sky.
+U
+V
+Variable Star
+A star whose brightness changes over either a short period (days to weeks) or a longer time frame (months to years). Variable star is a star that is seen to vary in brightness. This variation may be periodic or irregular. These changes can usually be noted even by amateur astronomers.
+W
+Waning
+The period during which the Moon (or other celestial bodies) grows more illuminated, going from new to full moon.
+Waxing
+The period during which the Moon (or other celestial bodies) becomes less illuminated, going from full to new moon.
+White dwarf
+A type of stellar remnant, usually the remains of small to medium mass stars. A white dwarf no longer has sufficient mass to continue the nuclear fusion process.
+X

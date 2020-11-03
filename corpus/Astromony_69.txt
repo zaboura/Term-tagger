@@ -1,0 +1,202 @@
+Canonical Astronomy Abbrev/Achro list
+Frequently Seen Space/Astronomy Acronyms Note: some of the one's presented on this site are generally a little different from more widely accepted usage on CN. For instance, GEM almost always refers to German Equatorial Mount, not Giotto Extended Mission, or Galileo Europa Mission.
+FAQs (Frequently Asked Questions)
+How do you find the southern Celestial Pole?
+How do you clean your Eyepieces and Objective lens?
+Why are solar H-alpha filters so expensive?
+How do you clean you Newtonian Mirror?
+How do you collimate a Newtonian reflector?
+Should I get Binoculars before I get a telescope?
+Is the GOTO feature important for a beginner?
+Why doesn't the secondary mirror in a reflector or CAT block the view?
+If "aperture is everything", why do (some) people buy expensive APO telescopes?
+Why are magnetic fields important?
+What are different types of filters?
+Answers:
+Q: How do you find the southern Celestial Pole?
+A: To find the Southern Celestial Pole:
+First you find the Southern Cross constellation;
+Still with naked eyes, take the length of its longer axis and multiply it four times and a half, following its direction and beginning at Acrux (Alpha Crux). You can use your fingers (with your arm extended) to measure it. Then you'll be around the region of the Celestial South Pole, in Octans - southward the brighter stars of this constellation (fig. 01);
+Find Chi Octans (mag. 5.28) and Polaris Australis (Sigma Octans, mag. 5.47). The last one is already very close to the Celestial South Pole (fig. 02);
+Take a look at figure 03 to be sure. The circle around the South Pole is a field of 92 minutes diameter. The names of the stars are followed by their magnitudes.
+Figure 1     Figure 2     Figure 3
+Figure 1     Figure 2     Figure 3
+Click here for a larger version
+Click here for a larger version
+Click here for a larger version
+Q: How do you clean your Eyepieces and Objective lens?
+A: For now, please refer to this site: http://www.arksky.org/asoclean.htm
+Q: Why are solar H-alpha filters so expensive?
+A: Because you need an extremely narrow bandpass to observe the chromosphere. The photosphere is extremely bright so if your bandpass is much larger than 1 angstrom, emission from (or absorption by) the chromosphere is overwhelmed by the continuum emission from the photosphere. In comparison, a Lumicon O-III filter has a bandpass of 11 nm (110 angstrom).
+The narrow bandpass is achieved using an etalon, which consists of two parallel surfaces with reflective coatings. The surfaces are made and aligned so that the separation is an integer multiple of 1/2 of the target wavelength, i.e. a multiple of 3281.5 angstrom. This separation must be accurate over the entire filter, and maintained at all times during use. Even a 0.1% variation results in a shift of 6 angstroms, which would be completely unacceptable. Typically the surface flatness and spacing must be accurate to 1/200-wave.
+Q: How do you clean you Newtonian Mirror?
+A: Read the following discussion in the Reflector's forum: Cleaning Mirrors
+Q: How do you collimate a Newtonian reflector?
+A: Read the following discussion in the Reflector's forum: Collimating a Newtonian Mirror
+Q: Should I get Binoculars before I get a telescope?
+Q: Is the GOTO feature important for a beginner?
+Q: Why doesn't the secondary mirror in a reflector or CAT block the view?
+Q: If "aperture is everything," why do (some) people buy expensive APO telescopes?
+Q: Why are magnetic fields important?
+A: Because the sun and its atmosphere is mostly ionized gas (plasma), magnetic fields behave like tangible objects. It can be bent and twisted, but not easily destroyed. On the photosphere, the constant movement of gas pushes these magnetic fields around, creating sunspots and other features. In the solar atmosphere, where plasma density is low, magnetic fields control and confine the flow of plasma. Because plasma can flow easily along magnetic fields but not across it, they trace out individual magnetic field lines to form loops which are visible as prominences and filaments.
+Q: What are different types of filters?
+A: There are two main types: white light and H-alpha. White light filters are, in principle, very dark neutral-density filters used to reduce brightness of the solar image so it can be safely and comfortably. It should also block infrared and ultraviolet light for safety reasons. White light filters allow you to observe the photosphere, including granulation and sunspots. Because granulation is only a few arcseconds in size, it may not be visible in poor seeing conditions.
+White light filters are usually made by depositing a thin layer of metal on a transparent substrate, either glass or plastic film. Glass filters can be ground to a higher precision, though not all commercial glass filters use ground optical glass.
+H-alpha filters are narrowband filters designed to view the chromosphere, which is extremely rich in features. Even at low resolution, features are visible all over the solar disk, as well as prominences that project out of the disk. H-alpha filters are far more expensive than white light filters; currently the least expensive product is the Coronado PST.
+Other narrowband filters are used for research. For example, the Calcium K line at 3934 angstrom shows magnetic structures better than the H-alpha line. However those lines are not as feature-rich as the H-alpha line.
+Glossary Definitions
+ACHRO – Achromatic refractor:- a type of refracting telescope with a pair of lenses that work together to bring to focus all wavelengths of light to very nearly the same point, greatly reducing chromatic aberration. A trace of purplish color may be seen, and this is called residual chromatic aberration.
+AFoV – Apparent Field of View, or how wide, in degrees, the field of view looks to the eye.
+Albedo – the amount of light an object reflects, relative to how much it receives from a source such as the sun. Venus has a very high albedo. The lunar maria have a lower albedo than the surrounding highlands.
+ALT-AZ – Altitude Azimuth mount - often referred to as an altazimuth or altaz mount, this is a system that would be astronomy's equivalent to a point and shoot camera system. A general knowledge of the night sky is essential for its use, but knowledge of celestial coordinate systems is not.
+Aphelion – The location along an object's orbit that takes it farthest from the sun.
+APO – Apochromatic refractor: Refractors with multiple lens elements made of special materials such as flourite or extra-low dispersion (ED) glass, eliminating even residual chromatic aberration.
+Apogee – The point in the moon's (or satellite's) orbit that brings it closest to the earth.
+Asteroid – a solid object of rock and/or metal ores leftover from the formation of the solar system, also called a minor planet. A large number of these objects are concentrated in a zone between Mars and Jupiter.
+Astronomical Unit (AU) – a measure of distance used within the solar system, based on the average distance from the Earth to the Sun.
+ATM – Amateur Telescope Maker
+Averted Vision
+Back to Index
+Barlow (Lens) – An optical device created by Peter Barlow that increases magnification by increasing the effective focal length of a telescope.
+Binary Star – Two stars that orbit around a common center. A binary star can also be an optical double, which are not close together but whose apparent positions as seen from the earth are close together. A double star can be a binary (where the pair is bound by gravity) or an "optical double", where the pairing is an illusion caused by alignment
+Binoviewer – A device that attaches to a telescope and splits the collected light into two beams, allowing observation using both eyes. This results in greater viewing comfort.
+Binoscope (binocular telescope) – There is no strict definition, but it generally refers to large astronomical binoculars with interchangeable eyepieces.
+Back to Index
+Cassegrain – A telescope configuration that uses a primary mirror with a hole in the center and a convex secondary mirror. The focal point is behind the hole in the primary mirror. A "classical Cassegrain" uses a paraboloid primary mirror and a hyperboloid secondary mirror.
+CAT – Catadioptic Telescope, a family of compound telescopes. Includes SCTs. MCTs (MAKs), MAK-Newt, etc...
+Celestial Sphere – A way of describing how the sky appears from the earth's surface, an imaginary sphere that has its own system of coordinates that work like latitude and longitude (called declination and right ascension respectively).
+Celestial equator – An imaginary line in the night sky at 0 degree declination that separates the northern and the southern celestial hemispheres.
+Cheshire Eyepiece – An eyepiece used to collimate a reflector.
+Chromacorr– A corrector lens made by [insert name and link], designed to correct chromatic aberration of achromatic telescopes. It is specifically designed for [list].
+Chromatic Aberration – Different wavelengths of light are not always focused at the same point by a lens, resulting in a colored halo or fringe (generally red and purpling) around very bright objects such as Sirius, Venus, and the Moon. The rainbow effect is sometimes (incorrectly) referred to as 'false color'.
+Chromosphere – A layer of the sun's atmosphere just above the photosphere and below the corona. Because it is optically thin, it does not act as a blackbody but emits and absorbs narrow spectral lines, notably the H-alpha line, and can be observed with an H-alpha filter. The chromosphere is also visible to the naked eye as a bright red layer during a total solar eclipse (hence the name: "chromos" = color). Features in the chromosphere include filaments, prominences, plages, facula and spicules. This region is slightly cooler than the photosphere. Strangely enough, it is also cooler than the corona above.
+Circumpolar – Any object close enough to the celestial pole that it never rises or sets, remaining always above the horizon. (note: depends on the viewer's latitude)
+Collimation – The act of lining up all the optics in a telescope so that the path followed by light within the telescope (the light train) is perfectly aligned.
+Coma – The head of a comet.
+Compound Telescope – A telescope that uses both mirrors and lenses for the objective. (See CAT above.)
+Cool Down Time – The time it takes for the temperature of telescope's optics to equalize with the ambient temperature. Thermal imbalances between telescope components and ambient temperatures produce convective currents that cause aberrations in the light being collected by the mirror.
+Corona – A layer of the solar atmosphere above the chromosphere, with temperature around 1 million K. In visible light, it is only visible during total solar eclipses or by using a coronagraph, a telescope specially designed to reject all light from the photosphere and show the corona. Because of the high temperature it is extremely bright in X-rays. It has long been a mystery how a 1-million degree plasma can exist above a 6000-degree photosphere. It is thought to be heated by energy transported by magnetic fields and released inside the corona, although the exact mechanism is still unknown.
+Coronagraph – A telescope invented by French astronomer Bernard Lyot in 1930 That uses a disk (simple explanation) to create an artificial solar eclipse in order to detect faint, nearby objects around the sun such as stars, comets, the solar corona and solar prominences.
+Corrector plate – A large lens which is part of a catadioptric telescope. It is placed at the entrance of the telescope tube and usually doubles as a support for the secondary mirror.
+Back to Index
+Dall-Kirkham – A variant of the Cassegrain telescope that uses a parabolid primary mirror and a hyperboloid secondary mirror. This makes it easier to build and test than a classical Cassegrain. There is no on-axis aberration, but it has large off-axis aberration (coma). The Takahashi Mewlon is a pure Dall-Kirkham, and the Celestron 18" is a Dall-Kirkham with an integral corrector lens.
+Dark Daption
+DEC – Declination axis of an equatorial mount.
+Declination – A measure of position in the sky north (+) or south (-) of the celestial equator. The celestial equivalent of latitude.
+Dobsonian (or Dob) – A Newtonian Reflector that uses a mount designed by John Dobson. A Dobsonian mount is essentially a simple altaz mount for Newtonian reflectors.
+Dobsonian Design Reflector
+Click here for a larger version
+DSC – Digital Setting Circles, A digital readout system that tells you where the telescope is pointed. It consists of encoders that measure rotation of the mount axes, and a readout computer. It can help you find a specified object by telling you which direction to move the telescope, but unlike a GoTo system, it has no motors to move the telescope itself.
+DSO – Deep Sky Objects; a celestial object outside of our solar system, not necessarily including single and double stars.
+Back to Index
+Ecliptic – the line the sun makes across the sky, which more or less marks out the plane of the solar system. The position of this imaginary path varies with the season.
+Elongation (Greatest) – The point in the orbit of an inferior planet (Mercury or Venus) when the planet has the greatest angular distance relative to the Earth and the Sun. This is the time when the planet is most readily visible in the sky.
+EP (Eyepiece) – An ocular (set of small lenses) used to magnify the image created by the objective. Literally the part of the telescope you look through.
+Epoch – The period of time during which the positions of stars on a chart are most accurate.
+Equatorial Mount (EQ) – A telescope mounting system that keeps one axis parallel to the Earth's axis of rotation. A commonly encountered form is the German Equatorial Mount (GEM) which uses a counterweight on a long shaft opposite the telescope to counterbalance the weight of the telescope. The telescope is able to track the sky about a polar axis to compensate for Earth's rotation. A German Equatorial mount has a Right Ascension (RA) axis which is aimed toward Polaris, the north star, to polar align the mount in the northern hemisphere. Once aligned, the telescope can track the sky using slow-motion controls or a clock drive to rotate the Right Ascension axis. This axis allows motion from east to west. The telescope rotates around the mount's declination (DEC) axis in order to allow movement north and south. Please see the section entitled "Finding the Southern Celestial Pole:", in the FAQ section, for locating the southern axis.
+Equatorial platform – Essentially a low-profile equatorial mount, designed to carry a Dobsonian telescope on top. Also called a poncet mount.
+Erfle – A wide-field eyepiece design in a 2-1-2 or 2-2-2 element configuration. A Plossl derivative with one or two extra field correcting lenses between the outer achromatic doublets. Often used in wide-angle binoculars and as an inexpensive, low-power, wide-field eyepiece for telescope use. They typically have an AFoV of 65 degrees. They have relatively large amounts of edge distortion, especially in fast scopes.
+Exit Pupil – The diameter of the light beam exiting the eyepiece. The Exit Pupil equals telescope's objective (mirror or lens) diameter divided by the magnification. Larger Exit Pupils provide a brighter image, up to a point.
+Eye Relief – The distance between your eye and the eye lens of the eyepiece, usually measured in millimeters, at which you can see the full AFoV of the eyepiece.
+Back to Index
+F-Ratio – Focal Ratio (f) – The ratio of the telescope's focal length to its objective lens/mirror's diameter; found by dividing the focal length by the objective's diameter. A smaller number is "faster."
+Field Stop – The circular baffle within the eyepiece that defines the edge of the eyepiece's field of view.
+Filament – A thin dark line visible in the chromosphere. They are dense and slightly cooler material suspended above the chromosphere inside loops of magnetic field. Because they are cooler than the material below, they appear as dark features. However, when they are seen on the limb against a dark background, they appear as bright loops - i.e. prominence.
+Filter – A film or glass that is treated to allow only discrete frequencies of light to pass through, enhancing the image through the eyepiece.
+Focal Length – The distance from the objective where a light source at infinity reaches focus.
+FOV – Field of View, the area of the sky that is visible through the telescope. (note: measured in degrees)
+Friend – The Cloudy Nights message board uses a profanity filter that replaces certain offensive words with the word "friend". Consider it an equivalent of "bleep." resolution
+Fringe Killer – A filter designed to suppress the effects of chromatic aberration in achromatic refractors. The filter blocks wavelengths which are most susceptible to chromatic aberration.
+Back to Index
+GEM – German Equatorial Mount, see Equatorial Mount (EQ)
+GoTo – A computerized system for driving a telescope mount. After performing an alignment routine with several stars, a target object can be selected from a database, using a computerized, handheld control pad, and the computer will move (slew) the telescope to the selected object. GoTo requires motor drives on both axes and a source of electrical power.
+GPS – Global Positioning System. When used with a GoTo telescope system, the GPS will give the precise geographical coordinates required to properly align the telescope.
+Granulation – Fine structure seen on the photosphere. In the top 100,000 km of the sun's interior, heat is transported by convection, by small blobs of hot gas rising up to the surface (photosphere). These blobs appear as granulation patterns in the photosphere.
+Guide Scope – Astrophotography requires long exposures, so any inaccuracy of the equatorial mount must be monitored and corrected for during exposure. A guide scope is a small telescope mounted on top of (or next to) the main telescope, fitted with a high power crosshair eyepiece. A star near the target object is centered on the crosshair, and the photographer (or an automated device called an autoguider) controls the equatorial mount to keep a guide star on the crosshair.
+Back to Index
+H-alpha – An emission line at 6563 angstrom emitted by neutral hydrogen. This is the same emission line that gives emission nebulae their characteristic red color.
+H-alpha Filter – A filter that isolates the 6563 angstrom H-alpha line. Solar H-alpha filters are used to observe the chromosphere, which absorbs and emits strongly in the H-alpha line. A bandpass of 1 angstrom or better is needed to observe features in the solar chromosphere.
+Back to Index
+Inferior Planet – A planet with an orbit between the Earth and the Sun (Mercury and Venus).
+Back to Index
+Konig – An eyepiece design using four elements in three groups in a 1-2-1 configuration. Typically has a 60 degree AFoV.
+Back to Index
+Lens Cell – The mount which secures the objective lens on refractor telescopes. It provides correct spacing and a rigid holder for the lens. Sometimes collimatable. Also used to refer to the complete objective assembly of a refractor.
+Light Pollution Filter – A significant fraction of light pollution is caused by streetlamps, which are usually gas discharge lamps. These lamps emit most of their light in narrow emission lines, especially the low pressure sodium lamps (the yellow ones), If those wavelengths are blocked by a filter, light pollution can be reduced significantly while the light from astronomical objects are only slightly dimmed.
+Libration – Because the Moon's orbit around the Earth does not completely match its rotation, the limb of the moon seems to swing toward the Earth a little, revealing features that would otherwise not be visible, and then moving them out of sight. Since there is libration in terms of both latitude and longitude, the effect is seen near the poles as well as the east and west limbs.
+Light Pollution – Light from inefficient outdoor lighting that reduces the visibility of the night sky as seen by city dwellers.
+Light year – the distance light travels in a vacuum in one year, about 5.88 trillion miles or 9.46 trillion kilometers.
+Limb – The edge of the disk of a planet or the sun, as seen by an observer.
+Back to Index
+MAK – MCT
+Magnification – The telescope's focal length divided by the eyepiece's focal length.
+Magnitude – A number assigned to the ratio of two quantities. For a measure of apparent brightness of celestial objects, each step in the scale of magnitude of a celestial object is 2.5 times brighter. A star of magnitude 1 is 2.5 times brighter than a star with a magnitude of 2. Absolute magnitude is how bright the object would look to an observer at a standard distance of 10 parsecs (32.6 light years).
+MCT – Maksutov Cassegrain Telescope
+Messier Catalogue – List of clusters, galaxies and nebula compiled by French comet hunter Charles Messier(1730-1817). Messier plotted the positions of these 'nuisance objects' so he would not confuse them with comets again. While Messier is credited with discovering 12 comets, it is his list of faint DSOs that we remember him by.
+M Object – An individual Messier catalog item. Messier Objects are known by their catalog numbers.
+Back to Index
+Nebula (pl. nebulae or nebulas) – A huge, diffuse cloud of gas and dust in intergalactic space. The gas in nebulae is mostly hydrogen gas (H2).
+1. Emission nebulae are glowing clouds of ionized gasses like hydrogen and oxygen that fluoresce due to the UV rays emitted by nearby hot, young stars.
+2. Reflection nebulae are clouds of dust that reflect the light of nearby stars, and are the color of those stars.
+3. Planetary nebulae, so-called because they are often circular in shape and look like ghostly planets, are the gaseous remains of dead stars that fluoresce due to the intense UV radiation emitted by the hot stellar cores at their center.
+Nebula Filters – Filters, usually attached to eyepieces that pass only the discrete frequencies of light emitted by ionized gasses in nebulae. They block light pollution, making faint nebulae more visible.
+New General Catalog (NGC) – a listing of more that 7,000 star clusters, galaxies, and nebulae first published in 1888.
+Newtonian (or Newt) – a basic reflector telescope.
+Back to Index
+O-III filter - A narrow bandpass filter designed to transmit only the oxygen-III emission lines at 496 and 501 nm, ideal for observing planetary and emission nebulae.
+Objective – the part of the optical system that gathers and focuses light at the focal point. Can be a single lens, set of lenses, or a mirror.
+Occultation – An event that involves a nearby celestial body (Moon, a planet, or an asteroid) moving between the observer and a more distant object (planet or DSO, etc.), blocking it from view.
+Off-Axis Guider – Performs the same function as a guide scope, but instead of using a separate telescope, it uses a small portion of light from the main telescope and redirects it onto a crosshair eyepiece. This eliminates guide errors due to warping of the telescope tubes or mirror shift, but [insert disadvantages here]
+Opposition – When a planet is on the opposite side of the Earth relative to the sun. In other words, the Earth is between the planet and the sun.
+Orthoscopic – Meaning "free of aberrations," the Orthoscopic is an eyepiece design using a 3-element cemented triplet field lens and a single element for the eye lens. Typically has a 45 degree AFoV.
+OTA – Optical Tube Assembly, generally does not include the finder scope, diagonal or eyepiece.
+Dobsonian Design Reflector
+Click here for a larger version
+Back to Index
+Paracorr – A corrector lens made by Tele Vue designed to correct coma. It is intended for fast Newtonian telescopes which have the most severe coma.
+Perigee – The point in the moon's (or satellite's) orbit that brings it as close as it will ever come to the earth.
+Perihelion – The point in a planet's (or satellite's) orbit that marks its closest approach to the sun.
+Periodic error – Inaccuracy of an equatorial mount that manifests as a periodic motion with a period of several minutes. It is caused by an imperfect worm gear combined with gear backlash.
+Phase Coating – A coating used on roof prism binoculars. A roof prism, or amici prism, inverts two halves of the light beam separately and merges them again to form an image. As each light is reflected internally in a prism, each is polarized elliptically. This causes a different phase shift which can result in destructive interference when they are merged together. Phase coating is a dielectric coating that is applied on the prism surface and corrects for the elliptical polarization.
+Photosphere – What we normally think of as the "surface" of the sun. It is in fact a thin boundary layer between optically thick (opaque) and optically thin parts of the sun. It has a temperature of 5780 K and emits continuum (blackbody) radiation. Features such as granulation and sunspots are visible on the photosphere.
+Plage – A bright patch visible in the chromosphere, associated with areas with active magnetic fields.
+Plossl – An eyepiece design using four elements in two groups. The two groups are achromatic doublets, often of the same focal length, placed so that the aberrations of the first doublet are cancelled by the opposite aberrations in the second doublet. Typically has a 50 degree AFoV.
+Polar Alignment Scope – A small targeting scope built into GEM mounts aligned along the RA axis, usually with some type of alignment marks in the eyepiece. Used for accurate polar alignment of the GEM mount. Usually must be collimated to the mount before use.
+Powermate – A type of barlow lens, manufactured by Tele Vue. Unlike most barlows, it is available in powers up to 5x and can be used for photography as well as visual observation.
+Prominence – A filament on the solar limb, seen from the side against a dark background.
+Back to Index
+RA – Right Ascension axis of an German Equatorial Mount (GEM). It is generally measured in units of hours, minutes and seconds. One hour is equal to 15 degrees. There are 60 minutes in one hour and 60 seconds in one minute. This should not be confused with arcminutes and arcseconds, which are defined as 1/60 and 1/3600 of a degree, respectively.
+RACI – Right Angle Correct Image. A small finder scope attached to a telescope that will present a correct view of the night sky, as seen with the naked eye.
+RDF – Red Dot Finder. A small viewing device that projects or reflects a small red dot onto a lens that is mounted onto a telescope that helps to initially locate a target in the night sky.
+Radiant – The spot in the sky from which a meteor shower seems to originate.
+Reducer – A lens that reduces the focal length of a telescope. Functionally it is the opposite of a barlow lens, but most reducers are optimized for photography and designed to match each telescope model.
+Reflector – a telescope designed using a mirror as the primary objective.
+Refractor – A telescope that uses a lens or lenses (lens cell) for the objective.
+Resolving Power – The ability of a telescope or binoculars to distinguish detail, such as separating components of a double star or rilles on the lunar surface.
+Right Ascension (RA) – The celestial equivalent of longitude, giving information on positions from east to west in the sky.
+Back to Index
+SCT – Schmidt Cassegrain Telescope
+Seeing – The condition of the atmosphere and its effect on the ability to view objects with clarity. Seeing conditions determine the maximum magnification useable for a given evening or moment.
+Setting Circles – Circular rings (usually metal) placed on the RA and Declination axis of a GEM for use in targeting celestial objects using sky coordinates from published charts. Similar to latitude and longitude in terrestrial navigation.
+Scintillation – The twinkling of stars seen by the naked eye, caused by changes in the density of the earth's atmosphere, producing an uneven refraction of starlight.
+Star Cluster – A group of stars that are close together. Star clusters are grouped into two categories:
+– Open Clusters: Loose collection of young stars that are somewhat close together and were formed about the same time. (Example: the Pleiades.)
+– Globular Clusters: A somewhat spherical group of up to a million stars and more that are held together by gravity. Often these stars are among the oldest in the sky.
+Sunspot – A dark feature seen in the photosphere. It is a thick bundle of magnetic fields protruding from the photosphere. It looks dark because the magnetic field inhibits energy transport from the sun's core, creating a slightly cooler area.
+Superior Planet – one with an orbit beyond that of the Earth (Jupiter, Saturn, etc.)
+Back to Index
+Telrad – A finderscope made by Telrad, Inc. It has no magnifying optics. Instead it overlays an illuminated reticle with the real, unmagnified sky.
+Terminator – The difference between day and night on the moon; the line between them.
+TFoV – True Field of View, or how much sky a telescope/eyepiece combination actually sees. TFoV is roughly equal to the AFoV divided by the magnification.
+The Curse – The scientifically (well, not really) verified fact that a telescope or new accessory will arrive in your mailbox at the same time as very bad weather. Represented by the formula CN = Aperture (in millimeters) * 1 nights/10mm. For example, if you purchase a 32mm eyepiece, you will have 3 cloudy nights once the new scope or accessory arrives.
+3 Cloudy Nights = 32mm * (1 Cloudy Night / 10mm)
+Transition Region – A boundary between the chromosphere and the corona. It's not actually a flat layer on the sun, but refers to any feature visible in the intermediate temperatures between the chromosphere and the corona.
+Truss Telescopes – A telescope, usually a Dobsonian, which is constructed as an open truss structure rather than a solid tube.
+Back to Index
+Wedge – An adapter that supports a fork mount at an angle. By pointing the azimuth axis of the fork mount towards the celstial pole, it converts an alt-az fork mount into an equatorial mount.
+This is necessary for using fork-mounted telescopes for astrophotography. Alt-az GOTO mounts like the Meade LX200 and Celestron NexStar can track an object, but over time the view rotates relative to the telescope (field rotation). With a wedge, the telescope is fixed relative to the celestial sphere and field rotation is eliminated.
+Back to Index
+Zenith – The point directly overhead in the sky. The angle between zenith and the horizon is 90 degrees.
+Back to Index
+© Copyright 2004 Cloudy Nights Telescope Reviews
+All rights Reserved

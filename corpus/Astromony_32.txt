@@ -1,0 +1,11 @@
+epoch
+A moment in time used as a reference point for some time-varying astronomical quantity, such as the celestial coordinates or orbital elements of an astronomical object , because such quantities are subject to perturbations and change over time. The primary use of astronomical quantities specified by epochs is to calculate other relevant parameters of motion in order to predict future positions and velocities. In modern usage, astronomical quantities are often specified as a polynomial function of a particular time interval, with a given epoch as the temporal point of origin.
+equator
+The imaginary line on a gravitationally rounded spheroid such as a planet that represents the intersection of the spheroid's surface with a plane perpendicular to its axis of rotation and equidistant from its geographical poles . The plane of the Earth's terrestrial equator is the basis for the celestial equator .
+equinox
+One of two precise times of year when the imaginary plane of the Earth's equator , extended indefinitely in all directions , passes through the center of the Sun , or, equivalently, when the Sun's apparent geocentric longitude is either 0 degrees or 180 degrees. [7] The equinoxes occur on or near March 20 and September 22 each year. On the day of an equinox, the center of the visible Sun appears to be directly above the equator, and the durations of day and night are approximately equal all over the planet. Contrast solstice .
+escape velocity
+The minimum speed that must be achieved for a free, non-propelled object to escape from the gravitational influence of a massive body, i.e. to achieve an infinite distance from it; more generally, escape velocity is the speed at which the sum of an object's kinetic energy and gravitational potential energy is equal to zero. It is a function of the mass of the body and the object's distance to its center of mass . An object which has achieved escape velocity is neither on the surface nor in a closed orbit of any radius.
+evolutionary track
+A curve on the Hertzsprung–Russell diagram that a solitary star of a particular mass and composition is expected to follow during the course of its evolution . This curve predicts the combination of temperature and luminosity that a star will have during part or all of its lifetime. [8]
+Sample evolutionary tracks for stars of different mass

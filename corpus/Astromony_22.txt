@@ -1,0 +1,193 @@
+ 
+Fourth Example: Orion
+★ Corona The high-temperature outermost atmosphere of the Sun, visible from Earth only during a total solar eclipse.
+★ Cosmology The study of the large-scale structure and evolution of the whole Universe. It includes how the universe was formed, how it developed and how it will eventually end. The following diagram represents this, and shows the seven stages. See also Big Bang Theory.
+★ Cosmic Microwave Background Radiation In 1965 Penzias & Wilson investigated radio waves from various parts of the universe with an old radar horn. They found microwave signals coming uniformly from everywhere in the sky. They initially measured the signals to have a peak wavelength of 73 mm. This corresponded to a Universe with an average temperature of 4.2 Kelvin (-268.95°C). Later revised to a peak wavelength of 1.063mm & an average temperature of 2.7 Kelvin (-270.45° C). This is is used by Cosmologists to determine early features of the Cosmos, and supports the Big Bang Theory.
+★ Crescent The phase of a moon or planet when it appears less than a half disc. For example, the Moon is a crescent between Last and First quarter.
+★ Culmination The instant when a celestial body crosses your meridian, ( i.e. the north/south line that passes though your zenith). An object culminates when it reaches its highest point above the observer's horizon. (See nice image under local meridian).
+★ Dark adaption The process by which the human eye increases sensitivity under conditions of low (or no) illumination.
+★ Declination The angular distance of a celestial object north or south of the celestial equator. It corresponds to latitude on Earth. Declination is measured in degrees from +90° to -90°. Directly out from the earth's equator is the celestial equator which is a declination of zero degrees. Directly below the South Pole is the -90° declination. See nice diagram under Celestial Sphere.
+★ Deep space Anywhere outside the Solar System.
+★ Deep-sky object A celestial object located beyond the Solar System.
+★ Digital Setting Circles (DSCs) These are little computers that show you where to point your telescope to locate your astronomical target. You input the target's coordinates (or find it in the DSC's catalogue)  and the DSC will then show you a readout of numbers that represent the  angular distances to your target, your goal being to move your telescope  until those numbers are as close to zero as possible. At zero (or close  to), your scope will be pointing at your target object. Think of them as a GPS for your telescope. These devices are suitable for most telescopes, to convert them into "push-to" telescopes.
+★ Diurnal motion The daily motion of the sky produced by rotation of the Earth, causing the rising and setting of the Sun, Moon, planets and stars.
+★ Dobsonian mount A simple type of alt-azimuth mount designed by John Dobson.
+★ Doppler Shift This is used in Cosmology & Spectroscopy (see image below).
+★ Double star Two stars that appear close together in the sky. Optical doubles are chance alignments of the stars as seen from Earth, while the stars in a binary or multiple system are actually linked by mutual gravity.
+★ Dust lane A trail of thin gas and dust among the stars of the galaxy or between galaxies.
+★ Dust tail The curved, yellowish tail that streams out behind a comet. See also Ion tail.
+★ Dwarf Planet There are five dwarf planets, as defined by the International Astronomical Union (IAU). They are Ceres, Make Make, Pluto, Haumea & Eris. They revolve around the sun, have a generally spherical shape but are surrounded by asteroids or minor planets. See image below.
+★ Dwarf star A star that lies on the Main Sequence on the Hertzsprung-Russell Diagram.
+★ Earthshine The faint, grey-blue light seen on the portion of the Moon's surface not illuminated by the Sun.
+★ Eccentricity A measure of how long or thin an ellipse is. The closer the eccentricity is to zero, the more circular the orbit.
+★ Eclipse When one celestial body passes in front of another, dimming or obscuring its light. Common eclipses include a solar eclipse or a lunar eclipse.  This is not to be confused with a transit (small body moving in front of a larger body) or an occultation (one body going behind another body). See images under Lunar Eclipse and Solar Eclipse.
+★ Eclipse of the Moon When the Moon passes into the shadow of the Earth. It is a total eclipse when the Moon is immersed in the umbral shadow, partial if only partly covered by the umbra, and penumbral if the Moon passes only through the penumbra of the Earth's shadow. See image under Lunar Eclipse.
+★ Eclipse of the Sun When the Moon passes in front of the Sun. It is total when the Moon has a larger angular diameter than the Sun and completely covers the disc, annular if smaller (leaving a ring of sunlight surrounding the Moon), and partial if only partly covered. See image under Solar Eclipse.
+★ Ecliptic This is the apparent annual path of the sun through the year. It is named as the path of the eclipses. It also is where the dozen common constellations called the zodiac are located across the sky. (Note: the ecliptic line is really useful to find the moon and planets, which apparently align in the sky approximately along this line, due to the almost flat  plane of the solar system).
+★ Egress The finish of a satellite or shadow transit.
+★ Elevation see Altitude.
+★ Ellipse The oval, closed path followed by a celestial object moving under the influence of gravity: e.g. a planet around the Sun.
+★ Elongation The angular separation between Mercury or Venus and the Sun; also used for satellites and their planet. Most often seen as maximum elongations, describing the greatest separations.
+★ Emission nebula A cloud of gas glowing as the gas re-emits energy absorbed from a nearby hot star.
+★ End of the Universe In Cosmology, there are a number of scenarios for the end of the Universe. (See image below).
+★ Ephemeris (plural ephemerides)- this gives the measured positions of all the objects in the sky. This includes stars, galaxies, planets, moons, and even man made satellites. Note: An ephemeris is different to a planisphere because it gives precise co-ordinates which change every 50 years. It is different to a star atlas which gives representations of surrounding constellations.
+★ Epoch A date chosen as a reference point for observations. Epoch 2000.0 is currently used for all coordinate data and is compatible with modern star atlases & ephemerides.
+★ Equation of Time The difference between apparent and mean solar time. This is the East or West Component of the Analemma.
+★ Equatorial mount A telescope mount with one axis parallel to Earth's rotational axis, so the motion of the heavens can be followed with a single movement. Equatorial mounts are for telescopes & cameras that compensate for Earth's rotation by having one rotational axis parallel to the Earth's axis of rotation.  One rotational motion, by hand or motor, will keep the object centred in the viewpoint, which is useful in longer exposure photography.
+★ Equinox The two times of the year when the Sun crosses the celestial equator; vernal or spring equinox occurs on or about September 22nd, and autumnal equinox on about March 20th. Is an equinox a day, or a moment in time? It is both. Firstly, as the seasons go, an equinox is either of the two times in the year when day & night are of equal length.  This happens around 21 March & 23 September each year.  Also an equinox is either of the two points in the sky where the sun's annual path (ecliptic) & the celestial equator intersect. This is gradually changing as the Earth slowly wobbles on its axis. This is the spring equinox.
+This is the path of the sun over the year.
+★ Event horizon. The boundary of a "point of no return" near a black hole. When crossed, towards a black hole, not even light can return. See Black Hole.
+★ Exit pupil The diameter of the exit pupil can be calculated by dividing the focal length of the eyepiece by the focal ratio (f-number) of the telescope. More simply, it is the diameter of the objective lens (or telescope's aperture size) divided by the magnification of the eyepiece.
+★ Exoplanets are planets that revolve around another star (other than our sun). The first confirmed detection of an exoplanet occurred in 1992. As of 1 September 2018, there are 3,823 confirmed planets in 2,860 systems, with 632 systems having more than one planet.  As of 26 September 2020 there are 3730 exoplanets confirmed by NASA.
+Exoplanets are deep space objects, they can be seen by larger space telescopes like Kepler, Hubble, Chandra, Spitzer and the soon to be lauched James Webb Space Telescope (JWST).  
+★ Eye relief of the telescope The distance from the eyepiece to the eye, within which the user's eye can obtain the full viewing angle.  If the viewer's eye is outside this distance, a reduced field of view is obtained.  Or in other words, the distance where a person's eye can be placed, so that the size of the telescope's "exit pupil" is approximately the same size as the person's pupil.
+★ Eyepiece A group of small lenses used as a single unit to magnify the image produced by a telescope's objective, or main, lens or mirror.
+Notes on different eyepieces and AFOV (see Apparent Field of View)
+Plössl eyepieces are generally designed to have an AFOV of 50°,
+DeLites use 62°,
+Delos use 72°
+and Naglers use 82°.
+★ Facula A large, bright, irregular patch of slightly hotter material marking an active region in the photosphere of the Sun.
+★ Field of view (FOV) Amount of sky visible through the eyepiece of an optical instrument, such as a pair of binoculars or a telescope. There are a couple of different "fields of view" to keep in mind, namely the True Field of View (TFOV) and the Apparent Field of View (AFOV).
+1) The True Field of View (aka TFOV) through your telescope can be measured by timing a star, near the celestial equator, as it drifts across the eyepiece from one side to the other. In simple terms, the stars make one complete rotation (360°) in a day (24h). A star on the celestial equator will then appear to move at a speed of (360°/24h) which is 1/4 degree/minute.
+For Example: Mintaka, aka Delta Orionis, is a convenient star close to the celestial equator as circled below in Orion's belt. (The Arabic word Mintaka means a belt. The central star, Alnilam, means a belt of pearls and Alnitak, the eastern star, signifies a band of material around the waist.)
+If it took 260 seconds for Mintaka to cross the eyepiece view, the true field of view is given by first converting to minutes (260/60 = 4.33 minutes). Then multiplying by 1/4 degree/minute (i.e. divide by 4), to get 1.08 degrees. The True Field of View would then be just over 1 degree.
+2) The Apparent field of view (aka AFOV)
+As shown below, there is a metal "ring" inside the barrel of eyepieces which creates a circular hole that is looked through. This is called a "field stop".
+The diameter of this circle divided by the eyepiece focal length is an angle in radians and called the apparent field of view. It differs with each manufacturer's eyepiece design, but sets what can be seen through the eyepiece by itself.
+Changing to a second eyepiece with the same apparent field of view, but a shorter focal length, will increase the telescope magnification by spreading an image wider. The result would be that the outer parts of the first image can no longer be seen, i.e. the actual visible area is reduced. The inverse relationships, shown below, between the True Field of View and the magnification are approximate and may overestimate the TFOV.
+Notes on different eyepieces and AFOV
+Plössl eyepieces are generally designed to have an AFOV of 50°,
+DeLites use 62°,
+Delos use 72°
+and Naglers use 82°.
+★ Finderscope A small, low-power telescope (or spy glass) attached to and aligned to the main telescope. Its wider field of view makes it useful for locating celestial objects.
+★ Fireball Any meteor brighter than Venus (about magnitude -4). See also Bolide.
+★ First Point in Aries The First Point in Aries
+is considered to be the celestial prime meridian from which Right Ascension in hours is calculated. See nice diagram under Celestial Sphere.
+★ Focal length The distance, in millimetres, from the optical centre of an objective lens or mirror to the point where light rays converge to form a focused image.
+★ Focal ratio (or f-number) A telescope's focal length divided by its aperture (e.g. 600mm / 75mm = F/8).
+Or putting it another way, the focal ratio is the ratio of the focal length of the objective to the aperture (f/a). It tells how much longer the focal length is compared to the aperture.
+In the following examples:
+a 10" Dobson has an aperture size of 254mm and a focal length of 1200mm
+an 8" Celestron Schmidt Cassegrain Telescope (SCT) has an aperture size of 203.2mm and a focal length of 2032mm
+For the Dobson (f/a) = 1200/254 = 4.7x and expressed as (f/5)
+For the Celestron (f/a) = 2032/203.2 = 10x and expressed as (f/10)
+For the same aperture size and eyepiece focal length:
+a shorter focal length (e.g. f/5) takes in a wider field of view at prime focus and gives shorter exposure times for photography.
+a longer focal length telescope (e.g. f/10) takes in a narrower field of view at prime focus and gives longer exposure times (less chance of aberrations).
+★ Fraunhofer lines The dark (absorption) lines in the Sun's (or other star's) spectrum caused by specific transitions of electrons within atoms. See also Spectrum for a nice diagram with Fraunhofer lines on it.
+★ Galactic equator The great circle along the line of the Milky Way, marking the central plane of our galaxy.
+★ Galactic (or open) star cluster A group of some few hundred stars bound by gravity and moving through space together.
+★ Galaxy A huge gathering of stars, gas, and dust, bound by gravity and having a mass ranging from 100,000 to 10 trillion times that of the Sun. There are spiral, elliptical, and irregular types of galaxies.
+★ Galilean satellites Named after their discoverer, Galileo Galilei. The four brightest satellites of Jupiter: Io, Europa, Ganymede, and Callisto. Also known as the Jovian satellites.
+★ Gamma rays High-energy rays emitted from energetic sources such as quasars.
+★ Geocentric As viewed or measured from the centre of the Earth.
+★ Geocentric universe Under Ptolemy, Aristotle & other ancient civilisations, the cosmos was described with the Earth at the centre. The Sun, Moon, planets & stars all rotated around the Earth. Epicycles were used to show the retrograde movement of planets.
+★ Gibbous The phase of a moon or planet when it appears greater than a half disc, but less than a full disc. For example, the Moon is gibbous between First and Last quarter.
+★ Globular star cluster A tightly packed, spherical grouping of up to a million older stars.
+★ Graben Fault A depressed  block of crust bordered by parallel faults formed when a block of ground slips down between  the fractures in surrounding rocks. These are seen as a feature on the moon. (see image below)
+★ Granulation Mottling of the Sun's photosphere caused by upwelling cells of convecting gas breaking down into smaller cells.
+★ Gravitational Lensing A galaxy or other massive object standing between Earth and a more distant object. Its gravity bends the light from the distant object and creates distorted or multiple images of it. See the following two images.
+★ Gravity The tendency of objects with mass to accelerate toward each other. It is the result of space being bent by mass.
+★ Heliocentric As viewed or measured from the centre of the Sun.
+★ Heliocentric universe Developed under Nicolaus Copernicus & published in 1543, it had the sun at the centre of the Universe, motionless with the Earth & all the other planets rotating around our Sun.
+★ Heliosheath The region of space where the solar wind meets the interstellar medium. Expected to be found somewhere beyond Pluto in the Kuiper Belt.
+★ Hertzsprung-Russell (HR) Diagram A graph which shows every star in the sky (or in a galaxy or a cluster) whose horizontal axis gives star colour (or temperature) and whose vertical axis gives star luminosity (or absolute magnitude). It was developed independently by two astronomers: Ejnar Hertzsprung and Henry Norris Russell, in the early 1900s.
+★ Hour angle The angular measure of the distance of an object from the local meridian. (See nice image under local meridian).
+★ Hubble's Original Data Edwin Hubble found that most of the galaxies were receding from us, and the further away the faster they were going. This is information was used by him to determine that the Universe had a beginning. (See image below of Hubble's original data.)
+★ Hubble Telescope This is a famous space telescope launched into low earth orbit in 1990, named in honour of the man Edwin Hubble. He never used it. It shows breathtaking images that are much clearer than any photographs taken on earth, because it is above earth's atmosphere.
+★ International Astronomical Union (IAU) In 1933 the IAU divided the sky into 88 official constellations surrounding recognized asterisms, with precise geometric boundaries that encompass all of the stars within them. They also voted to demote Pluto from a planet to become a "dwarf planet".
+★ Inclination The angle that the plane of the orbit of one astronomical body makes with the plane of the orbit of another. Usually the reference is to the ecliptic.
+★ Inferior conjunction A conjunction where two celestial bodies appear close to one another on the same side of the Sun.
+★ Inferior (or Interior) planet A planet orbiting the Sun inside Earth's orbit i.e. Mercury and Venus.
+★ Infrared (IR) That portion of the electromagnetic spectrum with wavelengths a little longer than the reddest light visible. It extends from 750 nm (nanometers) to 1.4 μm (micrometers).
+★ Ingress The start of a satellite or shadow transit.
+★ Ion tail The straight, bluish tail of ionised gas that streams out behind a comet during its time near the Sun. See also Dust tail.
+★ Julian date Named after Julius Scaliger (not Julius Caesar). It is the number of days since noon on 1st January 4713 B.C. It is useful for astronomical observations as it saves confusion with other calendars. The starting date chosen was arbitrary, but far enough back in time for there to be no astronomical records prior to then. It is not related to the Julian calendar (which was named after Julius Caesar).
+★ Julian Year 365.25 days It is the basis for the definition of the Light Year (ly) as a unit of distance.
+★ Kepler's three laws
+First law: the planets move in elliptical orbits, with the Sun at one of the foci of the planetary ellipse.  The radius vector, measured from the sun to the planet has a very neat property.
+Second law: the area swept out by the radius vector, r, covers equal areas in equal times.
+Third law: the squares of the periods of the planets are proportional to the cubes of their semi-major axes. The three laws are useful to predict the movement of the planets.
+★ Kuiper Belt A region of our Solar System, filled with asteroids beyond Neptune. there are a number of trans-Neptunian objects (TNOs) out beyond Neptune, including the dwarf planet Pluto (among others).
+★ Kuiper Belt Object (KBO) an object in the Kuiper Belt. For example "New Horizons" is heading towards 2014MU69 which is a KBO. It plans to fly by this object on 1 January 2019.
+★ Large Magellanic Cloud (LMC) Satellite galaxy to our own Milky way, appearing to the unaided eye as a large nebulous patch situated in the constellation of Dorada. From mid-southern latitudes the LMC is circumpolar.
+★ Lifecycle of Stars See image below.
+★ Lifetime of stars The luminosity of a star is a measure of how quickly a star is using up its fuel. Therefore, the lifetime of a star can be estimated by dividing how much fuel it has (its mass) by its luminosity (mass/time).
+The lifetime of our Sun has been calculated to be 10 Billion years and  with its known mass, this this provides a standard reference.
+Hydrostatic equilibrium is maintained when a star's luminosity increases  with its mass. It is found empirically (by observation rather than  calculation) that:
+A normal star is less than or equal to 10 Solar masses.
+Stars that end up more than fifty times the mass of our  Sun are very rare. In our galaxy, only a handful are these  super-massive stars. They die in giant supernova explosions within a  million years of their birth. If the Eddington limit is reached, a  strong stellar wind will push away any in-falling matter rather than  accreting it.
+ 
+★ Light curve The change in brightness of a variable star as plotted over time on a graph.
+★ Light pollution The glow from artificial city lights, which overpowers the dim glow of fainter targets in the sky.
+★ Light year (ly) The distance that light travels in a vacuum during one Julian year: approximately 9.46 trillion km. It is used as  a measurement of astronomical distance (not time). It is the distance that light travels in 365.25 days. In scientific notation this is written as 9.461x1012 kilometres. See Units of Distance for a nice diagram.
+★ LIGO Acronym for the Laser Interferometer Gravitational Wave Observatory.  There are two in the USA, one in Washington (State) and one in Louisiana, separated by 3002 km.  They are run by Caltech and MIT.
+★ Limb The edge of a celestial body such as the Sun, the Moon, or the planets.
+★ Local Group A group of roughly 30 nearby galaxies, including the Milky Way.
+★ Local Fluff A dense warm gas cloud, approx 10 ly (light years) across that protects our Sun from deadly radiation.
+★ Local Bubble A cloud of low density gas 1630 ly (light years) across surrounding the Local Fluff.
+★ Local Meridian is  an imaginary line that runs from north to south and  goes straight over your head through what we call zenith, a point in the  sky directly above you. Also the local meridian defines midday, as it signifies the highest point the  Sun and other celestial bodies will reach in their daily arc across the  sky. Mariners practicing celestial navigation would take sun-angle  observations when the Sun reached the local Meridian to determine their  latitude.
+★ Luminosity The total intrinsic brightness of a star or galaxy. Measured in Watt /square metre..
+★ Lunar Relating to the Moon.
+★ Lunar Eclipse This is where the moon goes dark. Occurs when the Moon passes directly behind the Earth and into the Earth's shadow (Umbria). See image below.
+ 
+★ Lunation The period of time between two consecutive New Moons.
+★ MACHOs Acronym for Massive Compact Compact Halo Objects – supposed dark, massive objects surrounding our galaxy.
+★ Magnetic Field Some objects in Space have a magnetic field. The earth's magnetic field gives us a compass heading on earth, pointing North. Also the earth's magnetic field protects us from the Solar wind, and enables life to exist here.
+★ Magnification The ratio between the apparent size of an object (or its size in an image) and its true size. Calculated by dividing the telescope's focal length by the focal length of an eyepiece (e.g. 600mm / 25mm = 24 times magnification).
+Here is a better explanation.
+A simple telescope has a one objective lens and one eyepiece lens, as shown below. The prime focus is where the intermediate image forms. It forms where the objective focal length (ƒo) coincides with the eyepiece focal length (at ƒe).
+A telescope makes the stars seem further apart by increasing all the angles. This also makes objects seem bigger.  From geometry below, the blue right-angled triangles will enable the magnification to be calculated. The blue triangles have the same intermediate image heights and the tangents are as given in the diagram below.
+Therefore, Magnification is the objective focal length divided by the eyepiece focal length.
+ 
+★ Magnitude An approximately logarithmic unit used to measure the optical brightness of celestial objects. Numerically lower magnitudes are brighter than numerically higher magnitudes. From one magnitude to the next the ratio of brightness is the 5th root of 100, or approximately 2.5 times, so magnitude 1 is 100 times brighter than magnitude 6.
+★ Main Belt This is a region in the Solar System, containing many asteroids and minor planets. It lies between the orbit of Mars and Jupiter.
+★ Main Sequence From the Hertzsprung-Russell diagram, that explains the lifecycle of stars formation. The band on the HR diagram where stars lie for much of their life.
+★ Mare A plain of congealed lava on the surface of the Moon, darker than the surrounding areas.
+★ Meridian An imaginary line on the sky that runs due north and south and passes through your zenith. It is the great circle passing through the north point on the horizon, the zenith, celestial pole, & nadir at the observer's  location. (See nice image under Local Meridian).
+★ Meteor A small particle of space debris entering Earth's atmosphere at high speed that is heated to incandescence by friction with the air molecules. We see these as "shooting stars".
+★ Meteor shower A group of meteors that appear to originate from a small region of the sky (the radiant). For example the Orionids seem to be coming out or the constellation Orion.
+★ Meteor swarm (or stream) Meteoroids grouped in a localized region of an orbit around the Sun (the source of meteor showers).
+★ Meteorite A meteor that survives its trip through the atmosphere and reaches the ground. We may see evidence of these scattered through "impact craters".
+★ Meteoroid A small, solid particle moving in orbit about the Sun.
+★ Messier Object Charles Messier made a list of over 100 astronomical objects that were fuzzy like comets were, but were definitely not comets. He did not know really what they were, but his list is invaluable to us today.
+★ Milky Way The spiral galaxy in which our Solar System lies.
+The image below, is an artistic representation of what the Milky Way galaxy looks like from the outside. It is sort of flat like a pancake, with a bulge at the centre. There is a "bulgy" centre bar and spiral arms radiating out from it. Our Sun is in one of the spiral arms out near the edge (labelled in blue at the top).  As we look into the "pancake" from near the edge, it appears like a "milky" band in the sky.  This is what we see stretched out, in a band, above us at night. In other directions we can look outside our galaxy. This is where we see fewer stars.
+★ Minor planet A small rocky object which revolves around the Sun. Most lie between the orbits of Mars and Jupiter (i.e. in the Main belt) & beyond Neptune (i.e. in the Kuiper belt).
+★ Mnemonic Is a set of letters to easily remember something. The following are examples:
+The seven colours of the Rainbow - VIBGYOR- Violet, Indigo, Blue, Green, Yellow, Orange and Red. Virgins In Bed Give You Odd Results
+The Star orders by Luminosity & Brightness- OBAFGKMRNS - Oh Be A Fine Girl/Guy Kiss Me Right Now Sweetie.
+the order of the eight Planets in the Solar System - MVEMJSUN - Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune - My Very Earnest/Elderly Mother Just Sells Unripe Nectarines or alternatively Mom Visits Every Monday Just Stays Until Noon.
+★ Moon. A natural satellite that orbits a planet. Earth has one moon, which shows different phases during the month. (See image under next listing – moon phases).
+Because the moon and the Earth are dancing around each other we can generally only see one side of the moon towards us.  The moon does not produce it's own light, but only the reflected light from the sun. See below for the comparative sizes of several moons.
+★ Moon Phases The phase of something tells you how far you are through   a complete cycle.  A Lunar, or   Synodical month is the number of days between seeing the same phase.  When measured accurately, a lunar   month is 29.53 days long. Thinking in   terms of the Moon's movement around the Earth, just before a new Moon appears, the Moon appears dark because it is between the Earth and     the Sun (as shown below) and no illuminated part of the Moon is seen from     Earth.  If the Moon orbited in the     same plane as the Earth around the Sun, the Sun would be eclipsed every month,     but the Moon's orbit is in a slightly inclined plane, making eclipses of the     Sun rare.
+Note: the Moon orbits the Earth in 27.322 days and the difference between this and a Synodical moon is due to the Earth moving in its orbit.
+★ Multiple star system Three or more stars linked by mutual gravity and revolving around a common centre of mass.
+★ Nadir The point  directly below the observer, opposite the zenith. Nadir is in the direction in which gravity pulls. (See nice image under Local Meridian).
+★ Nebula (plural nebulae) It is a gas cloud formed of small molecules or dust particles. It can be dark if it is cold, or glow if it is hot.
+★ Nebulosity The faint presence of gas appearing around a star or galaxy.
+★ Neutron star A massive star's collapsed remnant consisting almost wholly of very densely packed neutrons. Also called a Pulsar.
+★ Newtonian telescope A common type of reflector telescope designed by Sir Isaac Newton.
+★ Newton's Law of Gravitation Every mass in the universe is attracted to every other mass, with a force that is directly proportional to the product of their masses & inversely proportional to the square of the distance between them.  It is useful because when one astronomical object revolves in orbit around another, gravity provides a force towards the central mass that enables the object to move in an elliptical or circular orbit.
+★ Night vision And how do I keep it working well at night? A human has eyes that have cone receptors (for colour vision), rod receptors (for black & white vision) & visual purple. Cones are active in the daytime. Rods activate in the night when the cones switch off, & are enhanced when visual purple is present. Visual purple is a chemical that takes about twenty minutes to fully accumulate.
+This is why astronomers use red light when they are observing, because it does not disturb the visual purple.  White light is frowned upon by astronomers, because if your eyes see white light, the visual purple is rapidly dissipated, & it takes another twenty minutes to accumulate again. Suggest you use red cellophane to cover any white lights from torches or from the car.
+★ NGC object This stands for New General Catalogue (compiled by Dreyer). It lists 7,840 objects. Dreyer also published two Index catalogues (IC numbers).
+★ Node One of two points (ascending and descending) at which an orbit passes through a reference plane (usually the ecliptic).
+★ Nova A white dwarf star in a binary system that brightens suddenly by several magnitudes as gas pulled away from its companion star explodes in a thermonuclear reaction.
+★ Object An observable item in the sky, a planet, star, nebula, galaxy, comet, moon, satellite, meteor etc.
+★ Objective The main light-gathering optical element in a telescope; it may be a lens or a mirror.
+★ Oblateness The ratio of a planet's polar to its equatorial diameter.
+★ Obliquity The degree of inclination (or tilt) of a planet's equator to its orbital plane.
+★ Occultation The covering up of one celestial object by a larger one, such as the Moon passing in front of a star or planet, as seen from Earth. From the Latin word "occult" meaning hidden.
+★ Oort cloud This is a distant region in our Solar System, with is the long term home of many comets. It is the limit of Solar gravity, from our Sun.
+ 
+★ Open star cluster A group of tens or hundreds of young stars bound by gravity and moving through space together; normally closer to Earth than a globular cluster.
+★ Opposition Point in a planet's orbit when it appears opposite the Sun in the sky.
+★ Optical double Two stars that appear close together in the sky but are actually chance alignments as seen from Earth. The have no interaction (like gravity, or movement around each other) because they are not really close to each other.
+★ Orbit Path followed by any celestial object moving under the control of another object's gravity.
+★ Parallax The apparent change in position of a nearby object relative to a more distant background when viewed from different points; used in astronomy to determine the distances to nearby stars.
+★ Parsec (pc) A unit of distance used by astronomers which is equal to 3.26 light years. It is defined as the distance to a celestial body whose parallax is one arcsecond. See diagram below.  See also Units of Distance.
+★ Particles of Nature We are familiar with the concept of atoms which have a central nucleus made up of protons and neutrons around which electrons are in orbit. Today Physicists generally agree that the basic building blocks are of two types of particles : Namely Leptons and Quarks. The permanent universe is made up of only the particles listed below. The remainder are essentially alternatively heavier duplicates of the previous particles and have finite lifetimes.
+Leptons

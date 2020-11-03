@@ -1,0 +1,207 @@
+The position of an outer planet when the Planet -Sun      - Earth angle is 90°
+QUANTUM
+Appertaining to the behaviour of sub-atomic particles      as described by quantum theory. Also used as an alternative      name for the photon.
+QUANTUM EFFICIENCY
+The ratio between the number of photons picked up by      a radiation detector to the number arriving at that detector.
+QUASAR
+The most extreme form of active galaxy. The most widely      accepted model for a quasar has a massive (1000-solar mass)      black hole surrounded by an accretion disc at its centre.      Material from the accretion disc spirals into the black hole      releasing up to 40 percent of its rest mass energy in the      process.
+R
+RADIAL VELOCITY
+Normally the component of the velocity of a celestial      object along the line of sight from the Earth. It is positive      when the object is moving away from the Earth, and negative      when it is moving towards us. The term is also used for the      velocity of material towards or away from some other object,      such as the surface layers of an oscillating star like a Cepheid      or the expanding nebula around a nova or supernova.
+RADIAN
+A unit for measuring angles. A complete circle (360º)      has 2o radians (6.283r), so one radian is about 57.296º.
+RADIANT
+The point In the sky from which meteors in a meteor      shower appear to diverge. It is the direction in space of      the relative velocity of the meteors with respect to the Earth.
+RADIATION PRESSURE
+The pressure exerted by light or other forms of electromagnetic      radiation.
+RADIO GALAXY
+A Galaxy emitting much more than the normal amount of      radio energy. The optically visible galaxies are often giant      elliptical galaxies with the radio emission coming from pairs      of regions on either side and well outside the visible part      of the galaxy. The radio emission can reach a million times      that of a normal galaxy. They am classed as active galaxies      and their peculiarities may be due to super-massive central      black holes as with Seyfert galaxies and quasars.
+RADIO TELESCOPE
+A telescope designed for receiving long wave radiation.      Many radio telescopes operate on similar principles to optical      telescopes and use a parabolic mirror to focus the radio waves.      The minors of such radio telescopes however have to be huge:      up to 300m in diameter, in order to gather sufficient energy      and to resolve close sources. Greater resolution and sometimes      sensitivity is obtained by using two or more such basic radio      telescopes in an interferometer. Large versions of such systems      can provide the resolution equivalent to a telescope thousands      of kilometres across, though not the sensitivity of such an      instrument, via Very Long Baseline Interferometry (VLBI).
+RAYLEIGH LIMIT
+The measure conventionally used for the angular resolution      of a telescope or other instrument.Recombination The recapture      of an electron by an ionised atom.
+RED GIANT
+A cool star of large physical size. They are stars in      the late stages of their lives, having consumed the hydrogen      in their cores and evolved off the main sequence.
+REDSHIFT OF THE GALAXIES
+The general shift of lines in the spectra of galaxies      towards longer wavelengths. The shift is greater the further      away the galaxy is from us, and it is generally taken to be      a Doppler shift due to the motion of the galaxy. The redshift,      or rather the underlying velocities, are remnants of the explosive      origin of the universe in the big bang.
+REFLECTING TELESCOPE
+A telescope which uses a mirror as its objective. The      main designs currently in use are the Cassegrain, its variant      the Ritchey - Chrétien, and the Newtonian telescopes.
+REFLECTION NEBULA
+An interstellar nebula whose presence is revealed by      reflected (scattered) light from one or more nearby stars.
+REFRACTING TELESCOPE
+A telescope which uses a lens as its objective. The      lens is usually achromatically corrected.REGOLITH The layer      of soil on the surface of an airless planet or satellite.      Mostly composed of rock and meteorite fragments.
+RESOLUTION
+The ability of an instrument to separate two close features.
+REST MASS
+The mass of an object when it is at rest with respect      to the observer. Special relativity tells us that the mass      of an object increases as its velocity increases with respect      to the observer, becoming infinite as the object reaches the      speed of light.
+RETROGRADE MOTION
+The 'unusual' direction of motion of Solar System objects.      In space this is clockwise around the Sun as seen from above      the north pole of the Sun. In the sky it is from east to west.
+RIGHT ASCENSION
+One of the measures used to determine position in the      sky. Together with declination it forms the most widely used      coordinate system in astronomy. Right ascension is the angular      distance around the equator to the meridian through the object,      measured from the first point of Aries in an easterly direction.
+RITCHEY - CHRÉTIEN TELESCOPE
+A variation on the Cassegrain telescope which has improved      images over a relatively wide field of view. The parabolic      primary mirror of the Cassegrain design is deepened to an      hyperbola in the Ritchey - Chrétien, and the secondary mirror      is a stronger hyperbola than that of the equivalent Cassegrain.      The design is now widely used for modern large telescopes.
+ROCHE LIMIT
+The closest point which a satellite held together only      by gravity can approach its primary without being disrupted      by the tidal effect of the primary. Its value is about 2.5      to 3 times the radius of the primary depending upon the densities      of the two objects. Smaller real satellites can approach closer      to their primaries than the Roche limit because of the tensile      strength of the material from which they are formed. Larger      satellites (greater than a hundred kilometres or so), where      the tensile strength is negligible, would break up at about      the Roche limit.
+ROCHE LOBE
+One of two volumes in the space around a pair of mutually      orbiting bodies wherein the gravitational field of one of      the bodies predominates. Within the Roche lobe another smaller      object will be gravitationally bound to the body at the centre      of the lobe. Outside the lobes, a small particle may swap      between the bodies, or even be lost entirely to the system.
+R-PROCESS
+A set of reactions in nucleosynthesis where neutrons      are added to nuclei more rapidly than those nuclei can undergo      radioactive decay. The process is thought to occur during      supernova explosions and to produce many of the heavier elements.
+RR LYRAE STARS
+Variable stars similar to the cepheids. They are blue      giants with periods of about ten to fifteen hours and they      change in brightness by about one magnitude.
+R TYPE STARS
+These stars are similar to those of spectral types G      and K, but with an apparent over abundance of carbon. Their      spectra therefore contain intense bands due to carbon-rich      molecules such as C2, CH and CN.
+S
+SAGITTARIUS A
+A complex radio source at the centre of the Milky Way      Galaxy. At least a part of the energy is thought to originate      from interactions in an accretion disc around a black hole      with a mass a few million times that of the Sun. SAROS A period      of about 18 years after which a sequence of similar solar      or lunar eclipses is repeated. Since the saros is not an exact      number of days, the new set of eclipses occurs about 1200      west of the preceding set.
+SATURN'S RINGS
+The spectacular aggregation of countless billions of      small rocky and icy particles that surround and orbit Saturn      in its equatorial plane. Three main rings can be seen even      in small telescopes from Earth. Despite their enormous width,      the rings are very thin, perhaps less than a kilometre thick.
+SCATTERING
+The interaction of radiation with matter in which the      photon's direction is changed. but its energy (or wavelength      or frequency) remains the same as before the interaction,      or is changed by only a very small proportion. The blue light      from the daytime sky is due to sunlight scattered in the Earth's      atmosphere. The colour occurs not because the white light      from the Sun is changed in wavelength, but because the scattering      process involved here (known as Rayleigh scattering) is much      more effective at the shorter wavelengths. Red light from      the Sun is thus scattered to a much lesser extent than the      blue light.
+SCHMIDT CAMERA
+An astronomical camera with a relatively wide field      of view, designed by Bernhard Schmidt in 1930.
+SCHMIDT-CASSEGRAIN TELESCOPE
+The Schmidt camera cannot be used visually. An adaptation      of the design however can be used to look through and now      forms one of the most popular designs for small telescopes.      The Schmidt Cassegrain telescope is similar to the Cassegrain      telescope in having a pierced primary mirror and secondary      mirror and in having the light beam coming to a focus at the      back of the telescope through the hole in the primary- It      differs in using spherical mirrors and through the addition      of a complex thin correcting lens placed close to the secondary      mirror.
+SCHWANSCHILD BLACK HOLE
+A non-rotating, electrically neutral black hole. Since      most real black holes are expected to be rotating, a pure      Schwarzschild black hole is unlikely to be found, Schwarrschild      black holes are relatively easy to deal with mathematically,      and so are still studied theoretically.
+SCLNWARZSCHILD RADIUS
+The radius of the event horizon of a Schwarzschild      black hole.
+SCINTILLATION
+The twinkling of stars caused by inhomogeneities in      the Earth's atmosphere.
+SECONDARY COSMIC RAYS
+High energy photons and sub atomic particles produced      30 to 60km up in the Earth's atmosphere by the impact of a      primary cosmic ray particle. The main particles in secondary      cosmic rays am nucleons, and pions which decay to produce      gamma rays, muons and electrons.
+SEEING
+A component of scintillation which arises from low altitude      turbulence in the Earth's atmosphere. The effects can often      be reduced by careful design of the observatory building,      by equating the observatory and telescope temperatures to      the ambient temperature and by planting low growing shrubs      around the observatory.
+SEMI-MAJOR/SEMI-MINOR AXES
+The longest and shortest radii of an ellipse. Usually      used in respect of the orbits of planets and other objects.
+SERN-REGULAR VARIABLE
+A variable star whose changes are more-or-less repetitive      but where the intervals between the changes can vary irregularly.      The variables are usually medium to cool giants or supergiants,      and their periods can average from 20 days to five or more      years. The brightness changes can be by up to four magnitudes,      and they arise from pulsations of the star.
+SEYFERT GALAXIES
+A class of spiral and barred spiral galaxies with small      but very bight nuclei whose spectra show emission lines. The      Seyfert galaxies are subdivided into two types depending on      their emission lines. The phenomena in Seyfert galaxies are      widely thought to be due to interactions in an accretion disc      surrounding a massive black hole at the centre of the galaxy.      It is possible that Seyfert galaxies are less energetic versions      of quasars.
+SHELL STAR
+A star which is surrounded by an extensive shell of      gas. The majority of shell stars are of spectral class B,      and may be at the stage of just evolving away from the main      sequence.
+SIDEREAL PERIOD
+The period of something with respect to The stars (or      to the rest of the Universe). Most often used for the orbital      motion and rotation of the planets and other Solar System      objects, hence sidereal orbital periods and sidereal rotation      periods. The sidereal orbital period of the Earth is one year.      The sidereal rotation period of the Earth is about 23 hours      56 minutes. The Earth's orbital motion over a day means that      an extra four minutes is required for the Sun to return to      the same position in the sky.
+SIDEREAL TIME
+A measure of time based upon the motion of the stars      and other fixed objects in the sky. not upon the motion of      the Sun. Sidereal time enables the hour angle of an object      to be found from its right ascension (hour angle sidereal      time - right ascension).
+SIGNAL TO NOISE RATIO
+The ratio of the intensity of the desired signal to      the intensity of the background noise. A minimum S/N ratio      pf one is normally needed in order to have detected the object      being measured, but S/N ratios of five or better are needed      for reliable measurements.
+SINGULARITY
+A point in space, such as at the centre of a black hole,      where the density of matter is theoretically infinite according      to the current laws of physics.
+SOLAR APEX
+The direction in space towards which the Sun, and the      rest of the Solar System, is moving. It is in the constellation      of Hercules, about 12 southwest of Vega (a Lyr).
+SOLAR CONSTANT
+The amount of energy per square metre received from      the Sun at the top of the Earth's atmosphere. Its value is      about 1.37kw m<.
+SOLAR NEUTRINO PROBLEM
+The difference, by a factor of three, between the observed      intensity of neutrinos from the Sun and their theoretically      predicted intensity.
+SOLAR WIND
+A stream of particles such as protons, electrons and      ions moving radially outwards from the Sun.
+SOLSTICE
+The points on the ecliptic with the most northerly and      southerly declinations, also the times of year when the Sun      is at those points. The summer solstice, when the Sun is highest      in the sky for northern observers, occurs on or about June      21 and the winter solstice on or about December22.
+SPACE-TIME
+The combination of the three normal dimensions of physical      space with time as a fourth dimension that is used to describe      the properties of the Universe in the special and general      relativity theories.
+SPECIAL RELATIVITY
+The theory which describes the laws of physics applying      to observers and systems that are in relative motion with      respect to each other at constant velocities
+SPECTRAL CLASSIFICATION
+A classification of stars based upon the appearance      of their spectra. The spectrum lines present in a spectrum      depend upon the surface temperature of the star, so spectral      classification is also a temperature classification of the      stars. The classes are labelled with upper case letters, in      the order: 0, B, A, F, O,K, M.
+SPECTRAL INDEX
+For astronomical radio sources the intensity often varies      with frequency in an exponential fashion. The power of the      frequency, 0, is the spectral index. It takes values around      +1 for thermal radio sources and around -1 for synchrotron      and other non-thermal origins for the radiation.
+SPECTROHELIOGRAM
+A narrow band image of the Sun obtained using a spectrohelioscope.      The spectrohelioscope is a spectroscope in which a second      slit is used at its focus to isolate a small part of the spectrum,      usually centred on the hydrogen Ha line or the calcium H or      K lines. Spectroheliograms show a layer of the Sun in the      chromosphere some 2,000 to 4,000km above the photosphere.      Features such as flares, filaments, prominences and plages.      which are very difficult or impossible to observe in white      light, are clearly revealed on spectroheliograms.
+SPECTROPHOTOMETRY
+The study of brightness variations over a spectrum.
+SPECTROSCOPE
+A device for splitting light up into its component wavelengths      (colours). The terms spectrograph and spectrometer may also      be encountered.
+SPECTRUM
+The electromagnetic spectrum is the full range of electromagnetic      radiation. This comprises, going from the longest observed      wavelengths to the shortest: radio waves, microwaves, infrared,      visible, ultraviolet, X-rays and y rays.
+SPECTRUM LINES
+The dark, or occasionally bright, very narrow features      to be seen in a spectrum - They arise from absorption or emission      of photons by atoms, ions and molecules in the object.
+SPHERICAL ABERRATION
+A fault in the image produced by an optical instrument      in which the light rays towards the edge of a light beam passing      through the instrument come to a focus at a different point      from those near the centre of the beam.
+SPICULE
+A needle-like feature of the solar chromosphere projecting      upwards into the corona. They are typically 1,000km wide and      10,000km long, and last for 10 to 20 minutes They may be seen      projected against the solar disc on spectroheliograms where      they have a netlike distribution, which probably arises from      the pattern of convection some distance below the photosphere.
+SPIRAL GALAXIES
+A galaxy with a prominent spiral shape - In ordinary      spirals two or three spiral arms emerge directly from the      nucleus, in barred spirals there is a linear extension to      the nucleus (the bar) and the arms extend out from the ends      of the bar.
+STEADY STATE THEORY
+A theory of cosmology due to Herman Rondi, Tommy Cold      and Fred Hoyle which they proposed in 1948. The theory was      unable to give credible explanations for modern discoveries      such as the microwave background radiation, and so has now      generally been superseded by the big bang theories.
+STEFAN'S LAW
+A law giving the energy emitted by a black body as a      function of its temperature, also known as the Stefan Boltzmann      law.
+S-TYPE STARS
+A giant star with a surface temperature of about 3,500K.      This is the same temperature range as for the M type stars,      and S type stars are differentiated by the presence of zirconium      band in their spectra in place of titanium oxide bands.
+SUB-DWARF
+A star that has about 20 to 40 percent of the luminosity      of a main sequence (dwarf) star of the same temperature. They      are old stars (population II), with low abundances of the      heavier elements and the latter is the cause of their low      luminosities.
+SUB GIANT
+A star found between the main sequence and the giant      region of the Hertzsprung-Russell diagram. They are evolving      towards becoming giants.
+SUPERNOVA
+A star brightening to between 10,000,000 and 1,000,000,000      times the luminosity of the Sun over a few weeks. Type I supernovae      are the brightest and originate from close binary stars where      one component is a white dwarf which is accreting material      from its companion. The supernova is caused by the collapse      of the white dwarf to a neutron star when its mass exceeds      the Chandrasekhar limit. Type II supernovae are the end points      in the evolution of stars with masses seven more times that      of the Sun.
+SUPERNOVA REMNANT
+The nebulous remains of a supernova explosion, abbreviated      as SNR. The nebula originates as the outer layers of the star      and is blasted out into space during the explosion.
+SYNCHROTRON RADIATION
+Radiation, usually but not always at long wavelengths,      which originates from very fast moving( electrons spiralling      around magnetic fields.
+SYNODIC PERIOD
+The period (orbital or rotational) as observed from      the Earth. Since the Earth is moving around the Sun, the synodic      period differs from the true (or sidereal) period. Thus the      synodic period, of the Moon (i.e. the lunar month) is 29.5      days whereas its orbital period is 27.3 days.
+T
+TEKTLTE
+A glassy pebble which often shows signs of atmospheric      ablation and of having been molten whilst travelling through      space or the Earth's atmosphere. They are almost certainly      debris from meteorite impacts with the Earth.
+TELESCOPE
+Any device which gathers radiation and improves angular      resolution.
+TELESCOPE MOUNTING
+Any device to hold, point and move a telescope. For      terrestrial telescopes most mountings are either equatorial      or alt-azimuth.
+TERMINATOR
+The line dividing The light and dark halves of a planet      or satelife. The term is per)culark used with reference to      the Earth's Moon.
+TERRESTRIAL PLANET
+A small rocky planet like the Earth. The terrestrial      planets are Mercury, Venus, Earth and Mars.
+THERMAL ENERGY
+The energy of a substance due to the random thermal      motions of its constituent atoms, ions or molecules.
+THERMAL RADIATION
+Electromagnetic radiation originating from any substance      whose temperature is above absolute zero, by reason of its      temperature. The spectrum of thermal radiation is often very      close to that of black body radiation.
+TIDE
+An effect arising from the gravitational differences      across an object caused by a second object.
+TRANSFER ORBIT
+An orbit which enables a spacecraft to move (transfer)      from one object to another. The lowest energy transfer orbit,      called a Hdhmann transfer orbit, is an ellipse which is tangential      to the orbits of the two objects between which the spacecraft      is travelling.
+TRANSIT
+The passage of an angularly small object in the sky      in front of an angularly larger object. Also the passage,      during its daily motion, of any object in the sky across the      prime meridian.
+TRIPLE a PROCESS
+The nucleosynthesis reaction in which three helium nuclei      (a particles) are converted to a single carbon nucleus. The      reaction powers the later stages of stars of the Sun's mass      or greater. It requires temperatures in excess of 100,000,000K      before it becomes a significant source of energy.
+TWIAN POINTS
+Two points in the orbit of Jupiter (and theoretically      other planets as well) where small objects such as asteroids      have stable positions. The points are 600 ahead and behind      Jupiter.
+TROPCSPHERE
+The lowest layer in the atmospheres of the Earth and      other planets. For the Earth it extends to a height of about      15km.
+T TAURI STARS
+Cool, young, irregularly variable stars, often associated      with gaseous nebulae such as the Orion nebula (M42). The stars      have formed relatively recently from within the nebulae and      are evolving towards the zero age main sequence.
+U
+UBV SYSTEM
+A widely used system for defining the wavelengths at      which star's magnitudes are measured. The letters stand for      ultraviolet, blue and visual.
+ULTRAVIOLET.
+The part of the electro-magnetic radiation spectrum      with wavelengths just shorter than those in the visual range.      It extends from about 380nm to 100nm..
+UMBRA
+The central and darkest part of a shadow. Within the      umbra the light source is totally obscured. Outside the umbra      is the penumbra wherein the light source is partially visible.      During solar eclipses, the eclipse can only be seen as total      from within the umbral part of the Moon's shadow. During lunar      eclipses, the eclipse is normally only detectable to the eye      when the Earth's umbra shadow is on the Moon. Also the central      and darkest part of the sunspot is called the umbra, and the      outer region, the penumbra.
+UNCERTAINTY PRINCIPLE
+The principle, due to Werner Heisenberg, that there      is a limit to the precision with which two related quantities      can be measured simultaneously. It becomes important at atomic      and smaller scales.
+UNIVERSAL TIME (UT)
+Time based upon the Earth's rotation and the basis for      civil time keeping. It is essentially the same as Greenwich      Mean Time.
+UNIVERSE
+Everything there is, both known and unknown. As well      as obvious components like matter and radiation, the Universe      includes the fabric of space itself.URCA PROCESS A process      whereby neutrinos are produced in large numbers within supernovae.
+V
+VAN ALIEN BELTS
+Two regions within the Earth's magnetosphere where energetic      charged particles are trapped. The regions are shaped like      ring doughnuts with the holes aligned with the Earth's magnetic      poles.
+VARIABLE STAR
+A star, one or more of whose properties changes with      time. The most widespread use of the term is for photometric      variables, where the brightness of the star changes. This      can arise from changes to the star itself external factors      such as eclipsing binary stars (extrinsic variables). Changes      can also occur within the spectrum and/or to the polarisation      of the light from the star, resulting in spectroscopic and      polarimetric variables etc.
+VERNAL EQUINOX
+A synonym for first point of Aries.
+VERY LONG BASE LINE INTERFEROMETRY (VLBI)
+Interferometry, so far only at radio wavelengths, where      the component aerials of the interferometer are separated      by 1000's of kilometres. The large separation enables observations      to be made at resolutions of 0.001" or better, but also means      that the signals cannot be mixed directly as in a conventional      interferometer. Instead the signals are recorded along with      time signals from an atomic clock, and the recordings then      combined afterwards.VIGNETTING Shadowing of the image plane      due to components within the optical system.
+VISUAL MAGNITUDE
+The magnitude of an object measured in the visual part      of the spectrum. This may be estimated by eye, or as in the      UBV system, filters used to define the waveband..
+W
+WAVELENGTH
+The linear distance between two crests or troughs in      a set of waves. It is most usually applied to electromagnetic      radiation and sound.
+WHITE DWARF
+One of a group of stars found in the bottom left of      the Hertzsprung-Russell diagram; This corresponds to high      surface temperatures and low luminosities, implying very small      sizes for the stars. White dwarfs represent the end points      of the lives of solar type stars. There is a maximum mass      for a star to remain as a white dwarf of about 1.4 times the      mass of the Sun. This is known as the Chandrasekhar limit.      If a white dwarf should exceed that mass, then it will collapse      to a neutron star.
+WIDMANSTATTEN PATTERN
+A regular pattern with in some types of iron meteorite      arising from the intergrowth of crystals of nickel-iron which      have slightly differing compositions.
+WIISON-BAPPU EFFECT
+An effect whereby the absolute magnitude of the cooler      stars correlates with the strength of the emission core of      the ionised calcium at 393nm. The cause of the effect is not      understood, but it can be used to determine the star's distance      by comparing its absolute and apparent magnitudes.
+WOLF NUMBER
+A parameter used to estimate the strength of sunspot      activity.
+WOLF-RAYET STAR
+A very hot, large star with apparent compositional peculiarities.      The stars are losing mass very rapidly in the form of a high      velocity stellar wind. They may be the cores of massive stars,      revealed by the loss of their outer layers to the stellar      wind and where their abundance peculiarities are just

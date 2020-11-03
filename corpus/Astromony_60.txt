@@ -1,0 +1,101 @@
+Last updated:
+July 1, 2017
+You've probably seen or heard many unfamiliar terms while researching telescopes. We've included the definitions of some of the most commonly used words in astronomy as a quick and easy reference.
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Altazimuth Mount
+A type of telescope mount that moves up and down (altitude), and side to side (azimuth) similar to a camera tripod.
+Altitude and Azimuth
+The two positions in the horizontal coordinate system. Altitude refers to the angle between the observer's horizon and the object. Azimuth refers to the angle of the object along the horizon measured from north to east.
+Aperture
+Aperture is the diameter of the telescope's light-gathering lens or mirror. The larger the aperture, the more light will be collected resulting in brighter and sharper images. Aperture is typically measured in millimetres or inches.
+Apparent Field of View
+The angular diameter (in degrees) of the image viewed through the eyepiece. It is a property of the eyepiece.
+Apparent Magnitude
+A number that is the measure of the brightness of a celestial object to the naked eye. The lower the value, the brighter the object appears.
+Asteroid
+A minor planet orbiting the Sun with a diameter greater than one metre and mainly composed of minerals and rock.
+Astigmatism
+A type of optical aberration where light does not come to focus on a single plane. Most telescope designs do not suffer from noticeable astigmatism.
+Astronomical Unit (AU)
+The average distance between the Earth and the Sun used to measure distances within our Solar System. One AU is about 93 million miles or 150 million kilometres.
+Astronomy
+The study of celestial objects and phenomena.
+Astrophotography
+Taking photographs of celestial objects and phenomena.
+Aurora
+A natural light display in the sky produced by the interaction of charged particles when solar wind disturbs the magnetosphere. Known as Aurora Borealis in the Northern Hemisphere and Aurora Australis in the Southern Hemisphere.
+Averted Vision
+Viewing an object by looking slightly off to its side and not directly at it. This allows fainter details to appear.
+Barlow Lens
+A lens used along with an eyepiece that increases the telescope's focal length and the magnification of the eyepiece. A 2x Barlow would double the eyepiece's magnification.
+Binary Star
+A system of two stars that orbit around their common center of mass. Also known as double stars.
+Binoculars
+An optical device with a lens for each eye used to view distant objects.
+Catadioptric Telescope
+Also known as a compound telescope. Uses a hybrid design with a combination of lenses and mirrors in a sealed tube which fold the optical path to form an image. This provides a focal length much longer than the length of the compact optical tube. They are more commonly known by the two popular designs: Schmidt-Cassegrain and Maksutov-Cassegrain.
+Celestial Object
+A natural object that exists in the Universe and is located outside of Earth's atmosphere.
+Celestial Sphere
+An imaginary sphere with a large radius and the Earth located at its center. An observer can view celestial objects as though they are projected on to the inner surface of the celestial sphere.
+Chromatic Aberration
+A type of optical aberration present in some refractor telescopes. When light passes through the objective lens, each wavelength of light is refracted by a different amount and the colors fail to converge at the same focal point. Think of the rainbow effect of light passing through a glass prism. Chromatic aberration is typically seen as color fringing around bright objects, like a purple halo around planets and stars.
+Collimation
+The process of manually adjusting the mirrors of a telescope when they are out of alignment.
+Coma
+A type of optical aberration (comatic) present in Newtonian reflector telescopes. With coma, stars appear distorted near the edge of the field of view while stars in the center of the field of view are unaffected.
+Comet
+A large ball of ice and rock that orbits the Sun. When a comet passes close to the Sun, it releases gas forming a coma (gas cloud) and a tail. Comets can range in size from hundreds of metres to tens of kilometres in diameter.
+Compound Telescope
+See 'Catadioptric Telescope'
+Computerized Telescope
+A telescope on a GoTo mount with a small motor drive, built-in computer and hand-held controller which allows you to look up celestial objects in a database. The GoTo will automatically locate the specific object and track its movement across the sky.
+Conjunction
+When two planets or celestial objects are aligned so that they have the same right ascension and appear to be close together as observed from Earth. It is caused by the perspective of the observer as the two objects involved are not actually close to each other in space.
+Constellation
+A recognizable grouping of stars that form a pattern. There are 88 constellations which are typically named after animals, mythological characters or objects.
+Cooldown Time (Thermal Stabilization)
+The time required for a telescope's optics to be brought to ambient temperature for optimal viewing.
+Dark Adaptation
+The adjustment of the eyes to darkness or low light conditions. Dark adaptation is necessary to see faint objects.
+Declination
+One of two angles used to locate a point on the celestial sphere. It is comparable to geographic latitude.
+Deep-Sky Objects (DSO)
+Celestial objects that are not individual stars and are outside of our Solar System such as star clusters, nebulae and galaxies.
+Dobsonian
+A simplified altazimuth mount for Newtonian reflectors. The mount sits on the ground, swivels 360 degrees and moves up and down.
+Double Star
+See 'Binary Star'
+Eclipse
+When a celestial object like a moon or planet temporarily moves into the shadow of another celestial object. A Lunar Eclipse occurs when the Earth blocks the sun and the Earth casts a shadow on the moon. A Solar Eclipse occurs when the moon blocks the sun and the moon casts a shadow on the Earth.
+Ecliptic
+The circular path on the celestial sphere that the Sun appears to follow over the course of a year.
+Equatorial Mount (EQ)
+A type of telescope mount that is more precise than an altazimuth mount and better for astrophotography. Aligning one axis with Polaris allows you to adjust only the polar axis to track an object as the Earth rotates.
+Equinox
+One of two times per year when the Sun crosses the plane of the Earth's equator causing day and night to be of equal length.
+Exit Pupil
+The width of the cone of light that exits the eyepiece at the exact eye relief distance.
+Eyepiece
+The part of the telescope that you look into. They are typically 1.25″ or 2″ in diameter. To change the telescope's magnification, you can switch eyepieces with different focal lengths.
+Eye Relief
+The distance between the eyepiece lens and the observer's eye while still being able to see the entire field of view. Outside of this distance, the observer will see a reduced field of view.
+Field of View (FOV)
+See 'Apparent Field of View' and 'True Field of View'
+Filter
+An accessory that attaches to the bottom of an eyepiece to enhance details of celestial objects. Neutral density or polarizing filters can reduce glare from bright objects like the moon. Color filters can enhance specific planetary details by blocking certain wavelengths of light.
+Finderscope
+An optical device attached to a telescope used to locate a celestial object and aim the telescope in its direction.
+Focal Length
+The distance from the objective lens or mirror to the focal point.
+Focal Point
+The point where parallel rays of light meet after passing through a lens or reflecting off of a mirror.
+Focal Ratio (f/ratio)
+Equal to the focal length of a telescope divided by its aperture size. A telescope with a focal length of 1200mm and an 8″ (203mm) aperture would have a focal ratio of f/5.9.
+Focuser
+A device attached to the telescope into which an eyepiece is inserted. It can be adjusted to bring the image viewed through the telescope into focus. Types of focusers include helical, rack and pinion, and Crayford.
+Galaxy
+A system of stars, gas, dust, and dark matter that is gravitationally bound.
+Globular Cluster
+A spherical collection of stars that is tightly bound by gravity and has a high stellar density towards its center. They are found orbiting in the outer regions of a galaxy. Globular Clusters are much older and contain more stars than Open Clusters.
+GoTo

@@ -1,0 +1,1535 @@
+ -3.499 Italy
+ -4.327 Astronomy
+ -4.355 Peer review
+ -4.371 Moon
+ -4.377 Cartography
+ -4.471 Asteroid
+ -4.509 Mars
+ -4.525 Canary Islands
+ -4.558 Sun
+ -4.581 Bhutan
+ -4.631 History of geodesy
+ -4.713 Electron
+ -4.718 Light
+ -4.729 Ming Dynasty
+ -4.738 Comet
+ -4.747 Infrared
+ -4.762 Italians
+ -4.771 Planet
+ -4.787 Selenographic coordinates
+ -4.797 Islamic calendar
+ -4.800 San Jose, California
+ -4.812 Glass
+ -4.814 Wavelength
+ -4.824 KStars
+ -4.839 Minute of arc
+ -4.870 Galileo Galilei
+ -4.883 Surveying
+ -4.887 Astronomical unit
+ -4.899 Jupiter
+ -4.908 Refractive index
+ -4.909 Apparent magnitude
+ -4.940 Helium
+ -4.945 Computer graphics
+ -4.972 European Space Agency
+ -4.988 Semaphore line
+ -4.994 Tank
+ -4.997 Scattered disc
+ -5.003 University of Arizona
+ -5.008 Ornithology
+ -5.009 Saturn
+ -5.021 Spectroscopy
+ -5.023 Astrophysics
+ -5.029 Right ascension
+ -5.046 Google Earth
+ -5.053 Spacecraft
+ -5.062 Parsec
+ -5.085 James Clerk Maxwell
+ -5.087 Viking Age
+ -5.104 Arthur Wellesley, 1st Duke of Wellington
+ -5.105 Sidereal time
+ -5.109 Heliograph
+ -5.109 Rocket
+ -5.110 Philo Farnsworth
+ -5.126 Mercury (planet)
+ -5.129 Microscope
+ -5.134 Matter
+ -5.148 Extraterrestrial life
+ -5.148 Johannes Kepler
+ -5.149 Lithium
+ -5.151 Squid
+ -5.166 Neptune
+ -5.170 Liège
+ -5.171 Supernova
+ -5.177 Lincoln Near-Earth Asteroid Research
+ -5.192 Image
+ -5.193 Hawaii (island)
+ -5.193 Functional programming
+ -5.222 Uranus
+ -5.224 Equatorial coordinate system
+ -5.230 Aperture
+ -5.233 History of Christianity
+ -5.235 Parallax
+ -5.238 Observation
+ -5.242 Retrograde and prograde motion
+ -5.246 Nicolaus Copernicus
+ -5.250 Star catalogue
+ -5.254 History of Europe
+ -5.257 Binary star
+ -5.276 Big Bang
+ -5.285 Observatory
+ -5.287 Robert Hooke
+ -5.287 Astrometry
+ -5.306 Camera lens
+ -5.311 Scientific revolution
+ -5.319 Abū Rayḥān al-Bīrūnī
+ -5.328 Near-Earth Asteroid Tracking
+ -5.329 Astronomy in medieval Islam
+ -5.342 Orders of magnitude (numbers)
+ -5.350 Variable star
+ -5.350 Mirror
+ -5.351 Proper motion
+ -5.353 Focal length
+ -5.356 Optical engineering
+ -5.375 Christopher Wren
+ -5.376 Space exploration
+ -5.376 Geocentric model
+ -5.377 Edmond Halley
+ -5.378 Parabola
+ -5.399 Birdwatching
+ -5.407 List of asteroid-discovering observatories
+ -5.408 Heliocentrism
+ -5.446 Alhazen
+ -5.447 Cartagena, Colombia
+ -5.448 Christiaan Huygens
+ -5.453 Titan (moon)
+ -5.461 Camille Saint-Saëns
+ -5.464 Battle of Trafalgar
+ -5.471 Eris (dwarf planet)
+ -5.473 Broad gauge
+ -5.474 Space probe
+ -5.478 History of cartography
+ -5.478 Chromatic aberration
+ -5.482 Redshift
+ -5.484 Rings of Saturn
+ -5.489 Indian astronomy
+ -5.491 Hydrogen cyanide
+ -5.493 Sir George Stokes, 1st Baronet
+ -5.495 Luminosity
+ -5.496 Muḥammad ibn Mūsā al-Khwārizmī
+ -5.503 Astrolabe
+ -5.503 Tycho Brahe
+ -5.519 Quasar
+ -5.522 Wernher von Braun
+ -5.524 Globular cluster
+ -5.529 Lanthanum
+ -5.531 Carl Zeiss AG
+ -5.531 Light pollution
+ -5.538 Grand Duchy of Tuscany
+ -5.543 Measuring instrument
+ -5.544 European Southern Observatory
+ -5.554 George Biddell Airy
+ -5.560 Aldershot
+ -5.561 Amateur astronomy
+ -5.567 Nasir al-Din al-Tusi
+ -5.572 Diversity of fish
+ -5.582 Al-Kindi
+ -5.584 Anderson Mesa Station
+ -5.588 Moons of Jupiter
+ -5.594 Google Sky
+ -5.594 Occultation
+ -5.600 Johnny Carson
+ -5.600 Open cluster
+ -5.605 Philippine Atmospheric, Geophysical and Astronomical Services Administration
+ -5.610 Richmond Park
+ -5.615 Deep Impact (spacecraft)
+ -5.621 Optical microscope
+ -5.631 Andromeda Galaxy
+ -5.632 Astrochemistry
+ -5.633 William Herschel
+ -5.635 Magic in Harry Potter
+ -5.636 Jeremiah Horrocks
+ -5.638 Space observatory
+ -5.639 Spitzer Space Telescope
+ -5.644 Radio telescope
+ -5.645 Theodolite
+ -5.647 United States Capitol rotunda
+ -5.649 Armillary sphere
+ -5.650 Ohio Wesleyan University
+ -5.653 Gravitational lens
+ -5.655 Space Shuttle Columbia
+ -5.661 Perspective distortion (photography)
+ -5.662 Solar variation
+ -5.664 List of photographic equipment makers
+ -5.665 List of tallest buildings and structures in the world
+ -5.669 Sunspot
+ -5.675 Iron sight
+ -5.677 Comet Hale–Bopp
+ -5.678 Qutb al-Din al-Shirazi
+ -5.679 Frederick Reines
+ -5.680 Betelgeuse
+ -5.684 Papier-mâché
+ -5.690 Aristarchus of Samos
+ -5.694 Fused quartz
+ -5.698 Makemake (dwarf planet)
+ -5.699 Robert Hofstadter
+ -5.705 Science in the Middle Ages
+ -5.705 List of most luminous stars
+ -5.708 Pentax
+ -5.714 Rings of Jupiter
+ -5.714 Timeline of Chinese history
+ -5.726 Balloon (aircraft)
+ -5.727 Refracting telescope
+ -5.738 Orion (constellation)
+ -5.740 Street light
+ -5.745 Pleiades
+ -5.746 Australian Geographic
+ -5.747 Stellar parallax
+ -5.747 Chinese astronomy
+ -5.748 Coma (cometary)
+ -5.750 24th century
+ -5.756 Christian VIII of Denmark
+ -5.759 List of Greek words with English derivatives
+ -5.762 Exocomet
+ -5.765 H II region
+ -5.768 Apollo Command/Service Module
+ -5.771 Cornhill, London
+ -5.775 Attitude control
+ -5.775 Magnification
+ -5.776 Far side of the Moon
+ -5.777 Transit of Venus
+ -5.780 Russell's teapot
+ -5.783 William Kwong Yu Yeung
+ -5.783 Galilean moons
+ -5.785 Optical telescope
+ -5.789 Atmospheric refraction
+ -5.794 Optical aberration
+ -5.797 Role of the Catholic Church in Western civilization
+ -5.797 Moon landing
+ -5.802 Chandra X-ray Observatory
+ -5.808 Timekeeping on Mars
+ -5.811 Darian calendar
+ -5.812 Transit (astronomy)
+ -5.818 Infrared astronomy
+ -5.818 Sydney Harbour Bridge
+ -5.820 Thermographic camera
+ -5.820 Frits Zernike
+ -5.827 Zoom lens
+ -5.843 Anti-reflective coating
+ -5.846 Atmosphere of Jupiter
+ -5.846 Proxima Centauri
+ -5.853 Aristotelian physics
+ -5.858 Messier object
+ -5.859 Objective (optics)
+ -5.861 Double star
+ -5.862 Bloomsburg, Pennsylvania
+ -5.868 Europa (mythology)
+ -5.868 List of German inventors and discoverers
+ -5.869 Comet Pojmański
+ -5.872 C-type asteroid
+ -5.872 Centrifugal casting (silversmithing)
+ -5.876 David Brewster
+ -5.881 Paraboloid
+ -5.882 Geography of Mars
+ -5.882 Seicento
+ -5.884 41P/Tuttle–Giacobini–Kresák
+ -5.885 List of Arabic star names
+ -5.887 Comet tail
+ -5.888 Viewfinder
+ -5.892 Huygens (spacecraft)
+ -5.892 Observational astronomy
+ -5.895 Geology of the Moon
+ -5.898 Adaptive optics
+ -5.903 Photometry (astronomy)
+ -5.903 Cydonia (region of Mars)
+ -5.906 Great Comet of 1680
+ -5.909 Joint Dark Energy Mission
+ -5.913 Science and technology in the United States
+ -5.916 Naked eye
+ -5.919 Tarleton State University
+ -5.921 Indirect fire
+ -5.929 Technological and industrial history of the People's Republic of China
+ -5.929 List of The Incredibles characters
+ -5.934 Diffraction-limited system
+ -5.935 Aquarius (constellation)
+ -5.937 Pan-STARRS
+ -5.938 Spherical aberration
+ -5.939 Jack Sparrow
+ -5.941 Oliver Smithies
+ -5.943 Near Earth Object Surveillance Satellite
+ -5.944 Science and technology in Iran
+ -5.944 Star of Bethlehem
+ -5.945 European and American voyages of scientific exploration
+ -5.945 List of English inventions and discoveries
+ -5.946 Iapetus (moon)
+ -5.952 Taqi al-Din Muhammad ibn Ma'ruf
+ -5.953 Image stabilization
+ -5.956 Visible-light astronomy
+ -5.958 Sextant
+ -5.959 Banū Mūsā
+ -5.966 History of Bhutan
+ -5.970 STD Bus
+ -5.972 Sijzi
+ -5.972 Astronomical seeing
+ -5.972 Charles Algernon Parsons
+ -5.973 Cancer (constellation)
+ -5.976 List of Chinese inventions
+ -5.982 History of Western civilization
+ -5.985 Planets in science fiction
+ -5.985 Periscope
+ -5.986 Meridian circle
+ -5.988 Museum of the History of Science, Oxford
+ -5.988 Gamma Andromedae
+ -5.991 Lowell Observatory
+ -5.993 The Book of Healing
+ -5.993 Haleakalā National Park
+ -5.996 Astronomical interferometer
+ -5.996 Solar telescope
+ -5.997 Equatorial mount
+ -5.998 Photometric-standard star
+ -6.001 Orion Nebula
+ -6.009 Xinglong Station (NAOC)
+ -6.010 Mural instrument
+ -6.012 Israel Space Agency
+ -6.016 Philipp Franz von Siebold
+ -6.016 Muḥammad ibn Jābir al-Ḥarrānī al-Battānī
+ -6.016 Jamshīd al-Kāshī
+ -6.017 Intussusception (medical disorder)
+ -6.018 Peel, Isle of Man
+ -6.027 Mirage
+ -6.028 Grove City College
+ -6.029 Clementine (spacecraft)
+ -6.029 Vision in fishes
+ -6.030 Cranbrook Educational Community
+ -6.032 Glass-ceramic
+ -6.037 Encyclopedia of the Brethren of Purity
+ -6.037 Ulugh Beg
+ -6.038 Book of Optics
+ -6.039 Crimean Astrophysical Observatory
+ -6.039 Great Observatories program
+ -6.039 Albireo
+ -6.041 Thābit ibn Qurra
+ -6.048 Galaxy group
+ -6.055 List of NASA missions
+ -6.056 Selenography
+ -6.059 Maria Mitchell
+ -6.060 Wesel
+ -6.063 Maragheh observatory
+ -6.065 Christianity in the 17th century
+ -6.066 Astigmatism
+ -6.067 International Ultraviolet Explorer
+ -6.068 Abu Ma'shar al-Balkhi
+ -6.075 10 Hygiea
+ -6.080 National Museum of Nature and Science
+ -6.082 Al-Khazini
+ -6.082 List of laser applications
+ -6.082 Johannes Hevelius
+ -6.085 Conceptual metaphor
+ -6.086 Mike, Lu & Og
+ -6.087 3 Juno
+ -6.088 International Year of Astronomy
+ -6.088 Abū Ishāq Ibrāhīm al-Zarqālī
+ -6.092 Orbiting Carbon Observatory
+ -6.092 Abd al-Rahman al-Sufi
+ -6.093 Rangaku
+ -6.094 17th century
+ -6.100 Airy disk
+ -6.104 Ahmad ibn Muhammad ibn Kathīr al-Farghānī
+ -6.104 History of science and technology in Mexico
+ -6.106 Gravity Probe B
+ -6.109 Science and technology in Bulgaria
+ -6.111 Peter Barlow (mathematician)
+ -6.113 Copernican heliocentrism
+ -6.115 Outline of astronomy
+ -6.116 Athīr al-Dīn al-Abharī
+ -6.118 List of Sharpe series characters
+ -6.119 Library Company of Philadelphia
+ -6.119 Telerobotics
+ -6.119 Margaret Burbidge
+ -6.120 Ali Qushji
+ -6.125 Angular distance
+ -6.126 List of Greek and Latin roots in English
+ -6.127 Gliese 581 d
+ -6.131 Western Connecticut State University
+ -6.140 Bedford School
+ -6.143 Monoceros
+ -6.144 STS-35
+ -6.146 Spaceguard
+ -6.148 Scientific instrument
+ -6.149 Abū Ja'far al-Khāzin
+ -6.152 Light curve
+ -6.154 Zij
+ -6.154 Big Dipper
+ -6.156 Altazimuth mount
+ -6.158 Al-Birjandi
+ -6.162 Definition of planet
+ -6.165 English words of Greek origin
+ -6.167 Abu-Mahmud Khojandi
+ -6.167 Birr
+ -6.170 Paranal Observatory
+ -6.171 List of constellations
+ -6.171 Antares
+ -6.174 Amateur telescope making
+ -6.176 History of science policy
+ -6.177 Tau Ceti
+ -6.177 Roger Joseph Boscovich
+ -6.177 Flag of New England
+ -6.180 Barnard's Star
+ -6.184 Terrestrial Planet Finder
+ -6.192 United States Space Surveillance Network
+ -6.197 Hellas Planitia
+ -6.197 Book of Fixed Stars
+ -6.202 Thermoelectric cooling
+ -6.204 Large Millimeter Telescope
+ -6.207 Habash al-Hasib al-Marwazi
+ -6.212 Einstein Observatory
+ -6.213 Clyde Tombaugh
+ -6.213 Far Ultraviolet Spectroscopic Explorer
+ -6.214 Pulkovo Observatory
+ -6.215 Gemini Observatory
+ -6.215 Giovanni Battista Riccioli
+ -6.221 Subject–object problem
+ -6.223 Gliese 876
+ -6.223 Firmament
+ -6.224 Diurnal motion
+ -6.224 Harriet Martineau
+ -6.224 Heaton Park
+ -6.228 Bausch & Lomb
+ -6.231 Voynich manuscript
+ -6.235 Solar tracker
+ -6.239 List of Muslim astronomers
+ -6.246 Omega Nebula
+ -6.247 Messier 54
+ -6.247 Reflector sight
+ -6.248 Advanced Technology Large-Aperture Space Telescope
+ -6.249 Messier 81
+ -6.249 Deconvolution
+ -6.252 Electromagnetic wave equation
+ -6.255 List of African-American inventors and scientists
+ -6.256 Moon in fiction
+ -6.257 Optical comparator
+ -6.259 Vulpecula
+ -6.259 Farpoint
+ -6.262 Apparent retrograde motion
+ -6.263 List of inventors
+ -6.264 Spektr-RG
+ -6.265 Brazos Bend State Park
+ -6.265 Trunnion
+ -6.266 McDonald Observatory
+ -6.267 Dialogue Concerning the Two Chief World Systems
+ -6.269 ABC Afterschool Special
+ -6.269 History of Mars observation
+ -6.273 Setting circles
+ -6.274 Qāḍī Zāda al-Rūmī
+ -6.276 Gliese 1
+ -6.276 ESO 3.6 m Telescope
+ -6.276 New Worlds Mission
+ -6.277 Gliese 581 e
+ -6.277 Carolyn S. Shoemaker
+ -6.277 Observational cosmology
+ -6.277 Extremely large telescope
+ -6.280 Jabir ibn Aflah
+ -6.281 Point spread function
+ -6.281 Shackleton (crater)
+ -6.281 Optical instrument
+ -6.283 Transformers: Generation 1
+ -6.288 Lens flare
+ -6.288 WIND (spacecraft)
+ -6.289 Melbourne Observatory
+ -6.291 List of largest optical reflecting telescopes
+ -6.293 Orbiting Astronomical Observatory
+ -6.293 Aspheric lens
+ -6.295 Jor-El
+ -6.297 Between the Lions
+ -6.299 SN 1054
+ -6.300 Coma (optics)
+ -6.302 Spica
+ -6.302 List of Dutch inventions and discoveries
+ -6.303 Ibn Yunus
+ -6.304 Ibn al-Banna' al-Marrakushi
+ -6.306 Alidade
+ -6.306 Giambattista della Porta
+ -6.307 William Parsons, 3rd Earl of Rosse
+ -6.309 Telescope mount
+ -6.310 Lagoon Nebula
+ -6.310 Istanbul observatory of Taqi al-Din
+ -6.315 Trifid Nebula
+ -6.315 Deep-sky object
+ -6.316 Frasier (season 9)
+ -6.318 Jean Picard
+ -6.318 Knighton, Powys
+ -6.319 Observing the Moon
+ -6.319 BeppoSAX
+ -6.322 Piszkéstető Station
+ -6.324 Volans
+ -6.325 Ibn al-Shatir
+ -6.327 Former constellations
+ -6.327 Paolo Sarpi
+ -6.328 1948
+ -6.329 Sidereus Nuncius
+ -6.332 Mercury cadmium telluride
+ -6.332 Cadi Ayyad University
+ -6.335 Cystoscopy
+ -6.339 Fresnel Imager
+ -6.342 Apochromat
+ -6.344 Bahāʾ al-dīn al-ʿĀmilī
+ -6.345 Llano de Chajnantor Observatory
+ -6.347 Robotic telescope
+ -6.348 Air mass (astronomy)
+ -6.349 Telescopium
+ -6.354 Association of Universities for Research in Astronomy
+ -6.358 Exploration of Mercury
+ -6.359 Optical Gravitational Lensing Experiment
+ -6.361 January 3
+ -6.361 Aurelia and Blue Moon
+ -6.361 Ulugh Beg Observatory
+ -6.366 Herschel 400 Catalogue
+ -6.366 Roque de los Muchachos Observatory
+ -6.366 Economic history of the Netherlands (1500–1815)
+ -6.367 Zij-i Ilkhani
+ -6.369 Messier 82
+ -6.374 WorldWide Telescope
+ -6.376 Al-Nayrizi
+ -6.376 1964
+ -6.377 Sahl ibn Bishr
+ -6.377 Simon Marius
+ -6.378 History of longitude
+ -6.378 Edward Troughton
+ -6.378 Collodion
+ -6.379 Nur ad-Din al-Bitruji
+ -6.379 Assassin's Creed IV: Black Flag
+ -6.381 History of the Big Bang theory
+ -6.382 Nicolas-Claude Fabri de Peiresc
+ -6.383 Hale telescope
+ -6.386 Ibn al-Majdi
+ -6.389 Shams al-Dīn al-Samarqandī
+ -6.395 Granat
+ -6.395 Coronagraph
+ -6.398 Upsilon Andromedae
+ -6.400 Stadiametric rangefinding
+ -6.401 William Lassell
+ -6.403 TAUVEX
+ -6.404 Diamond turning
+ -6.404 Shams al-Dīn Abū Abd Allāh al-Khalīlī
+ -6.404 Messier 7
+ -6.407 1600s in England
+ -6.407 Galileo affair
+ -6.408 Astron (spacecraft)
+ -6.409 Wolf 359
+ -6.410 Al-Ḥajjāj ibn Yūsuf ibn Maṭar
+ -6.410 List of museums in Atlanta
+ -6.413 Astronomical Netherlands Satellite
+ -6.417 Octant (instrument)
+ -6.420 First light (astronomy)
+ -6.421 Edward Emerson Barnard
+ -6.421 Gamma Arietis
+ -6.422 Perceptor
+ -6.423 Pic du Midi de Bigorre
+ -6.424 Walter Baade
+ -6.425 Emoji
+ -6.428 Dunsink Observatory
+ -6.429 CORALIE spectrograph
+ -6.429 Black Eye Galaxy
+ -6.432 History of materials science
+ -6.434 Discovery of Neptune
+ -6.434 Ekathotsarot
+ -6.435 Airy function
+ -6.436 NASA Infrared Telescope Facility
+ -6.440 HD 192263
+ -6.442 The Time Tunnel
+ -6.443 Samuel Butler (poet)
+ -6.447 Abu al-Salt
+ -6.448 James Hartness
+ -6.448 Glossary of firearms terms
+ -6.450 Houston Museum of Natural Science
+ -6.451 William Henry Smyth
+ -6.451 Ravens of the Tower of London
+ -6.452 Geology of Venus
+ -6.453 Live fire exercise
+ -6.454 Array of Low Energy X-ray Imaging Sensors
+ -6.455 St Clears
+ -6.455 Bortle scale
+ -6.455 XEUS
+ -6.457 55 Cancri
+ -6.457 Leo II (dwarf galaxy)
+ -6.458 Beta Aquarii
+ -6.458 Fremont Peak State Park
+ -6.461 Star party
+ -6.462 Leiden Observatory
+ -6.462 HR 8799
+ -6.462 Copernican Revolution
+ -6.462 Al-Saghani
+ -6.463 Sextant (astronomical)
+ -6.463 Norden bombsight
+ -6.464 Doctor Light (Kimiyo Hoshi)
+ -6.465 Uraniborg
+ -6.465 Messier 4
+ -6.466 Bureau des Longitudes
+ -6.467 James Bowdoin
+ -6.468 History of supernova observation
+ -6.468 Messier 78
+ -6.468 Jost Bürgi
+ -6.469 Muḥammad ibn Ibrāhīm al-Fazārī
+ -6.470 Kapteyn's Star
+ -6.471 History of the telescope
+ -6.471 NGC 147
+ -6.475 Mu'ayyad al-Din al-'Urdi
+ -6.476 Director (military)
+ -6.477 Military history of Bhutan
+ -6.480 Bisei Spaceguard Center
+ -6.484 Cat's Eye Nebula
+ -6.487 List of Unicode characters
+ -6.488 Zij-i Sultani
+ -6.488 Gliese 682
+ -6.490 Five College Radio Astronomy Observatory
+ -6.492 Kushyar Gilani
+ -6.493 Linguistic purism in Icelandic
+ -6.493 Connections (TV series)
+ -6.494 QUIET
+ -6.497 Ibn al‐Ha'im al‐Ishbili
+ -6.498 The Return of the Native
+ -6.499 Green flash
+ -6.499 North America Nebula
+ -6.499 Eskimo Nebula
+ -6.500 Lacaille 8760
+ -6.503 Rosette Nebula
+ -6.503 History of optics
+ -6.504 Skyhook balloon
+ -6.505 Cranbrook School, Kent
+ -6.506 Alchabitius
+ -6.507 The Gold-Bug
+ -6.508 Said Al-Andalusi
+ -6.509 Yaʿqūb ibn Ṭāriq
+ -6.510 Mariner 3
+ -6.512 Large Synoptic Survey Telescope
+ -6.513 Phases of Venus
+ -6.514 Ibn Abi al-Shukr
+ -6.515 Transit of Venus, 1639
+ -6.515 DX Cancri
+ -6.516 ABRIXAS
+ -6.517 July 31
+ -6.518 Barreleye
+ -6.518 Internationalism (linguistics)
+ -6.518 Tusi-couple
+ -6.519 Gliese 687
+ -6.519 Leith Hill
+ -6.522 Highland Road Park Observatory
+ -6.523 ʿAjā'ib al-makhlūqāt wa gharā'ib al-mawjūdāt
+ -6.523 Konica Minolta Tower Centre
+ -6.525 2002 AA29
+ -6.526 Light-field camera
+ -6.528 Berlin Observatory
+ -6.530 James Whitney Young
+ -6.533 Lake Tianchi Monster
+ -6.533 North Carolina Museum of Natural Sciences
+ -6.534 Air Force Maui Optical and Supercomputing observatory
+ -6.537 St. John's water dog
+ -6.537 Messier 14
+ -6.542 Discovery and exploration of the Solar System
+ -6.543 Karl Schwarzschild Observatory
+ -6.543 Cosmic pluralism
+ -6.543 Tunnel vision
+ -6.544 Messier 80
+ -6.547 Liquid mirror telescope
+ -6.549 List of American words not widely used in the United Kingdom
+ -6.553 Antarctic Muon And Neutrino Detector Array
+ -6.554 MMT Observatory
+ -6.557 Asimov's Biographical Encyclopedia of Science and Technology
+ -6.557 Messier 23
+ -6.560 Aelita
+ -6.561 Juan Araneta
+ -6.561 Monocular
+ -6.563 Dominion Astrophysical Observatory
+ -6.563 Messier 10
+ -6.564 Samuel Thomas von Sömmerring
+ -6.564 Messier 5
+ -6.564 Kuma Kogen Astronomical Observatory
+ -6.566 Messier 9
+ -6.566 Spotting scope
+ -6.568 Hans Lippershey
+ -6.569 Najm al-Dīn al-Qazwīnī al-Kātibī
+ -6.571 Sind ibn Ali
+ -6.572 GJ 1061
+ -6.573 Meade Instruments
+ -6.573 Sibt al-Maridini
+ -6.574 Philosophy of Freedom
+ -6.578 John Brashear
+ -6.581 Jamal ad-Din (astronomer)
+ -6.583 Fata Morgana (mirage)
+ -6.584 Birr Castle
+ -6.586 Mills Observatory
+ -6.587 Soyuz 35
+ -6.589 Speckle imaging
+ -6.590 Body Double
+ -6.590 Guillermo González Camarena
+ -6.594 Vulcan (hypothetical planet)
+ -6.598 Gliese 674 b
+ -6.598 Photographic lens design
+ -6.598 Coup (bridge)
+ -6.598 Pallikaranai wetland
+ -6.601 Telescoping (mechanics)
+ -6.603 Mount Lowe Railway
+ -6.604 Zacharias Janssen
+ -6.605 Ali ibn Isa al-Asturlabi
+ -6.611 Calar Alto Observatory
+ -6.612 MPG/ESO telescope
+ -6.615 65 Cybele
+ -6.615 United States v. Jackalow
+ -6.622 Earl of Rosse
+ -6.622 Lucky imaging
+ -6.624 Dumfries Museum
+ -6.625 Henri Chrétien
+ -6.631 Mount Graham
+ -6.631 List of Jesuit scientists
+ -6.632 Pieter van Musschenbroek
+ -6.637 The Big Bang Theory (season 4)
+ -6.642 Saturn Nebula
+ -6.642 Khālid ibn ʿAbd al‐Malik al‐Marwarrūdhī
+ -6.642 Molėtai Astronomical Observatory
+ -6.643 Leonardo Donato
+ -6.644 Cesare Cremonini (philosopher)
+ -6.646 One Tree Hill, New Zealand
+ -6.649 TacSat-2
+ -6.649 Search Guard Successor Foundation
+ -6.650 Trebur
+ -6.653 Neith (hypothetical moon)
+ -6.654 Sierra de San Pedro Mártir
+ -6.654 Chabot Space and Science Center
+ -6.654 Global Hands-On Universe
+ -6.657 Daniel S. Schanck Observatory
+ -6.657 NGC 891
+ -6.659 E. M. Antoniadi
+ -6.659 Opus Majus
+ -6.661 Explorer 11
+ -6.661 Haute-Provence Observatory
+ -6.662 Aristarchus (crater)
+ -6.665 The Koala Brothers
+ -6.666 Patacamaya
+ -6.667 Washburn Observatory
+ -6.671 ʿAbd al‐Wājid
+ -6.671 Laser guide star
+ -6.674 HAT-P-6
+ -6.677 Giuseppe Conzo's Observatory
+ -6.678 Museum Boerhaave
+ -6.680 Albert Graham Ingalls
+ -6.681 Paul Henry and Prosper Henry
+ -6.682 Edwin Taylor Pollock
+ -6.682 Catherine Coleman
+ -6.687 XO Telescope
+ -6.688 Jaume Nomen
+ -6.689 Sullam al-sama'
+ -6.689 Orion Molecular Cloud Complex
+ -6.689 Active optics
+ -6.690 World of Goo
+ -6.690 Manastash Ridge Observatory
+ -6.693 Mister Rogers' Neighborhood (season 22)
+ -6.693 Mister Rogers' Neighborhood (season 30)
+ -6.693 Christoph Scheiner
+ -6.695 HD 209458
+ -6.695 X-ray telescope
+ -6.695 John E. Mellish
+ -6.699 Mount Keira
+ -6.699 Ibn al-Adami
+ -6.700 Doc McStuffins
+ -6.700 Atlas Coelestis
+ -6.701 Sierra de San Pedro Mártir National Park
+ -6.702 List of museums and collections at the University of Michigan
+ -6.704 Bruneau Dunes State Park
+ -6.706 Galaxy Zoo
+ -6.706 Technopoly
+ -6.707 Leonard Digges (scientist)
+ -6.714 Carl August von Steinheil
+ -6.715 Ibn al-Saffar
+ -6.717 Ibn al-Kammad
+ -6.718 Solar eclipses on Jupiter
+ -6.718 Shadow square
+ -6.719 Tachymeter (survey)
+ -6.722 Queen Mary University of London
+ -6.722 Neutrino astronomy
+ -6.722 GRB 080319B
+ -6.722 Abū al‐ʿUqūl
+ -6.722 Al-Adami
+ -6.726 COROT-3
+ -6.728 Fuzzy concept
+ -6.729 IRC+10420
+ -6.731 Caltech Submillimeter Observatory
+ -6.731 AARNet
+ -6.734 Celestron
+ -6.734 HD 10647
+ -6.736 Remote Telescope Markup Language
+ -6.736 California Nebula
+ -6.737 V1429 Aquilae
+ -6.737 ESPRESSO
+ -6.740 Solar Sentinels
+ -6.740 Astronomical acronyms
+ -6.744 Polar alignment
+ -6.745 Music Land
+ -6.746 East-Asian Planet Search Network
+ -6.747 Early life of Isaac Newton
+ -6.748 Gemini Planet Imager
+ -6.748 COROT-2
+ -6.750 Isaac Newton Telescope
+ -6.751 Saint Jerome in His Study (after van Eyck)
+ -6.754 Alvan Clark
+ -6.756 Parallactic angle
+ -6.756 Eötvös experiment
+ -6.757 Judson B. Coit Observatory
+ -6.758 Giovanni Battista Zupi
+ -6.765 Wise Observatory
+ -6.765 United Kingdom Infrared Telescope
+ -6.767 Timeline of knowledge about galaxies, clusters of galaxies, and large-scale structure
+ -6.768 Pinaleno Mountains
+ -6.773 Catoptrics
+ -6.774 Arthur C. Clarke Institute for Modern Technologies
+ -6.775 NGC 2516
+ -6.776 Warner and Swasey Observatory
+ -6.776 Ashover
+ -6.779 Gliese 758
+ -6.781 DubaiSat-1
+ -6.782 NGC 362
+ -6.782 Mars Exploration Program
+ -6.783 Timeline of telescopes, observatories, and observing technology
+ -6.785 Man, Moment, Machine
+ -6.787 Practical joke device
+ -6.787 Missile Defense Alarm System
+ -6.788 NGC 6101
+ -6.789 Exchange Alley
+ -6.791 HD 2638
+ -6.791 NGC 3766
+ -6.792 Bucks County Council (Boy Scouts of America)
+ -6.794 Carnarvon, Northern Cape
+ -6.795 Nicholas U. Mayall Telescope
+ -6.795 Timeline of materials technology
+ -6.795 Freaky Stories
+ -6.796 Scientific demonstration
+ -6.797 Benjamin Baillaud
+ -6.803 List of Dutch people
+ -6.807 Warner & Swasey Company
+ -6.808 WASP-6
+ -6.815 Cygnus OB2-12
+ -6.819 Opera glasses
+ -6.819 Kosmos 215
+ -6.820 Zenith telescope
+ -6.820 HAT-P-7
+ -6.820 TheSky (astronomy software)
+ -6.820 The Family-Ness
+ -6.820 First surface mirror
+ -6.822 Aperture masking interferometry
+ -6.822 Instituto de Astrofísica de Andalucía
+ -6.823 Texas A&M Astronomical Observatory
+ -6.824 How Do They Do It?
+ -6.824 Donald in Mathmagic Land
+ -6.824 List of people considered father or mother of a scientific field
+ -6.826 Inductivism
+ -6.827 'Scuse Me While I Miss the Sky
+ -6.828 Sir Howard Grubb, Parsons and Co
+ -6.828 Index of optics articles
+ -6.829 FN Model 30-11
+ -6.831 Kavli Prize
+ -6.833 Turbacz
+ -6.834 Beta Crucis
+ -6.834 History of rockets
+ -6.836 André-Louis Danjon
+ -6.837 Mont-Mégantic National Park
+ -6.838 Halton Arp
+ -6.842 The Wind in the Willows (TV series)
+ -6.846 Magdalena Ridge Observatory
+ -6.846 Cabeus (crater)
+ -6.849 Finderscope
+ -6.849 HD 12661
+ -6.850 American Astronomical Society 215th meeting
+ -6.851 Charles Pritchard
+ -6.853 ANU Research School of Physics and Engineering
+ -6.854 SN 2006gy
+ -6.854 Herschel Museum of Astronomy
+ -6.855 List of cities in Grenada
+ -6.862 Life on Other Planets
+ -6.862 Dennis di Cicco
+ -6.863 Giuseppe Biancani
+ -6.864 ARO 12m Radio Telescope
+ -6.865 HAT-P-11
+ -6.867 Jeffrey A. Hoffman
+ -6.867 Giovanni Demisiani
+ -6.868 List of Pawn Stars episodes
+ -6.869 The Short Reign of Pippin IV
+ -6.870 John M. Grunsfeld
+ -6.870 Galileo (1975 film)
+ -6.871 Hobby-Eberly Telescope
+ -6.878 List of experiments
+ -6.881 Nancy J. Currie
+ -6.882 Nicolas Fuss
+ -6.884 Great Moon Hoax
+ -6.885 Discovery One
+ -6.888 List of astronomy acronyms
+ -6.889 Jeffrey S. Medkeff
+ -6.890 St Gregory's College, Campbelltown
+ -6.890 WIYN Observatory
+ -6.890 Segmented mirror
+ -6.892 Wolter telescope
+ -6.892 Terence Dickinson
+ -6.893 News from the New World Discovered in the Moon
+ -6.894 Nibiru Sociedad Astronomica
+ -6.894 Jean Mueller
+ -6.894 Gottfried Kirch
+ -6.896 Chi Cygni
+ -6.896 Štefánik's Observatory
+ -6.900 Museo della Scienza e della Tecnologia "Leonardo da Vinci"
+ -6.902 Oak Ridge Observatory
+ -6.903 Francesco de Vico
+ -6.903 GRW +70 8247
+ -6.909 György Kepes
+ -6.909 Nordic Optical Telescope
+ -6.910 UK Schmidt Telescope
+ -6.911 Flying bridge
+ -6.913 Martin van den Hove
+ -6.913 Pises Observatory
+ -6.915 DAMP Project
+ -6.917 HD 65216
+ -6.918 T-mount
+ -6.922 Ladd Observatory
+ -6.922 Binbō Shimai Monogatari
+ -6.922 1600s (decade)
+ -6.923 Federico Cesi
+ -6.926 Leander J. McCormick
+ -6.926 Eta Ophiuchi
+ -6.933 Institut de radioastronomie millimétrique
+ -6.936 Bushnell Corporation
+ -6.938 James Lick
+ -6.938 Andromeda I
+ -6.940 Comet seeker
+ -6.940 Parfocal lens
+ -6.940 Seismic noise
+ -6.942 List of largest optical telescopes in the 20th century
+ -6.943 Slooh
+ -6.944 Agent of Byzantium
+ -6.945 HD 158633
+ -6.946 HD 114386
+ -6.947 GSC 03549-02811
+ -6.949 Airborne observatory
+ -6.951 Hartmann mask
+ -6.951 Cape Neddick Light
+ -6.953 Le Grand Macabre
+ -6.953 RC Optical Systems
+ -6.953 Maria Mitchell Association
+ -6.955 HD 187123
+ -6.956 Yogi Bear and the Magical Flight of the Spruce Goose
+ -6.957 Heinrich Göbel
+ -6.957 Sherburne Wesley Burnham
+ -6.958 French ship Pourquoi Pas? (2005)
+ -6.959 WIYN Consortium
+ -6.960 Graphometer
+ -6.961 Barlow lens
+ -6.962 GSC 02652-01324
+ -6.964 Abbe–Koenig prism
+ -6.970 Oil Region Astronomical Observatory
+ -6.970 Centre de recherches en géodynamique et astrométrie
+ -6.972 Wootton, Kent
+ -6.975 Adrien Auzout
+ -6.976 Giovanni Faber
+ -6.978 Diffuse interstellar band
+ -6.978 Sanduleak -69° 202
+ -6.978 Mu Draconis
+ -6.981 Dynameter
+ -6.982 Francesco Manca
+ -6.988 Boller and Chivens
+ -6.988 Eye relief
+ -6.990 Homebuilt machines
+ -6.991 1610s
+ -6.992 Franz von Gruithuisen
+ -6.992 Ormsby M. Mitchel
+ -6.995 Visby lenses
+ -6.996 Bart of Darkness
+ -6.996 Arthur B. C. Walker, Jr.
+ -6.997 Isaac Newton Group of Telescopes
+ -7.000 Stardome Observatory
+ -7.002 Mark R. Showalter
+ -7.006 Telescopio Nazionale Galileo
+ -7.007 Ivan Kulibin
+ -7.007 Science in the Age of Enlightenment
+ -7.007 Hermann Carl Vogel
+ -7.008 Super-LOTIS
+ -7.009 Ball State University Observatory
+ -7.011 Frank Elmore Ross
+ -7.011 EPICS
+ -7.014 Heavens-Above
+ -7.016 Space selfie
+ -7.019 Víctor M. Blanco Telescope
+ -7.019 Sunward Aerospace Group
+ -7.019 Tacheometry
+ -7.021 K Puppis
+ -7.021 QI (F series)
+ -7.024 Step in Time
+ -7.025 Kyoto Tower
+ -7.026 Warning from Space
+ -7.029 Another Time, Another Place (Space: 1999)
+ -7.030 Innocenzo Manzetti
+ -7.031 Carter Observatory
+ -7.032 Byurakan Observatory
+ -7.032 Vassar College Observatory
+ -7.033 Toruń Centre for Astronomy
+ -7.034 Clock drive
+ -7.036 Mont Mégantic
+ -7.036 Social development theory
+ -7.037 Far Ultraviolet Camera/Spectrograph
+ -7.038 James Lick telescope
+ -7.038 Telescope (disambiguation)
+ -7.039 Ulriken
+ -7.044 HD 149026
+ -7.047 Nelson Monument, Edinburgh
+ -7.048 Laurent Cassegrain
+ -7.048 Guru Shikhar
+ -7.049 Conjugate focal plane
+ -7.053 Las Cumbres Observatory Global Telescope Network
+ -7.054 Aviation in Hawaii
+ -7.056 Johann Baptist Cysat
+ -7.060 Carey mask
+ -7.060 Galileo's Daughter
+ -7.060 Sherzer Observatory
+ -7.060 GRB 090423
+ -7.063 HD 121504
+ -7.064 HD 102117
+ -7.068 Bahtinov mask
+ -7.069 Nik Szymanek
+ -7.069 The Barefoot Executive
+ -7.070 2005 in science
+ -7.070 Minolta AF 500mm Reflex lens
+ -7.071 Transit
+ -7.071 Teide 1
+ -7.072 May 2007
+ -7.072 Lyman-break galaxy
+ -7.073 Vallis Alpes
+ -7.074 Stretham Old Engine
+ -7.076 R. F. Joyce Observatory
+ -7.077 Reflecting instrument
+ -7.077 Optical Mechanics, Inc.
+ -7.078 SkyWeek
+ -7.078 Dawes' limit
+ -7.080 Mare Erythraeum
+ -7.081 Telescopefish
+ -7.084 Wilfred Mott
+ -7.092 Star diagonal
+ -7.094 BOOTES
+ -7.096 14 Herculis b
+ -7.098 Sodium layer
+ -7.099 Condenser
+ -7.099 Lord Eliot Convention
+ -7.100 Schöpfl
+ -7.101 Bosscha Observatory
+ -7.105 Barnard Observatory
+ -7.105 COROT-1
+ -7.105 William Harkness
+ -7.111 Arakkal Museum
+ -7.113 Dibner Institute for the History of Science and Technology
+ -7.116 Armagh Planetarium
+ -7.117 Personal equation
+ -7.117 Conical pendulum
+ -7.117 Charles L. Veach
+ -7.121 Lord John Hay (politician)
+ -7.122 The Why Why Family
+ -7.126 Lists of British inventions
+ -7.128 Galileo (song)
+ -7.129 Great Diamond
+ -7.129 PLate OPtimizer
+ -7.130 Cloverleaf quasar
+ -7.131 John Birmingham (astronomer)
+ -7.132 Equatorial room
+ -7.136 Kodaikanal Solar Observatory
+ -7.137 Quantum Quest: A Cassini Space Odyssey
+ -7.137 Serrurier truss
+ -7.139 Daniel Schwenter
+ -7.139 Taipei First Girls' High School
+ -7.140 Golden Arrow (car)
+ -7.140 Aden Meinel
+ -7.140 Discovery Channel Telescope
+ -7.141 RTMC Astronomy Expo
+ -7.143 Gornergrat Infrared Telescope
+ -7.147 George W. Hayward
+ -7.147 Macropsia
+ -7.150 Coded aperture
+ -7.150 Langrenus (crater)
+ -7.151 Cinetheodolite
+ -7.153 Vainu Bappu Observatory
+ -7.154 Christoph Grienberger
+ -7.155 HD 50554
+ -7.156 Füxa
+ -7.157 Givatayim Observatory
+ -7.158 (15810) 1994 JR1
+ -7.160 Table of historic and prehistoric climate indicators
+ -7.162 Henri L'Estrange
+ -7.162 Joseph Bancroft Reade
+ -7.162 Starfire Optical Range
+ -7.163 Frank in the River
+ -7.167 Virtual observatory
+ -7.169 HD 155358
+ -7.171 List of gardener-botanist explorers of the Enlightenment
+ -7.171 Magnetogram
+ -7.172 Robert Stirling Newall
+ -7.173 Paulding Light
+ -7.173 Timeline of Bhutanese history
+ -7.175 Powell Observatory
+ -7.180 Hero Hotline
+ -7.182 HD 164922
+ -7.183 Henrik Mohn
+ -7.183 List of highest astronomical observatories
+ -7.184 Walter Frederick Gale
+ -7.184 Wingspan (magazine)
+ -7.185 Mirage of astronomical objects
+ -7.185 List of Desert Island Discs episodes (2001–10)
+ -7.186 XO-3
+ -7.187 Timeline of telescope technology
+ -7.188 Orion Telescopes & Binoculars
+ -7.188 List of Desert Island Discs episodes (1981–90)
+ -7.189 HD 88133
+ -7.191 Larry Fleinhardt
+ -7.192 Confederation of Indian Amateur Astronomers
+ -7.194 William Samson
+ -7.194 List of Desert Island Discs episodes (1951–60)
+ -7.195 Society for Popular Astronomy
+ -7.196 HD 160529
+ -7.196 Teylers astronomical observatory
+ -7.197 John August Anderson
+ -7.199 List of Desert Island Discs episodes (1971–80)
+ -7.199 List of Desert Island Discs episodes (2011–present)
+ -7.199 Vixen (telescopes)
+ -7.199 BLAST (telescope)
+ -7.200 Another Night (song)
+ -7.201 James Short (mathematician)
+ -7.202 Clavius (crater)
+ -7.204 Sternwarte Mirasteilas
+ -7.205 Science Center of Pinellas County
+ -7.205 Amici roof prism
+ -7.206 Loch Garten
+ -7.208 Out of the Ordinary Festival
+ -7.212 Johann Zahn
+ -7.212 Modified Dall–Kirkham telescope
+ -7.213 List of National Inventors Hall of Fame inductees
+ -7.215 HD 50064
+ -7.215 Richard Sheepshanks
+ -7.216 Lurie–Houghton telescope
+ -7.219 Timeline of Solar System astronomy
+ -7.220 Lockyer Observatory and Planetarium
+ -7.220 List of Modern Marvels episodes
+ -7.220 Iso-Heikkilä Observatory
+ -7.221 Scientific wager
+ -7.226 Astronomische Vereinigung Kärntens
+ -7.226 Ilan Ramon youth physics center
+ -7.229 Erect image
+ -7.230 Erygmascope
+ -7.230 HD 168625
+ -7.231 Rough Science
+ -7.231 Magnetograph
+ -7.231 Theodore Haak
+ -7.231 The Pod People
+ -7.232 2MASS J0523-1403
+ -7.239 Telecompressor
+ -7.239 Helen Bottel
+ -7.240 Dutch Open Telescope
+ -7.241 James Clark (businessman)
+ -7.241 Galilaei (lunar crater)
+ -7.241 Probing Lensing Anomalies Network
+ -7.243 Onizuka Center for International Astronomy
+ -7.245 Baby Boom Galaxy
+ -7.245 Rainwater Observatory and Planetarium
+ -7.246 Jack-in-the-Box (Astro City)
+ -7.247 P. Devadas
+ -7.248 Circinus Galaxy
+ -7.250 Jacob Leupold
+ -7.253 A Bug's Life (video game)
+ -7.256 Astronomical filter
+ -7.257 Chew (comics)
+ -7.258 William A. Bradfield
+ -7.258 1964 in science
+ -7.258 Miscellaneous Symbols And Pictographs
+ -7.259 Harry Edwin Wood
+ -7.260 Waterfront Park (Seattle)
+ -7.264 Irish Astronomical Society
+ -7.265 Popov Castle
+ -7.269 HAT-P-1b
+ -7.269 Holcomb Observatory and Planetarium
+ -7.270 Ryo Kawasaki
+ -7.270 Ciudad de las Ideas (conference)
+ -7.271 Delaware AeroSpace Education Foundation
+ -7.271 List of 2 Days & 1 Night episodes
+ -7.273 Astronomical optical interferometry
+ -7.274 C/2008 T2 (Cardinal)
+ -7.274 Jahrtausendturm
+ -7.274 Otto Struve Telescope
+ -7.274 NGC 7686
+ -7.276 Nasal sebum
+ -7.278 Tara Seibel
+ -7.282 This Can't Be Happening at Macdonald Hall
+ -7.282 Lúpin
+ -7.283 Examination of Apollo Moon photographs
+ -7.284 John Daggett Hooker
+ -7.284 Gregorian Tower
+ -7.285 List of things named after James Clerk Maxwell
+ -7.285 Musée des Lunettes et Lorgnettes Pierre Marly
+ -7.286 Stabilized Automatic Bomb Sight
+ -7.286 Ravenscrag, Montreal
+ -7.287 39382 Opportunity
+ -7.289 FireWire camera
+ -7.289 HD 63454
+ -7.290 Bear Branch Nature Center
+ -7.291 Macroscope (novel)
+ -7.294 Joseph Jackson Lister
+ -7.294 HD 168607
+ -7.294 Alvan Graham Clark
+ -7.294 Background (astronomy)
+ -7.300 Star transit
+ -7.300 Antiques Roadshow, Series 28 (2005–06)
+ -7.301 400 Years of the Telescope
+ -7.302 Norman Sperling
+ -7.302 Burrell Memorial Observatory
+ -7.304 Robert Howlett
+ -7.305 Tasco
+ -7.307 List of largest optical telescopes in the continental United States
+ -7.308 Scope (disambiguation)
+ -7.308 National Virtual Observatory
+ -7.308 37452 Spirit
+ -7.310 Hawera Observatory
+ -7.310 Desmond Paul Henry
+ -7.310 Colombo University Observatory
+ -7.311 Anatopism
+ -7.313 Frank John Kerr
+ -7.313 List of largest optical telescopes in the 18th century
+ -7.314 Scientific equipment optician
+ -7.315 Italian Astronomical Archives Center
+ -7.316 Francesco Fontana
+ -7.317 Aristoteles (crater)
+ -7.319 Henry Hindley
+ -7.320 KU Observatory
+ -7.321 Interplanetary Scintillation Array
+ -7.322 Japanese words of Dutch origin
+ -7.325 Gnomon of Saint-Sulpice
+ -7.327 The Ghost of Slumber Mountain
+ -7.328 Viewing instrument
+ -7.329 Bayfordbury Observatory
+ -7.329 Arzachel (crater)
+ -7.331 Friedrich Simon Archenhold
+ -7.333 Camp Madawaska
+ -7.334 HD 114762
+ -7.335 Calculating God
+ -7.335 NGC 1049
+ -7.336 V598 Puppis
+ -7.336 Arthur Stanley Williams
+ -7.337 Gregg Thompson (astronomer)
+ -7.337 Samuel Klingenstierna
+ -7.337 List of Ohio Wesleyan University buildings
+ -7.338 History of photographic lens design
+ -7.342 Petavius (crater)
+ -7.344 Dimitar Sasselov
+ -7.344 Regional Planetary Image Facility
+ -7.346 Albert L. Hopkins
+ -7.346 Observational history of comets
+ -7.346 Eliza Wilbur
+ -7.348 Crane Observatory
+ -7.348 1612
+ -7.348 Siding Spring 2.3 m Telescope
+ -7.351 John Carter (Royal Navy officer)
+ -7.355 Image-stabilized binoculars
+ -7.356 List of largest optical telescopes in the 19th century
+ -7.357 Thrice Upon a Time
+ -7.358 Ben Wolfe
+ -7.358 Maria Mitchell Observatory
+ -7.359 SN 2010lt
+ -7.359 The Magnetic Telescope
+ -7.360 The Two Princesses of Bamarre
+ -7.361 Mount Wilson Toll Road
+ -7.361 List of large optical telescopes
+ -7.362 The Science Factory
+ -7.363 FLUKA
+ -7.364 1608
+ -7.364 Shadow of Fear
+ -7.364 Guide star
+ -7.370 Lookout Studio
+ -7.372 Portland Observatory
+ -7.376 Kusumoto Ine
+ -7.376 Far-Seer
+ -7.378 Devil's Punchbowl (California)
+ -7.378 FITS Liberator
+ -7.379 Sommers–Bausch Observatory
+ -7.380 Astronomy Day
+ -7.380 Wildlife viewing
+ -7.381 The Thief (1996 novel)
+ -7.381 Weaver Student Observatory
+ -7.383 Anton Thraen
+ -7.383 Abolfadl Harawi
+ -7.383 Milagro (experiment)
+ -7.385 Bandora Gang
+ -7.386 Astronomical Observatory of Lisbon
+ -7.387 Stratoscope
+ -7.390 Wilder Observatory
+ -7.390 George N. Saegmuller
+ -7.391 All Sky Automated Survey
+ -7.391 1948 in the United States
+ -7.392 Jerry Nelson (astronomer)
+ -7.393 William Simms (instrument maker)
+ -7.394 Frederick James Hargreaves
+ -7.395 List of Desert Island Discs episodes (1991–2000)
+ -7.397 List of Desert Island Discs episodes (1961–70)
+ -7.397 Sky-Watcher
+ -7.398 List of Rees's Cyclopædia articles
+ -7.401 Mannheim Observatory
+ -7.401 NCI Froward Point
+ -7.403 Copilia
+ -7.404 Thomas Cooke (machinist)
+ -7.408 Tom Johnson (astronomer)
+ -7.409 XO-2 (star)
+ -7.410 Wendelstein (mountain)
+ -7.410 1609
+ -7.410 Vortex coronagraph
+ -7.411 1611
+ -7.413 Titchwell Marsh
+ -7.415 Ralph A. Worley Observatory
+ -7.415 Vega–Bray Observatory
+ -7.416 Governor Aker Observatory
+ -7.416 Mercator Telescope
+ -7.416 Type 72 non-metallic anti-tank mine
+ -7.420 International Astronomical Youth Camp
+ -7.420 TAROT-South robotic observatory
+ -7.421 Green Bank Interferometer
+ -7.421 NGC 6217
+ -7.422 Spyglass
+ -7.424 List of In Our Time programmes
+ -7.425 She Builds Quick Machines
+ -7.425 Khagol Vishwa
+ -7.425 NGC 6362
+ -7.426 NGC 6304
+ -7.426 Plate scale
+ -7.427 Vilém Gajdušek
+ -7.428 List of How It's Made episodes
+ -7.429 NGC 6118
+ -7.429 1887 in art
+ -7.432 Mungo Mackay
+ -7.434 Astronomical Institute of Slovak Academy of Sciences
+ -7.435 Veen Observatory
+ -7.437 Sproul Observatory
+ -7.438 Really Big Things
+ -7.441 Tower viewer
+ -7.444 Mad as a Mars Hare
+ -7.445 Fabio Colonna
+ -7.446 Spin casting (mirrors)
+ -7.448 WASP-7
+ -7.450 Astronomical Society of South Australia
+ -7.450 The Black Rose (novel)
+ -7.455 Patronage in astronomy
+ -7.458 31338 Lipperhey
+ -7.460 1610 in science
+ -7.461 HIPAS Observatory
+ -7.467 Herbert Matayoshi
+ -7.467 1615
+ -7.469 William Miller Sperry Observatory
+ -7.469 Optical Museum Jena
+ -7.475 Tethered formation flying
+ -7.476 OTA
+ -7.477 Antarctic Submillimeter Telescope and Remote Observatory
+ -7.482 1680 in science
+ -7.483 Boswell Observatory
+ -7.484 Geraint F. Lewis
+ -7.484 Things of Science
+ -7.484 Atmosphere and Telescope Simulator
+ -7.488 XO-3b
+ -7.493 15276 Diebel
+ -7.495 XO-5
+ -7.495 XO-4
+ -7.496 BSA Ultra
+ -7.497 Rutherfurd Observatory
+ -7.497 Golden age of physics
+ -7.497 AS 314
+ -7.498 Roux family (marine painters)
+ -7.499 Land of Doom
+ -7.503 15779 Scottroberts
+ -7.503 Viper telescope
+ -7.504 Praise of the Two Lands (ship)
+ -7.504 Karl Wilhelm Valentiner
+ -7.505 Project Galileo
+ -7.507 Index of physics articles (T)
+ -7.508 Jacques-Barthélemy Micheli du Crest
+ -7.513 Caroline Moore
+ -7.514 Occulting disk
+ -7.515 NGC 1404
+ -7.518 Manuel Dias (Yang MaNuo)
+ -7.523 Cedric Allingham
+ -7.524 Banknotes of the Commercial Bank of Newfoundland
+ -7.524 HAT-P-3
+ -7.525 IC 4665
+ -7.526 History of Slough
+ -7.526 Giacomo Badoer
+ -7.530 NGC 4550
+ -7.530 Gamma Crateris
+ -7.533 Nathaniel Pigott
+ -7.533 Pisa University System
+ -7.533 CoRoT-7d
+ -7.535 1845 in science
+ -7.538 Sufi Observing Competition
+ -7.540 Heinrich Erfle
+ -7.541 HD 330075
+ -7.541 Giulio Cesare la Galla
+ -7.542 1590 in science
+ -7.543 Spatial cutoff frequency
+ -7.544 1804 in art
+ -7.546 Lake Afton Public Observatory
+ -7.551 DFM Engineering
+ -7.554 Fast Fourier Transform Telescope
+ -7.555 Gary Klein (inventor)
+ -7.556 Glen D. Riley Observatory
+ -7.557 Photon sieve
+ -7.558 Nizam al-Din Nishapuri
+ -7.561 Clayton Cramer
+ -7.563 Roscoe Frank Sanford
+ -7.566 Graphic telescope
+ -7.567 Livermore Optical Transient Imaging System
+ -7.568 NGC 4651
+ -7.570 Bradford Robotic Telescope
+ -7.570 Cherenkov Array at Themis
+ -7.571 1729 in science
+ -7.572 Joan Roget
+ -7.572 NGC 4654
+ -7.572 1697 in science
+ -7.573 Matteo Campani-Alimenis
+ -7.576 Orion Optics
+ -7.576 Herrett Observatory
+ -7.576 Macalester College Observatory
+ -7.576 Rogers Observatory
+ -7.577 1615 in science
+ -7.579 1628 in science
+ -7.583 Arjen Roelofs
+ -7.585 Optical mount
+ -7.585 Infinite-axis telescope
+ -7.585 John Browning (scientific instrument maker)
+ -7.586 Hiram College Library
+ -7.586 Jonah David Mann
+ -7.586 Mohawk Valley Astronomical Society
+ -7.589 George Dollond
+ -7.590 1621 in science
+ -7.591 Halfmann Teleskoptechnik
+ -7.593 1612 in science
+ -7.595 1609 in science
+ -7.595 MySky
+ -7.597 Bradstreet Observatory
+ -7.598 Bernard Lyot Telescope
+ -7.598 Marie Byles
+ -7.599 1608 in science
+ -7.600 North Norfolk Coast Site of Special Scientific Interest
+ -7.603 Mark Thompson (astronomer)
+ -7.604 Big, Bigger, Biggest
+ -7.604 1834 in South Africa
+ -7.604 Sonoma State Observatory
+ -7.605 Vector magnetograph
+ -7.606 1611 in science
+ -7.609 Fremont Peak Observatory
+ -7.610 W Mensae
+ -7.612 Tpoint
+ -7.616 Darling's Observatory
+ -7.619 Felix Ziegel
+ -7.621 Officina Stellare
+ -7.623 Andreas Gerasimos Michalitsianos
+ -7.629 NGC 2899
+ -7.631 Optical System for Imaging and low Resolution Integrated Spectroscopy
+ -7.634 June 2005 in science
+ -7.634 Jamais Je Ne T'oublierai
+ -7.635 August 2005 in science
+ -7.645 HD 231701
+ -7.645 Kayser-Threde
+ -7.647 Dew shield
+ -7.648 Balloon-borne telescope
+ -7.648 Small telescope
+ -7.650 Pfund telescope
+ -7.650 Celestial observation
+ -7.652 Jackson Building (Asheville, North Carolina)
+ -7.652 Hubble Origins Probe
+ -7.654 John Coventry (constructor of philosophical instruments)
+ -7.654 Cincinnatus Shryock
+ -7.656 Fulgenzio Micanzio
+ -7.664 Weihrauch HW55
+ -7.667 Rolnick Observatory
+ -7.672 Suzhou Synta Optical Technology
+ -7.677 Killarney Provincial Park Observatory
+ -7.680 Scioptric ball
+ -7.686 Explore Scientific
+ -7.687 Peter Quinn (astronomer)
+ -7.694 Oliver Observing Station
+ -7.695 John Diebel
+ -7.698 Edwin P. Martz
+ -7.705 Optofluidics
+ -7.705 Hidden Valley Observatory
+ -7.706 What the Tudors Did for Us
+ -7.706 Brooks Astronomical Observatory
+ -7.708 Westerhout 31
+ -7.722 HD 168746
+ -7.723 NGC 4976
+ -7.725 HD 4208
+ -7.725 University of Oklahoma Observatory
+ -7.726 The Continuing Revolution
+ -7.732 Cophasing
+ -7.734 Brooks Observatory
+ -7.735 Vedh Shala
+ -7.735 Annette Ferguson
+ -7.736 Shams al-Din al-Khafri
+ -7.736 James Simms
+ -7.737 Warner Observatory
+ -7.737 Coon Creek Science Center
+ -7.739 Hobbs Observatory
+ -7.739 Wilhelm F. Rabe
+ -7.742 Amasa Holcomb
+ -7.742 List of observations of solar and lunar transits of unknown objects
+ -7.742 Cathetometer
+ -7.743 Bradley Observatory
+ -7.744 Buddy's Circus
+ -7.745 Automated Patrol Telescope
+ -7.745 Tomcat Combat
+ -7.748 Korea Advanced Institute of Science and Technology Satellite 4
+ -7.755 5953 Shelton
+ -7.757 Mountain Skies Observatory
+ -7.757 Mary Helen Wright Greuter
+ -7.762 William Kitchiner
+ -7.765 Now You See It, Now You Don't: Part One
+ -7.765 William Spencer (navigational instrument maker)
+ -7.774 Maria Clara Eimmart
+ -7.774 HD 130322
+ -7.777 HD 118203
+ -7.777 Buddy of the Legion
+ -7.777 Bagrat Ioannisiani
+ -7.782 Charles Frank Ltd
+ -7.786 Galactocentrism
+ -7.786 2012 GX17
+ -7.790 Dual speed focuser
+ -7.792 John Mills (entrepreneur)
+ -7.794 Singapore Omni-Theatre
+ -7.795 Cater Rand
+ -7.795 Colonial American Astronomy
+ -7.796 Ohana project
+ -7.798 Apollo Observatory
+ -7.799 IC 2149
+ -7.803 Time smearing
+ -7.816 July 1964
+ -7.816 Creighton University Observatory
+ -7.816 William Higginson
+ -7.819 Mel Bartels
+ -7.820 History of surveillance
+ -7.824 Far 3 kpc Arm
+ -7.827 Brow Monument and Brow Monument Trail
+ -7.828 Spencer, Browning & Rust
+ -7.834 Baker Observatory
+ -7.834 Bucknell Observatory
+ -7.834 Celestial Observatory
+ -7.834 Clarke Observatory
+ -7.834 Daniel Scholl Observatory
+ -7.834 Grant O. Gale Observatory
+ -7.834 Howell Observatory
+ -7.834 Jack C. Davis Observatory
+ -7.834 Weitkamp Observatory
+ -7.835 Orange County Astronomers
+ -7.837 Spidernaut
+ -7.852 Donna (crater)
+ -7.853 2010 MJ72
+ -7.853 Astronomical Center of Shumen University
+ -7.853 Astronomy in central India
+ -7.853 Eyeglass Cirque
+ -7.853 Mantis Elite
+ -7.853 Multiple Satellite Imaging
+ -7.853 OpTIIX
+ -7.853 Scientific Leadership
+ -7.853 Shosanbetsu observatory
+ -7.853 Slooh Radio
+ -7.853 Stalker vision

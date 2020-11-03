@@ -1,0 +1,38 @@
+Sexagesimal or decimal hours are proposed in the following cases :
+- Equatorial coordinates (geometric, apparent or astrometric right ascension),
+- Horizontal coordinates (azimuth),
+The time unit of the velocities for geometric ephemeris (E1) is always the day.
+15. RESULTS (R)
+Results are displayed either in interactive or in sequential mode.
+* R1 : Interactive display
+0
+The ephemeris are computed for the chosen initial date, as well as for the previous or the following dates, depending on the tab interval.
+With the keys "+" and "-" the user can compute and display ephemeris for the following (+) and previous (-) dates.
+It is possible to change tab interval (I) in order to center the ephemeris on the date in the middle of the displayed outputs.
+At the end of the computation, the initial date is the central value displayed on the screen.
+* R2 : Sequential display
+The ephemeris are computed sequentially starting at the initial date, and with the chosen tab interval.
+The number of dates of the ephemeris is defined by the user (maximum : 999).
+At the exit (Q), the initial date and tab interval remain unchanged, and the user can view the whole set of results with the keys "+" and "-" for following and previous dates, "S" and "E" for Start and End of the ephemeris.
+With the key "B" the user can save his results on a Backup file at his convenience.
+At the first use, the name of the file which is proposed is : planeph.res.
+The backup file is registered in the current directory. Several files can be created to save various ephemeris. If a file already exists to save new outputs, results are appended on that file.
+Backup files contain page skip characters (Ctrl-L) for printing.
+16. END OF THE PROGRAM (Q)
+------------------------------------------------
+The command Q in the main menu allows to quit the program. The user has to confirm his request, and is able to save the specifications of the last computation to reallocate them for a further run of the program.
+In case of FATAL ERROR during the computation of the program, a message requests the user to quit the program. He may report to the authors the informations contained in the file : planeph.err.
+17. SUPPLEMENTARY FILES
+Several files are created during a run of the program, in the current directory :
+* File : planeph.prm.
+The file contains the specifications of the last computation before leaving the application, if the user has chosen this option.
+* File : planeph.tmp.
+The file is created when the user chooses a sequential display of the results (R2). It is automatically scratched at the end of the program unless an abnormal termination.
+* File planeph.res.
+This is the file which is proposed to the user when saving sequential results (R2). At the end of the program, the user has to handle the backup files created during the application : printing, copy, scratch ,...
+* File planeph.err.
+This file contains the parameters of the computations in case of a FATAL ERROR.
+18. PRECISION
+------------------------
+The precision of the representation used for the computation of the planetary ephemeris can be estimated by the largest discrepancies obtained with a comparison to the original ephemeris DE403, which are used as source.
+Geometric equatorial coordinates J2000

@@ -1,0 +1,123 @@
+magnifications used
+general sky conditions
+as well as a basic description and/or annotated sketch for each of the objects that you observed
+A basic description must consist of a few sentences about the object you observed, noting its most obvious characteristics in accordance with the guidelines offered above. Crude, stick-figure-type sketches are encouraged as an aide-memoire, and as an adjunct to the written descriptions of the objects you observe. These should be annotated. We are NOT looking for art. Some observers are expert at producing artistic renditions of the objects they observe. If you are interested in developing this talent, see the AstroSketchers page of the this website.
+Photocopies or scans of your log entries should accompany all applications for RASC certificate programmes (please see your specific observing programme for additional details).
+As you advance through the various certificate programmes your experience will increase, and you will invariably begin to see more. For advanced guidelines on what to look for when examining specific classes of objects please read on.
+Advanced Observing Tips
+What to Look For—advanced ideas for deep sky objects (DSOs):
+In this section, we expand on our earlier advice for creating a basic description of an object. You are not expected to record to this level of detail, but as you become a more experienced observer you will start to ask yourself these sorts of questions as you begin to examine the various classes of objects in greater detail.
+In General—All DSO Types
+How bright is the object?
+What magnification gives the best view?
+Describe the shape of the object.
+Estimate the size of the object (based on the field of view of your eyepiece).
+Does averted vision allow you to see more detail (if yes, describe the extra detail)?
+Does a filter improve the view?
+Emission and Reflection Nebulae
+Compared to direct vision, how does the use of averted vision affect the view?
+Try using a Deep Sky and/or OIII filter.  What effect did they have?
+Are the outer edges sharply defined?
+Is any part of the nebula brighter or more concentrated?
+Are there any voids, dark patches, or lanes?
+Are there any bright filaments or streamers in the nebulosity?
+Are there any stars involved with the nebulosity?
+Is there an associated open cluster?
+Can you detect any colour?
+Galaxies
+Compare the view using both direct and averted vision.
+What is the overall shape of the galaxy?
+Is the galaxy uniform in brightness?
+How noticeable is the core of the galaxy?  Describe it (compact, stellar, etc.).
+Do the outer edges of the galaxy appear sharp or diffuse?
+Can any structure be seen in the galaxy (mottling, bright and dark patches, or lanes)?
+Can any detail be seen in the arms of the galaxy?
+Are there any stars visible in the arms?
+Are there any nearby galaxies (or other deep sky objects)?
+Globular Clusters
+How concentrated is the cluster (is it tightly packed, or more of a loose association of stars)?
+Is the central core bright, compact, or indistinguishable?
+How would you describe the overall density of the stars within the cluster (low, medium, high)?
+How much of the cluster can be resolved into its component stars (none, the outer edge, all of it)?
+If the cluster can't be resolved, were you able to detect any mottling, or resolve any stars on the periphery with the use of averted vision?
+Are there any other deep sky objects located nearby or in the same field?
+Planetary Nebulae
+Overall, would you describe the planetary as: easy, difficult, or absent from the field of view (see below)?
+Is the nebula stellar in appearance, or can a disk be seen? Try different magnifications.
+What is the shape of the disk (round, elongated, stellar)? Does it contain any irregularities?
+Are the edges of the planetary sharp or diffuse?
+Is the centre brighter, darker, or the same uniformity as the outer ring?
+What is the colour of the planetary?
+Can a central star be seen? Try very high magnification.
+As a function of aperture, some planetaries 'blink' with the use of averted vision, but only at particular magnifications. Try this and describe what you find.
+Some planetaries are seemingly invisible. An OIII filter might allow you to see a planetary that you can't detect at first glance, or might allow you to see more detail in what appears to be a fairly bland object. What does the filter add?
+Some planetaries appear stellar, and thus can't be separated from the background stars.  In such cases, try rapidly flicking an OIII filter between your eye and the eyepiece.  You may be able to reveal a star-like planetary, as it will not dim as much as the other stars in the presence of the filter.
+Are there any other deep sky objects located nearby?
+Open Clusters
+Is the cluster easily distinguished from the background stars?
+Describe the overall shape of the cluster?
+How well defined is the cluster (tightly packed, loose)?
+Is the cluster fully resolved?
+How many stars can you count in the cluster? If there are too many faint ones to count, how many bright stars can you see?  What colour are they?
+Are the stars concentrated in any one area of the cluster?
+Are there any areas of the cluster—blank spots—where stars appear to be missing?
+How does averted vision affect your view of the cluster?
+Are there any deep sky objects located nearby or in the same field of view?
+Nebulosity Associated With Open Clusters
+This type of nebulosity is often hard to detect, and it is easy to mistake a light fog on the eyepiece for the presence of nebulosity. When observing threshold objects, first warm your eyepiece in a pocket, or employ an eyepiece dew heater to be certain you are seeing something other than a slightly fogged eye lens.
+Does averted vision alter the view (help you to detect nebulosity)? Do filters have any effect?
+What is the overall shape of the nebulosity?
+Are the outer edges of the nebulosity sharply defined?
+Is the nebulosity embedded in the cluster, or is there a distinct separation?
+Does any part of the nebulosity appear brighter or more concentrated?
+Can you see any voids, dark patches or lanes in the nebulosity?
+Are there any bright streamers or filaments associated with the nebulosity?
+Dark Nebulae
+These objects are dust clouds that obscure the stars that lie behind them. They can be very difficult to detect. Use your lowest power eyepiece. If possible, use a rich-field telescope or a pair of large binoculars. What's visible in one instrument might not be visible in another.  As with bright nebulae, sky transparency has a strong impact on the visibility of these threshold objects. If you are not successful in tracking down a dark nebula, try again on a different night, or travel to a darker location. Also consider a monk's hood to block stray light, and remember to try sweeping your telescope back and forth over the area in question.
+Is it easy or difficult to detect the dark nebula against the background sky?
+Are some parts of the dark nebula easier to see than others?
+Does averted vision improve the view?
+Describe the shape, density, and borders of the dark nebula.
+Can you identify any stars or voids within the dark nebula itself?
+Are there any other deep sky objects nearby?
+ 
+What to Look For – advanced ideas for lunar features:
+Craters
+Is the floor of the crater smooth and uniform, or is it uneven in any way?
+Is this a "complex crater" with a central peak that was pushed up as the crater walls collapsed in the moments following the impact that formed the crater?
+With overlapping craters, can you determine which one was formed first?
+Are the crater walls uniform?
+Can you detect any ejecta (material blasted out during impact) beyond the crater walls?
+Maria (Seas)
+Does the mare (relatively flat "sea") appear level or uneven?
+Can you observe any rimae (grooves/rilles), or dorsa (wrinkle ridges) on the maria?
+What is the nature of any highland promontoria (cape/headland) abutting a mare?
+Can you detect any terra (raised areas between maria)?
+Rupes (Cliffs) and Valles (Valleys)
+Can you detect any rupes (cliffs/escarpments) created as areas of the lunar surface cooled and subsided? e.g. the Straight Wall
+Can you observe valles (valleys) in mountain ranges or between craters? e.g. the Alpine Valley
+Mons (Mountain)
+Is it just a mons (mountain), or is it part of a montes (mountain range)?
+General Lunar ObservingTips
+How does a polarizing filter change the view?
+Does going back to the same target 30 minutes later change how the object looks? Have any new details appeared or have some items disappeared?
+ 
+What to Look For—advanced ideas for planets:
+Describe the seeing (very good, good, fair, poor, very poor).
+How does magnification affect the view? Is there an optimum magnification?
+Are any natural satellites visible? Are any stars visible in the same field?
+Does the planet exhibit any phase?
+What direction is the planet rotating in?
+Describe/sketch the size and shape of the gross features (albedo features, clouds, surface features).
+Can you detect any details in these gross features, or in the seemingly empty regions?
+What colours (if any) are associated with the different features?
+Do coloured eyepiece filters enhance specific features?
+ 
+What to Look For—advanced ideas for double and multiple stars:
+Compare the magnitude and colour of the components
+Note the separation of the components in your telescope (wide, narrow, unobservable)
+Note the Position Angle of the dimmer stars relative to the primary (measured counterclockwise from celestial north for astronomical refractors or newtonian reflectors, but clockwise for optical systems with an odd number of relections).
+Is the double a true binary star or a optical double (chance alignment)—this cannot be observed but must be looked up.
+Try different magnifications.
+A night of steady seeing will allow you to observe closer to your telescope's maximum resolving power, as suggested by the well-known Dawes' limit (see p. 49 in the RASC Observer's Handbook).
+Author: 

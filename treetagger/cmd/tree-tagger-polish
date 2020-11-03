@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# Set these paths appropriately
+
+BIN="/Users/abdelhak/Documents/Master-NLP-(IDMC)/Terminology-&-Ontologies/TERMSUITE_WORKSPACE/treetagger/bin"
+CMD="/Users/abdelhak/Documents/Master-NLP-(IDMC)/Terminology-&-Ontologies/TERMSUITE_WORKSPACE/treetagger/cmd"
+LIB="/Users/abdelhak/Documents/Master-NLP-(IDMC)/Terminology-&-Ontologies/TERMSUITE_WORKSPACE/treetagger/lib"
+
+OPTIONS="-token -lemma -sgml"
+
+TOKENIZER=${CMD}/utf8-tokenize.perl
+TAGGER=${BIN}/tree-tagger
+ABBR_LIST=${LIB}/polish-abbreviations
+PARFILE=${LIB}/polish.par
+
+$TOKENIZER -a $ABBR_LIST $* |
+# tagging
+$TAGGER $OPTIONS $PARFILE

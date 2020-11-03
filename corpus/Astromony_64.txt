@@ -1,0 +1,209 @@
+28.12.  Changes from version 2.04 to 2.05
+Starting with release 2.05, the special unit test system setest designed and developed by RÃ¼diger Plantiko is used by the developers. This improves the reliability of the code considerably and has led to the discovery of multiple bugs and inconsistencies.
+Note: setest is not to be confused with swetest, the test command-line utility program.
+Bug fixes and new features:
+1) The Fixed stars file sefstars.txt was updated with new data from the Simbad Database. Some errors in the file were fixed.
+2) Topocentric positions of planets: The value of speed was not very good. This problem was found by Igor "TomCat" Germanenko in March 2015. A more accurate calculation of speed from three positions has now been implemented.
+In addition, topocentric positions had an error < 1 arcsec if the function swe_calc() was called without SEFLG_SPEED. This problem was found by Bernd MÃ¼ller and has now been fixed.
+3) Initial calls of the Swiss Ephemeris: Some problems were fixed which appeared when users did calculations without opening the Swiss, i.e. without calling the function swe_set_ephe_path().
+NOTE: It is still strongly recommended to call this function in the beginning of an application in order to make sure that the results are always consistent.
+4) New function swe_get_orbital_elements() calculates osculating Kepler elements and some other data for planets, Earth-Moon barycentre, Moon, and asteroids. The program swetest has a new option -orbel that displays these data.
+New function swe_orbit_max_min_true_distance() provides maximum, minimum, and true distance of a planet, on the basis of its osculating ellipse. The program swetest, when called with the option -fq, displays a relative distance of a planet (0 is maximum distance, 1000 is minimum distance).
+5) New house methods were added:
+F - Carter poli-equatorial house system
+D - Equal houses, where cusp 10 = MC
+I - Sunshine
+N - Equal houses, where cusp 1 = 0 Aries
+L - Pullen SD (sinusoidal delta) = ex Neo-Porphyry
+Q - Pullen SR (sinusoidal ratio)
+S - Sripati
+Note:
+Â·       Sunshine houses require some special handling with the functions swe_houses_armc() and swe_house_pos(). Detailed instructions are given in the Programmer's Manual.
+Â·       Until version 2.04, the function swe_house_pos() has provided Placidus positions for the APC method. From version 2.05 on, it provides APC positions, but using a simplified method, namely the position relative to the house cusp and the house size. This is not really in agreement with the geometry of the house system.
+Â·       The same simplified algorithm has been implemented for the following house methods:
+Y APC, I Sunshine, L Pullen SD, Q Pullen SR, S Sripati
+We hope to implement correct geometrical algorithms with time.
+Minor bugfixes with houses:
+Â·       APC houses had nan (not a number) values at geographic latitude 0.
+Â·       APC houses had inaccurate MC/IC at geographic latitude 90.
+Â·       Krusinski houses had wrong (opposite) house positions with function swe_house_pos() at geographic latitude 0.0.
+6) Sidereal zodiac defined relative to UT or TT:
+A problem found by Parashara Kumar with the ayanamsha functions: The function swe_get_ayanamsa() requires TT (ET), but some of the ayanamshas were internally defined relative to UT. Resulting error in ayanamsha were about 0.01 arcsec in 500 CE. The error for current dates is about 0.0001 arcsec.
+The internal definitions of the ayanamshas has been changed and can be based either on UT or on TT.
+Nothing changes for the user, except with user-defined ayanamshas. The t0 used in swe_set_sid_mode() is considered to be TT, except if the new bit flag SE_SIDBIT_USER_UT (1024) is or'ed to the parameter sid_mode.
+7) Ayanamshas: Some ayanamshas were corrected:
+Â·       The "True Revati Ayanamsha" (No. 28) (had the star at 0 Aries instead of 29Â°50' Pisces.
+Â·       The Huber Babylonian ayanamsha (No. 12) has been wrong for many years by 6 arc min. This error was caused by wrong information in a publication by R. Mercier. The correction was made according to Huber's original publication. More information is given in the General Documentation of the Swiss Ephemeris.
+Â·       Ayanamsha having Galactic Centre at 0 Sagittarius (No. 17) has been changed to a "true" ayanamsha that has the GC always at 0 Sag.
+In addition, the following ayanamshas have been added:
+Â·       Galactic ayanamsha (Gil Brand) SE_SIDM_GALCENT_RGBRAND
+Â·       Galactic alignment (Skydram/Mardyks) SE_SIDM_GALALIGN_MARDYKS
+Â·       Galactic equator (IAU 1958) SE_SIDM_GALEQU_IAU1958
+Â·       Galactic equator true/modern SE_SIDM_GALEQU_TRUE
+Â·       Galactic equator in middle of Mula SE_SIDM_GALEQU_MULA
+Â·       True Mula ayanamsha (Chandra Hari) SE_SIDM_TRUE_MULA
+Â·       Galactic centre middle Mula (Wilhelm) SE_SIDM_GALCENT_MULA_WILHELM
+Â·       Aryabhata 522 SE_SIDM_ARYABHATA_522
+Â·       Babylonian Britton SE_SIDM_BABYL_BRITTON
+More information about these ayanamshas is given in the General Documentation of the Swiss Ephemeris.
+8) _TRUE_ ayanamshas algorithm (True Chitra, True Revati, True Pushya, True Mula, Galactic/Gil Brand, Galactic/Wilhelm) always keep the intended longitude, with or without the following iflags: SEFLG_TRUEPOS, SEFLG_NOABERR, SEFLG_NOGDEFL.
+So far, the True Chitra ayanamsha had Spica/Chitra at 180Â° exactly if the apparent position of the star was calculated, however not if the true position (without aberration/light deflection) was calculated. However, some people may find it more natural if the starâ€™s true position is exactly at 180Â°.
+9) Occultation function swe_lun_occult_when_loc():
+Â·       Function did not correctly detect daytime occurrence with partial occultations (a rare phenomenon).
+Â·       Some rare occultation events were missed by the function.
+As a result of the changes three are very small changes in the timings of the events.
+Â·       Occultation of fixed stars have provided four contacts instead of two. Now there are only two contacts.
+10) Magnitudes for Venus and Mercury have been improved according to Hilten 2005.
+The Swiss Ephemeris now provides the same magnitudes as JPL's Horizons System.
+11) Heliacal functions: A few bugs discovered by Victor Reijs have been fixed, which however did not become apparent very often.
+12) User-defined Delta T: For archeoastronomy (as suggested by Victor Reijs) a new function swe_set_delta_t_userdef() was created that allows the user to set a particular value for delta t.
+13) Function swe_nod_aps(): a bug was fixed that occurred with calculations for the EMB.
+14) New function swe_get_library_path(): The function returns the path in which the executable resides. If it is running with a DLL, then returns the path of the DLL.
+28.13.  Changes from version 2.03 to 2.04
+The DLL of version 2.03 is not compatible with existing software. In all past versions, the function names in the DLL were â€œdecoratedâ€� (i.e. they had an initial â€˜_â€™ and a final â€˜@99â€™). However, version 2.03 had the function names â€œundecoratedâ€�. This was a result of the removal of the PASCAL keyword from the function declarations. Because of this, the DLL was created with the __cdecl calling convention whereas with the PASCAL keyword it had been created with the __stdcall calling convention.
+Since VBA requires __stdcall, we return to __stdcall and to decorated function names.
+The macro PASCAL_CONV, which had been misleading, was renamed as CALL_CONV.
+28.14.  Changes from version 2.02.01 to 2.03
+This is a minor release, mainly for those who wish a thread-safe Swiss Ephemeris. It was implemented according to the suggestions made by RÃ¼diger Plantico and Skylendar. Any errors might be Dieter Kochâ€™s fault. On our Linux system, at least, it seems to work.
+However, it seems that that we cannot build a thread-safe DLL inhouse at the moment. If a group member could provide a thread-safe DLL, that could be added to the Swiss Ephemeris download area.
+Other changes:
+FAR, PASCAL, and EXP16 macros in function declarations were removed.
+Minor bug fixes:
+Â·       swe_calc_ut(): With some nonsensical SEFLG_ combinations, such as a combination of several ephemeris flags, slightly inconsistent results were returned.
+Â·       swe_calc(planet) with SEFLG_JPLEPH: If the function was called with a JD beyond the ephemeris range, then a subsequent call of swe_calc(SE_SUN) for a valid JD would have provided wrong result. This was a very old bug, found by Anner van Hardenbroek.
+Note, other issues that have been discussed recently or even longer ago had to be postponed.
+Â·       For better backward-compatibility with 2.0x, the behavior of the old Delta T function swe_deltat() has been modified as follows:
+swe_deltat() assumes
+SEFLG_JPLEPH, if a JPL file is open;
+SEFLG_SWIEPH, otherwise.
+Usually, this modification does not result in values different from those provided by former versions SE 2.00 and 2.01.
+Note, SEFLG_MOSEPH is never assumed by swe_deltat(). For consistent handling of ephemeris-dependent Delta T, please use the new Delta T function swe_deltat_ex(). Or if you understand the lunar tidal acceleration problem, you can use swe_set_tid_acc() to define the value you want.
+Â·       With version 2.02, software that does not use swe_set_ephe_path() or swe_set_jpl_file() to initialize the Swiss Ephemeris may fail to calculate topocentric planets with swe_calc() or swe_calc_ut() (return value ERR). Version 2.02.01 is more tolerant again.
+Â·       Ayanamshas TRUE_REVATI, TRUE_PUSHYA now also work if not fixed stars file is found in the ephemeris path. With TRUE_CHITRA, this has been the case for longer.
+Â·       Bug fixed: since version 2.00, the sidereal modes TRUE_CHITRA, TRUE_REVATI, TRUE_PUSHYA provided wrong latitude and speed for the Sun.
+Thanks to Thomas Mack for some contributions to this release.
+Many thanks to all who have contributed bug reports, in particular Thomas Mack, Bernd MÃ¼ller, and Anner van Hardenbroek.
+Swiss Ephemeris 2.02 contains the following updates:
+Â·       A bug was fixed in sidereal time functions before 1850 and after 2050. The bug was a side effect of some other bug fix in Version 2.01. The error was smaller than 5 arc min for the whole time range of the ephemeris.
+The bug also resulted in errors of similar size in azimuth calculations before 1850 and after 2050.
+Moreover, the bug resulted in errors of a few milliarcseconds in topocentric planetary positions before 1850 and after 2050.
+In addition, the timings of risings, settings, and local eclipses may be slightly affected, again only before 1850 and after 2050.
+Â·       A bug was fixed that sometimes resulted in a program crash when function calls with different ephemeris flags (SEFLG_JPLEPH, SEFLG_SWIEPH, and SEFLG_MOSEPH) were made in sequence.
+Â·       Delta T functions:
+Â·       New function swe_deltat_ex(tjd_ut, ephe_flag, serr), where ephe_flag is one of the following:
+SEFLG_SWIEPH, SEFLG_JPLEPH, SEFLG_MOSEPH, and serr the usual string for error messages.
+It is wise to use this new function instead of the old swe_deltat(), especially if one uses more than one ephemeris or wants to compare different ephemerides in UT.
+Detailed explanations about this point are given further below in the general remark concerning Swiss Ephemeris 2.02 and above in chap. 8 (on Delta T functions).
+Â·       The old function swe_deltat() was slightly modified. It now assumes
+SEFLG_JPLEPH, if a JPL file is open;
+SEFLG_SWIEPH, if a Swiss Ephemeris sepl* or semo* file is found;
+SEFLG_MOSEPH otherwise.
+Usually, this modification does not result in values different from those provided by former versions SE 2.00 and 2.01.
+Â·       Ayanamsha functions:
+Â·       New functions swe_get_ayanamsa_ex(), swe_get_ayanamsa_ex_ut() had to be introduced for similar reasons as swe_deltat_ex(). However, differences are very small, especially for recent dates.
+For detailed explanations about this point, see general remarks further below.
+Â·       The old function swe_get_ayanamsa() was modified in a similar way as swe_deltat().
+Usually, this modification does not result in different results.
+Â·       Eclipse and occultation functions:
+Â·       Searches for non-existing events looped through the whole ephemeris.
+With version 2.02, an error is returned instead.
+Â·       Simplified (less confusing) handling of search flag in functions swe_sol_eclipse_when_glob() and swe_lun_occult_when_glob() (of course backward compatible).
+Â·       fixed bug: swe_lun_occult_when_loc() has overlooked some eclipses in polar regions (bug introduced in Swiss Ephemeris 2.01)
+Â·       SEFLG_JPLHOR also works in combination with SEFLG_TOPOCTR
+swetest:
+Â·       The parameter -at(pressure),(temperature) can also be used with calculation of risings and altitudes of planets.
+Â·       Some rounding errors in output were corrected.
+Â·       swemptab.c was renamed swemptab.h.
+Â·       Small correction with SEFLG_MOSEPH: frame bias was not correctly handled so far. Planetary positions change by less than 0.01 arcsec, which is far less than the inaccuracy of the Moshier ephemeris.
+A general remark concerning Swiss Ephemeris 2.02:
+Since Swiss Ephemeris 2.0, which can handle a wide variety of JPL ephemerides, old design deficiencies of some functions, in particular swe_deltat(), have become incommoding under certain circumstances. Problems may (although need not) have occurred when the user called swe_calc_ut() or swe_fixstar_ut() for the remote past or future or compared planetary positions calculated with different ephemeris flags (SEFLG_SWIEPH, SEFLG_JPLEPH, SEFLG_MOSEPH).
+The problem is that the Delta T function actually needs to know what ephemeris is being used but does not have an input parameter ephemeris_flag. Since Swiss Ephemeris 2.00, the function swe_deltat() has therefore made a reasonable guess what kind of ephemeris was being used, depending on the last call of the function swe_set_ephe_path(). However, such guesses are not necessarily always correct, and the functions may have returned slightly inconsistent return values, depending on previous calculations made by the user. Although the resulting error will be always smaller than the inherent inaccuracy in historical observations, the design of the function swe_deltat() is obviously inappropriate.
+A similar problem exists for the function swe_get_ayanamsa() although the possible inconsistencies are very small.
+To remedy these problems, Swiss Ephemeris 2.02 introduces new functions for the calculation of Delta T and ayanamsha:
+swe_deltat_ex(),
+swe_get_ayanamsa_ex_ut(), and
+swe_get_ayanamsa_ex()
+(The latter is independent of Delta T, however some ayanamshas like True Chitrapaksha depend on a precise fixed star calculation, which requires a solar ephemeris for annual aberration. Therefore, an ephemeris flag is required.)
+Of course, the old functions swe_deltat(), swe_get_ayanamsa(), and swe_get_ayanamsa_ut() are still supported and work without any problems as long as the user uses only one ephemeris flag and calls the function swe_set_ephe_path() (as well swe_set_jpl_file() if using SEFLG_JPLEPH) before calculating Delta T and planetary positions. Nevertheless, it is recommended to use the new functions swe_deltat_ex(), swe_get_ayanamsa_ex(), and swe_get_ayanamsa_ex_ut() in future projects.
+Also, please note that if you calculate planets using swe_calc_ut(), and stars using swe_fixstar_ut(), you usually need not worry about Delta T and can avoid any such complications.
+28.17.  Changes from version 2.00 to 2.01
+Many thanks to those who reported bugs or made valuable suggestions. And I apologize if I forgot to mention some name.
+Note: Still unsolved is the problem with the lunar node with SEFLG_SWIEPH, discovered recently by Mihai (I don't know his full name).
+Â·       https://groups.yahoo.com/neo/groups/swisseph/conversations/topics/4829?reverse=1
+This problem, which has existed "forever", is tricky and will take more time to solve.
+Improvements and updates:
+Â·       Lunar tidal acceleration for DE431 was updated to -25.8 arcsec/cty^2.
+IPN Progress Report 42-196, February 15, 2014, p. 15: W.M. Folkner & alii, â€œThe Planetary and Lunar Ephemerides DE430 and DE431â€�.
+Â·       leap seconds of 2012 and 2015 added. (Note, users can add future leap seconds themselves in file seleapsec.txt.
+Â·       New values for Delta T until 2015, updated estimations for coming years.
+Â·       #define NO_JPL was removed
+Â·       True Pushya paksha ayanamsha added, according to PVR Narasimha Rao.
+Fixes for bugs introduced with major release 2.0:
+Â·       Topocentric speed of planets was buggy after 2050 and before 1850, which was particularly obvious with slow planets like Neptune or Pluto. (Thanks to Igor "TomCat" Germanenko for pointing out this bug.)
+This was caused by the new (since 2.0) long-term algorithm for Sidereal Time, which interfered with the function swe_calc().
+Â·       Topocentric positions of the *Moon* after 2050 and before 1850 had an error of a few arc seconds, due to the same problem. With the Sun and the planets, the error was < 0.01 arcsec.
+Â·       Another small bug with topocentric positions was fixed that had existed since the first release of topocentric calculations, resulting in very small changes in position for the whole time range of the ephemeris.
+Errors due to this bug were < 0.3 arcsec for the Moon and < 0.001" for other objects.
+Â·       A small bug in the new long-term algorithm for Sidereal Time, which is used before 1850 and after 2050, was fixed. The error due to this bug was < 0.1 degree for the whole ephemeris time range.
+Â·       Since Version 2.0, swe_set_tid_acc() did not work properly anymore, as a result of the new mechanism that chooses tidal acceleration depending on ephemeris. However, this function is not really needed anymore.
+Â·       Sidereal modes SE_SIDBIT_ECL_T0, SE_SIDBIT_SSY_PLANE did not work correctly anymore with ayanamshas other than Fagan/Bradley.
+Â·       Ephemeris time range was corrected for a few objects:
+Chiron ephemeris range defined as 675 AD to 4650 AD.
+Pholus ephemeris range defined as -2958 (2959 BC) to 7309 AD.
+Time range of interpolated lunar apside defined as -3000 (3001 BC) to 3000 AD.
+Â·       Suggestion by Thomas Mack, concerning 32-bit systems:
+"... #define _FILE_OFFSET_BITS 64
+has to appear before(!) including the standard libraries. ... You then can compile even on 32 bit systems without any need for work arounds."
+Fixes for other bugs (all very old):
+Â·       Function swe_lun_eclipse_when_loc(): From now on, an eclipse is considered locally visible if the whole lunar disk is above the local geometric horizon. In former versions, the function has returned incorrect data if the eclipse ended after the rising of the upper and the rising of the lower limb of the moon or if it began between the setting of the lower and the setting of the upper limb of the moon.
+Â·       The same applies for the function swe_sol_eclipse_when_loc(), which had a similar problem.
+Â·       Some solar and lunar eclipses were missing after the year 3000 CE.
+The following functions were affected:
+swe_lun_eclipse_when(), swe_sol_eclipse_when_glob(), swe_sol_eclipse_when_loc().
+There was no such problem with the remote past, only with the remote future.
+Â·       Functions swe_lunar_occult_when_glob() and swe_lunar_occult_when_loc() were improved. A better handling of rare or impossible events was implemented, so that infinite loops are avoided. For usage of the function, see example in swetest.c and programmers docu. The flag SE_ECL_ONE_TRY must be used, and the return value checked, unless you are really sure that events do occur.
+Â·       swe_nod_aps() now understands iflag & SEFLG_RADIANS
+Â·       In swetest, are rounding bug in degrees, minutes, seconds fixed.
+180.0000000000000 could have been printed as "179Â°59'59.1000".
+28.18.  Changes from version 1.80 to 2.00
+This is a major release which makes the Swiss Ephemeris fully compatible with JPL Ephemeris DE430/DE431.
+A considerable number of functions were updated. That should not be a problem for existing applications. However, the following notes must be made:
+1.   New ephemeris files sepl*.se1 and semo*.se1 were created from DE431, covering the time range from 11 Aug. -12999 Jul. (= 4 May -12999 Greg.) to 7 Jan. 16800. For consistent ephemerides, users are advised to use either old sepl* and semo* files (based on DE406) or new files (based on DE431) but not mix old and new ones together. The internal handling of old and new files is not 100% identical (because of 3. below).
+2.   Because the time range of DE431 is a lot greater than that of DE406, better algorithms had to be implemented for objects not contained in JPL ephemerides (mean lunar node and apogee). Also, sidereal time and the equation of time had to be updated in order to give sensible results for the whole time range. The results may slightly deviate from former versions of the Swiss Ephemeris, even for epochs inside the time range of the old ephemeris.
+3.   Until version 1.80, the Swiss Ephemeris ignored the fact that the different JPL ephemerides have a different inherent value of the tidal acceleration of the Moon. Calculations of Delta T must be adjusted to this value in order to get best results for the remote past, especially for ancient observations of the Moon and eclipses. Version 2.0 might result in slightly different values for Delta T when compared with older versions of the Swiss Ephemeris. The correct tidal acceleration is automatically set in the functions swe_set_ephe_path() and swe_set_jpl_file(), depending on the available lunar ephemeris. It can also be set using the function swe_set_tid_acc(). Users who work with different ephemerides at the same time, must be aware of this issue. The default value is that of DE430.
+New functionality and improvements:
+Â·       Former versions of the Swiss Ephemeris were able to exactly reproduce ephemerides of the Astronomical Almanac. The new version also supports apparent position as given by the JPL Horizons web interface ( http://ssd.jpl.nasa.gov/horizons.cgi ). Please read the chapter 2.4.5.i in this file above.
+Â·       swe_sidtime() was improved so that it give sensible results for the whole time range of DE431.
+Â·       swe_time_equ() was improved so that it give sensible results for the whole time range of DE431.
+Â·       New functions swe_lmt_to_lat() and swe_lat_to_lmt() were added. They convert local mean time into local apparent time and reverse.
+Â·       New function swe_lun_eclipse_when_loc() provides lunar eclipses that are observable at a given geographic position.
+Â·       New ayanamsha SE_SID_TRUE_CITRA (= 27, â€œtrue chitrapaksha ayanamshaâ€�). The star Spica is always exactly at 180Â°.
+Â·       New ayanamsha SE_SIDM_TRUE_REVATI (= 28), with the star Revati (zeta Piscium) always exactly at 0Â°.
+Bug fixes:
+Â·       swetest.c, line 556: geopos[10], array size was too small in former versions
+Â·       swetest.c, option -t[time] was buggy
+Â·       a minor bugfix in swe_heliacal_ut(): in some cases, the morning last of the Moon was not found if visibility was bad and the geographic latitude was beyond 50N/S.
+Â·       unused function swi_str_concat() was removed.
+Â·       Security update: improved some places in code where buffer overflow could occur (thanks to Paul Elliott)
+Â·       APC house system
+Â·       New function swe_house_name(), returns name of house method
+Â·       Two new ayanamshas: Suryasiddhanta Revati (359â€™50 polar longitude) and Citra (180Â° polar longitude)
+Â·       Bug fix in swehel.c, handling of age of observer (thanks to Victor Reijs).
+Â·       Bug fix in swe_lun_occult_when_loc(): correct handling of starting date (thanks to Olivier Beltrami)
+28.20.  Changes from version 1.78 to 1.79
+Â·       Improved precision in eclipse calculations: 2nd and 3rd contact with solar eclipses, penumbral and partial phases with lunar eclipses.
+Â·       Bug fix in function swe_sol_eclipse_when_loc().If the local maximum eclipse occurs at sunset or sunrise, tret[0] now gives the moment when the lower limb of the Sun touches the horizon. This was not correctly implemented in former versions
+Â·       Several changes to C code that had caused compiler warnings (as proposed by Torsten FÃ¶rtsch).
+Â·       Bug fix in Perl functions swe_house() etc. These functions had crashed with a segmentation violation if called with the house parameter â€˜Gâ€™.
+Â·       Bug fix in Perl function swe_utc_to_jd(), where gregflag had been read from the 4th instead of the 6th parameter.
+Â·       Bug fix in Perl functions to do with date conversion. The default mechanism for gregflag was buggy.
+Â·       For Hindu astrologers, some more ayanamshas were added that are related to Suryasiddhanta and Aryabhata and are of historical interest.
+Â·       precession is now calculated according to VondrÃ¡k, Capitaine, and Wallace 2011.
+Â·       Delta t for current years updated.
+Â·       new function: swe_rise_trans_true_hor() for risings and settings at a local horizon with known height.
+Â·       functions swe_sol_eclipse_when_loc(), swe_lun_occult_when_loc(): return values tret[5] and tret[6] (sunrise and sunset times) added, which had been 0 so far.
+Â·       function swe_lun_eclipse_how(): return values attr[4-6] added (azimuth and apparent and true altitude of moon).
+Â·       Attention with swe_sol_eclipse_how(): return value attr[4] is azimuth, now measured from south, in agreement with the function swe_azalt() and swe_azalt_rev().
+Â·       minor bug fix in swe_rise_trans(): twilight calculation returned invalid times at high geographic latitudes.
+Â·       minor bug fix: when calling swe_calc() 1. with SEFLG_MOSEPH, 2. with SEFLG_SWIEPH, 3. again with SEFLG_MOSEPH, the result of 1. and 3. were slightly different. Now they agree.
+Â·       minor bug fix in swe_houses(): With house methods H (Horizon), X (Meridian), M (Morinus), and geographic latitudes beyond the polar circle, the ascendant was wrong at times. The ascendant always has to be on the eastern part of the horizon.

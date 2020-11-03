@@ -1,0 +1,854 @@
+SkySafari Manual
+This section contains a copy of the SkySafari manual.  This manual is also included with the SkySafari app, under the Help section.  Sometimes it's convenient to have the manual on a separate screen while you're using the app, so we've included it here as well.
+This manual applies to all three versions of SkySafari 5 - basic, Plus, and Pro.  The manual notes where the versions differ.  Some features are only present in SkySafari Plus and Pro.
+Sky Chart & Toolbar
+This section describes the main Sky Chart window, and the functions of the main toolbar buttons below it.  The Scope button (for telescope control) is only present in SkySafari Plus and Pro, and is described under the Scope Control section below.
+Introduction - an overview of the apps, and what's different about them.
+Sky Chart - how to navigate the main sky chart view.
+Search - how to find and choose objects of interest.
+Object Info - provides detailed data and descriptions for objects.
+Center - centers the selected object in the sky chart.
+Time Flow - easy animation controls to show how the sky changes over time.
+Scope Control - telescope controls; only found in SkySafari Plus and Pro.
+Orbit - lets you leave Earth behind, and orbit the Sun, other Solar System objects, and even nearby stars.
+Compass & Gyro - turns the compass (or gyro) on or off; not present if your device has no compass.
+Night Vision - turns night vision mode on or off.
+SkyWeek - shows Sky & Telescope magazine's weekly guide to events in the night sky.
+Tonight At A Glance - provides a concise summary of what is happening in the sky.
+Settings
+A detailed guide to the many settings screens available in SkySafari.  All of these settings are available under the Settings button in the main toolbar.
+Date & Time - lets you simulate the sky at any date/time in the past or future.
+Location - moves you to any location on the Earth's surface.
+Coordinates - precisely set the direction and field of view of the sky chart.
+Precession - provides fine control over SkySafari's celestial computations; only in SkySafari Plus and Pro.
+Formats - controls how date, time, and celestial coordinates are displayed; only in SkySafari Plus and Pro.
+Appearance - controls the "look and feel" of the app, including Night Vision, and sounds.
+Horizon & Sky - gives you options to display the local horizon, including daylight.
+Solar System - options for displaying planets, moons, asteroids, comets, and spacecraft.
+Stars - options for the display of stars.
+Deep Sky Objects - display options for star clusters, nebulae, and galaxies.
+Milky Way - controls display of the Milky Way - Earth's home galaxy.
+Grids & Reference - display for celestial coordinate grids and reference points; only in SkySafari Plus and Pro.
+Save & Restore Settings - easily save and recall your sky chart settings, and email them to friends.
+Storage - store observing lists and saved settings files in the cloud.
+Scope Control
+This section describes the user interface for the telescope control feature of SkySafari Plus and Pro.  The Scope Control view is available in the main toolbar; the telescope communication and display settings are located in the Settings view.
+Scope Control - the telescope control interface, available in the main sky chart toolbar.
+Scope Setup - tells SkySafari what kind of telescope you have, and how you're connected.
+Scope Display - controls how SkySafari shows your scope's field of view in the sky chart.
+Scope Equipment - enter information about your telescopes, eyepieces, finder scope, and/or camera(s).
+Celestron Wi-Fi - control compatible Celestron Wi-Fi telescopes.
+Settings Files & Observing Lists
+This section describes the types of files that you can generate with SkySafari.  Settings files are saved and restored in the Settings view.  Observing lists, found only in SkySafari Plus and Pro, are created under the Search view.
+Settings Files - let you save and recall your sky chart settings, and email them to friends.
+Observing Lists - plan and record an evening's observations; only in SkySafari Plus and Pro.
+Additional Resources
+Join an astronomy club or go to a star party!
+Night Sky Network - an on-line directory of astronomy events like star parties, club meetings, and public lectures taking place across the United States.
+The constellations Sagittarius and Scorpius (highlited), shown by SkySafari
+as mythical figures, near the center of the Milky Way.
+Introduction
+SkySafari is a powerful planetarium that fits in your pocket.  It puts thousands of stars, planets, and other objects at your fingertips.  With SkySafari Plus and Pro, you can let you fly into orbit around other planets and stars, and control computerized telescopes wirelessly.  SkySafari is a celestial travel guide that lets you explore the universe.
+SkySafari's basic version includes everything you need to get started learning the night sky: 120,000 stars; over 200 star clusters, nebulae, and galaxies; all major planets and moons, and dozens of asteroids, comets, and satellites - including the ISS.  Here's what you can do with SkySafari:
+SkySafari now supports Apple Watch, putting the Sun, Moon, Planets, and more on your wrist!
+Simulate the night sky from anywhere on planet Earth, up to 100 years in the past or future.
+Search for celestial objects, and locate them in the sky using your iDevice's built-in motion hardware.
+Animate transits, conjunctions, eclipses, and other events with SkySafari's Time controls.
+Explore the sky with Night Vision turned on, and preserve your eyesight after dark.
+Learn the history, mythology, and science of the heavens from SkySafari's hundreds of object descriptions.
+Browse hundreds of astronomical photographs and NASA spacecraft images. Stay up-to-date with SkyWeek, Sky & Telescope's mobile portal to all major sky events for every day of the week. Miss nothing!
+All this is built into SkySafari - you don't need an internet connection to use it. SkySafari Plus and Pro add even more - but the basic version is everything the casual stargazer will ever want. (Please note: there is no discount upgrade path to SkySafari Plus or Pro.)
+SkySafari Plus
+SkySafari Plus is everything in SkySafari, plus more.  Plus adds a hugely expanded database, wired or wireless telescope control, and spaceflight to SkySafari.
+The Plus version includes 2.5 million stars, 31,000 deep sky objects, the Solar System's major planets and moons, and over 4,000 updatable asteroids, comets, and satellites. Simulate the sky from any place in the Solar System, up to 10,000 years in the past or future. Expand your astronomical knowledge with over 1500 encyclopedic descriptions of the constellations, stars, and planets. Enjoy more than 800 images from NASA space missions, the Hubble Space Telescope, and the world's foremost astro-photographers.
+With SkySafari Plus, you can leave Earth's surface behind. Tap the Orbit button to fly into orbit around other objects in the Solar System, and beyond it. Follow eclipses, occultations, and transits in Earth's sky - and beyond! View the planets and their moons as only NASA space probes have - even label every crater on them.
+SkySafari Plus adds wired or wireless control for Celestron, Meade, Orion, SkyWatcher, and many other computerized telescopes. It can point your GoTo or "Push-To" telescope anywhere in the sky, using your iPhone/iPad/iPod's built-in WiFi, and our SkyFi or SkyWire serial accessories (sold separately). Plan observing sessions with Observing Lists, log your observations into them, and share them with friends. More astronomers use SkySafari for telescope control than any other app!
+SkySafari Pro
+SkySafari Pro has the largest database of any astronomy app, period. It contains everything in SkySafari Plus, and adds over 1.2 GB of data, including 25 million stars from both Hubble Guide Star catalogs, over 740,000 galaxies down to 18th magnitude, and over 630,000 solar system objects - including every comet and asteroid ever discovered.  It simulates the view from anywhere in the solar system - or beyond it - at up to a million years in the past or future.
+SkySafari Pro includes NASA's latest Moon and Mars maps, with 8x the resolution of any other SkySafari version. It's an astronomical encyclopedia, with over 1500 encyclopedic descriptions of the constellations, stars, and planets written by professionals. And it includes 800 images from NASA space missions, the Hubble Space Telescope, and the world's foremost astro-photographers - now in breathtaking high definition on your iPad!
+SkySafari Pro will revolutionize your astronomical viewing experience, and replace desktop astronomy software costing ten times more. If you're serious about astronomy, it's a deal you can't afford to miss.
+Sky Chart Help
+The Sky Chart view is the primary screen of SkySafari. It consists of the Time and Location bar at the top, the main Sky Chart in the middle, and a Menu bar along the bottom.
+The first time your run SkySafari, the program will ask if you want to retrieve your current location using the GPS or network location capabilities built into your iOS or Android device.  You can always change these settings later, using the main Settings view.
+Status Bar
+The status bar at the top of the screen displays the current date, time and location used by the application to depict the night sky. These values may be changed using the Settings view.
+After you tap on an object, the status bar also shows an object's common name, catalog number, magnitude, type, and constellation for a few seconds.  You can get this information back by tapping the status bar again.  You can still get more detailed information on the object by tapping the "Info" button in the toolbar, or by double-tapping on the object itself.
+Menu Bar
+The menu bar contains buttons to bring up commonly-used functions and other secondary views used by SkySafari.  These include Search, Object Info, Center, Orbit, Settings, Time Flow, Compass, Night Vision, SkyWeek, Scope Control, and Help.  Android users can toggle the menu bar by tapping the hardware Menu button on their device.
+Tip: On  the iPhone, iPod touch, and Android phones with small screens, you can swipe the menu bar left or right to access more items.  A small arrow by the left- or right-most icon indicates there are more items in that direction.  Users of SkySafari on iOS can also change the icon order using the Appearance panel in the Settings.
+Sky Chart
+The sky chart shows an accurate depiction of the sky.  The information displayed is highly configurable, and may be changed in the SkySafari Settings views. The sky chart shows the location of the stars, planets, and deep sky objects (star clusters, nebulae, and galaxies) as seen from your date, time, and location.
+Tap an object on the sky chart to select it. If there are multiple objects next to each other and the first tap selects the wrong object, tap again and SkySafari will select an alternate object nearby.  Once you have selected an object, double-tap it (or tap the Info button in the menu bar) to bring up the Object Info view.  The Object Info view shows numerical data for the object, as well as English-language descriptions and images for many of the brighter objects in the sky.
+The horizon is shown with a customizable image that you change in the Settings > Horizon & Sky view.  The cardinal directions (east, northeast, north, etc.) marked.  Note: if the sky chart is using Equatorial coordinates (see Settings > Coordinates) the horizon will not be shown.
+Measuring Distance
+In SkySafari Plus and Pro, you can double-tap the screen to measure the distance between objects.  Double-tapping shows a line between your selected object and the object where you double-tapped.  The angular distance in the sky between the objects is shown at the end of the line, as well as the physical distance between those objects in space (if known).  You can drag the end of the line to measure from your selected object to other objects on the screen.
+Tap anywhere away from the distance measurement line to dismiss it.
+Swiping and Zooming
+Touch the chart and drag to change the direction you are looking in the sky.  You can pinch with two fingers to change the field of view shown in the chart.  You can zoom the field of view from 180 degrees, showing you the whole sky at once, down to 0.1 arcminutes - about the average size of Mars as seen from Earth.
+You can also zoom in or out by touching and holding your finger down on the + and - sign in the lower right and left corners of the sky chart.  This is much easier than pinching and zooming, especially when you're trying to zoom in or out by a factor of 100x or more!
+Coordinates and Field of View Displays
+The coordinates of the chart's center, and the width and height of the field of view, are displayed at the top of the chart.  You can turn this feature on or off using the "On Screen Display" settings in the Settings > Field of View screen (or Settings > Coordinates in SkySafari Plus and Pro).
+Popup Control Panels: In SkySafari Plus and Pro, tap the coordinates or field of view at the top of the sky chart to display a popup control panel which quickly lets you change these items.
+Tap the coordinates at the top left corner of the sky chart to quickly look north/south/east/west, to adjust the star or deep sky magnitude limits, or to change coordinate systems.  Tap the field of view at the top right corner of the sky chart to quickly change the field of view from 1 to 180 degrees, show field-of-view indicator rings, and flip the chart horizontally or vertically to match the view seen through your telescope's eyepiece.
+Search
+The search view lets you search for objects, by typing their names, or by choosing them from lists.  In SkySafari Plus and Pro, the Search view also lets you manage observing lists, which are lists of objects that you can create and edit yourself.  Observing lists help you plan your observing sessions, and record logs of your observations.
+Search
+At the top of the list view is a search field. Enter all or the first part of an object's name; then tap the Search button to display a list of matching objects.  For example, if you search for "Saturn", SkySafari will find both the planet Saturn and the Saturn Nebula.
+You can search for an object using any of its catalog designations.  For example, the Andromeda Galaxy can be found as M31, NGC 224, UGC 454, PGC 2557, MCG 7-2-16 or CGCG 535-17.  Likewise, the double star Porrima can be found as Gamma Virginis, 29 Vir, HR 4826, SAO 138917, BD -00 2601, HIP 61941, STF 1670, ADS 8630 or WDS 12417-0127.
+You can find all objects in a particular catalog by entering just the catalog name (or its standard abbreviation) For example, you can find all the Caldwell objects by searching for just "Caldwell" (or "C") without a specific object number.
+All of the objects matching your search will be displayed in the list of results.  Objects below the horizon are dimmed, but still selectable.
+Choose a specific object from that list to bring up the Object Info view for that object.  If there is only one object which matches the name you entered, the Object Info will be shown immediately, without a list of search results (since that list would contain only one item!)
+Advanced Search
+In SkySafari Plus or Pro, you can search for objects based on properties other than their name(s) or catalog number(s).  For example, you could search for all galaxies in Virgo brighter than magnitude 10, or all asteroids more than 45 degrees above the horizon. Please Note: this feature is not available in the basic version of SkySafari.
+To search for objects this way, tap the Advanced Search item below the text entry field.  Then select the following:
+Object Types: the kind(s) of objects you want to find - for example, Stars, Open Clusters, .Bright Nebulae, Galaxies,  Planets, or Comets.  You can choose more than one object type..
+Range Restrictions: the limits for properties of objects you want to find. Enter the minimum value in the left, and the maximum on the right. For example, to find objects with a magnitude between 4 and 5, enter "4" on the left and "5" on the right under Magnitude.   If you leave any field blank, no limit will be applied to that value.  For example, you can search for all objects closer than 10 light years by leaving the left side blank (no minimum distance), and entering 10 on the right side (maximum distance 10 light years) under Distance.
+Constellation: the constellation where you want to find objects.  For example, to find only objects in Orion, choose Orion from the constellation list.  If you want to find objects in any constellation, turn the wheel to "All Constellations" (the default).
+Finally, tap Search at the bottom of the view.  Your results will be displayed in an object list, just as if you'd searched for them by name.
+To reset all of your advanced search parameters to their defaults, tap Reset All.
+Common Object Lists
+This section contains lists of the most commonly-known objects in the sky (e.g. planets, stars, deep sky objects, etc). Choose a list to display the most commonly-known objects in that category.  For example, the Planets list shows the major planets in our solar system; the Brightest Stars list shows the brightest stars in the sky; the Messier Objects list shows the most famous 110 star clusters, nebulae, and galaxies, etc.
+Objects currently above the horizon are listed with a brighter text color.  Objects below the horizon are dimmed, but you can still select them.  Choose a specific object from this list to bring up the Object Info view. This view displays basic information about the object, and contains buttons to center it in the sky chart or in your telescope's field of view.
+Tonight's Best is a list of the best objects that will be visible between tonight's dusk and tomorrow's dawn.  The objects in this list change depending on your location, and on the date.  An object must reach at least six degrees above the horizon between astronomical dusk and dawn to be included in this list.
+In SkySafari's basic version, Tonight's Best list includes only brightest stars and planets visible to the naked eye, and the brightest and best-known deep sky objects that can be seen with a pair of binoculars.  SkySafari Plus and Pro add the best double and variable stars, star clusters, nebulae, and galaxies visible in small backyard telescopes.  A few objects of extreme astrophysical or historical importance are also in the list, even if they're difficult or impossible to see in a backyard telescope - like Barnard's Star, Halley's Comet (at least until 2061), and Eris - the "dwarf planet" which dethroned Pluto as the solar system's outermost planet.
+Objects in the list are sorted by their transit times, giving you a natural order in which to observe them.  If you are viewing Tonight's Best list during daylight hours, many objects toward the end of the list may not have risen yet, and so are dimmed in the list.  Similarly, if you are viewing Tonight's Best list in the early hours before dawn, objects near the start of the list may have already set, and so are also dimmed.
+Custom Observing Lists
+In SkySafari Plus and Pro, a button labelled Make Observing List appears below the list of search results, below all common objects lists, including Tonight's Best.  You can tap this button to convert your list of search results, or the common object list, or the Tonight's Best list, into a custom observing list.
+Custom observing lists keep track of objects you want to observe, and record logs of your observations.  By default, SkySafari comes with a single, empty observing list called "My Favorites".  To create additional lists, tap the Create New Observing List button at the bottom of the Search view.
+Please Note: this feature is only available in SkySafari Plus and Pro.  For more information on observing lists, see the Observing Lists Help section.
+You can rearrange and delete observing lists.  Here's how.
+On iOS, tap the Edit button at the top of the screen.  Then tap and drag the "grip" icon on the right side of the list to move it around the screen.  Tap and drag the - (minus) icon on the left side of the list to delete it.  Tap the End Edit button at the top of the screen when you're finished.
+On Android,  tap the Edit link at the top of the screen.  Up/down arrows and a trash can appear at the bottom of the screen.  Then tap the observing list you want to move or delete.  Use the up/down arrows to move the item in the list, or tap the trash can to delete it.  When finished, tap the End Edit link at the top of the screen.
+To move or delete items inside an observing list, use the same techniques after you've tapped on an individual list to view the items within it.
+Sorting and Highlighting List Objects
+In SkySafari Plus and Pro, you can change the way objects in a list are sorted.  You can do this both with common object lists, and custom observing lists.
+To change the way a list is sorted, first tap the Settings at the top of the list.  Then choose the value to sort the objects by.  You can sort objects by their name, catalog number(s), magnitude, distance, constellation, rise/transit/set times, or coordinates in the sky.
+You can highlight objects in a list, to show their distribution in the sky.  You can do this both with common object lists, and custom observing lists.
+To highlight a list of objects, first tap the Settings at the top of the list.  Then turn on the Highlight Objects switch at the top of the settings.  Objects in that list will then be highlighted with blue circles in the sky chart.  The objects will be highlighted even if they are fainter than the sky chart's current magnitude limit, so you can easily find them.
+Only one object list can be highlighted at a time.  If you turn on the Highlight Objects switch for one list, SkySafari will turn it off for all other object lists.
+When the Highlight Objects switch is turned on, a small list icon appears in the sky chart, right above the middle of the toolbar.  Tapping this icon gives you the following choices:
+Show List: Returns you to the currently-highlighted object list, right at the point you last viewed the list.
+Unhighlight List: Turns off the list highlighting.
+Select Next Object: Selects and pans to the next object in the list following the currently selected object.
+Surprise Me: Selects and pans to a random object in the list that is currently above the horizon.
+Show List:
+Object Info
+The Object Info view shows a variety of information about the selected object. It also contains English-language description and images of several hundred of the brightest and best-known objects in the sky.  Swipe the Object Info view left to see the description; swipe right to return to the object data.
+On iPads and other tablets, images are displayed in-line with object descriptions.  On phones or other devices with smaller screens, you can tap on image links embedded in the descriptions to show full-screen images.
+Buttons at the bottom of the view let you center the object in the sky chart, slew or align your telescope to the object, or - in SkySafari Plus and Pro - go into orbit around the object!
+Object Data
+The exact information displayed depends upon the type of object you have selected (e.g. a star, planet, deep sky object, etc).At a minimum, SkySafari displays the following information for the object you selected:
+Names - the object's proper name, and any alternate names by which it is commonly known.
+Catalog Numbers - the object's numerical designation(s) in the catalogs of stars and deep sky objects most commonly used by astronomers.  The object's best-known catalog numbers are listed first.
+Description - the type of the object, and the constellation that it appears in.
+Apparent Size or Separation- how large the object appears in the sky, or the component separation for double stars; measured in arcminutes (') or arcseconds (").  The full moon appears about 30 arcminutes across.  Double stars are typically separated by a few arcseconds.
+Visual Magnitude - how bright the object appears in the sky; smaller numbers imply a brighter object.  Sirius, the brightest star in the sky, is magnitude -1.44; the faintest stars visible to the naked eye are about magnitude +6.5.
+Distance - the distance to the object, if it is known.  For solar system objects, the distance is displayed in miles, kilometers, or Astronomical Units; 1 AU is the distance from the Earth to the Sun, or about 149.6 million km.  For stars and deep sky objects, the distance is given in light years or parsecs.  One light year, the distance light travels in a year, is about 63,300 AU.  One parsec is the distance from which the Earth's orbit appears 1 arcsecond in radius, and equals about 3.26 light years, or 206,265 AU.
+RA and Dec - the object's Right Ascension and Declination describe its position in the Equatorial coordinate system used with printed star atlases.  The Equatorial coordinate system rotates with the Earth, so the object's RA and Dec do not change (unless the object itself is moving!)
+Azimuth and Altitude - the object's coordinates in the local Horizon coordinate system describe its current position in the sky.  As the Earth turns, the object appears to move across the sky, so these coordinates change even if the object itself is not moving.
+Rise and Set Times - when the object appears on the horizon for the current local day.  For the Sun and Moon, rise/set times are when the upper limb of the visible disk appears on the horizon.  Depending on your current latitude, and the object's declination, the object may not set (e.g. Polaris seen from the northern hemisphere); or it may not rise (e.g. the Sun from Antarctica in winter).  Due to varying atmospheric conditions and local horizon obstruction, rise/set times should only be considered accurate to about a minutes.
+Transit Time - if the object is visible from your location on the current date, the transit time is when the object crosses the meridian and appears highest in the sky.
+Angular Separation - SkySafari Plus and Pro show the object's angular separation and position angle from the Sun, from the last object you selected, and from the chart center.
+In SkySafari Plus and Pro, when you're in orbit around another solar system object, the Object Info view provides all information about an object as it is seen from your perspective in orbit.  For example, it gives the constellation in which the object appears, and the object's visual magnitude and distance, as seen from your simulated location in space - not as seen from Earth.
+Events with a specific time have a small clock icon on the right. Tapping the clock will take you to that time and center the selected object, allow you to see the simulated event in the sky chart.
+Other Controls
+Along the bottom of the Object Info view are other buttons which let you center the object in the sky chart, go into orbit around it, slew your telescope to the object, or align the scope on the object.
+Center - this button centers the object in the sky chart.  See the Center button Help for more information.
+If you are using your device's gyroscope or compass/altimeter, then tapping the Center button will not center the selected object directly.  Instead, an arrow appears, leading you toward the selected object.  Move your phone in the direction of the arrow to center the object in the field of view.  When the object is centered, the arrow disappears, and your phone will be pointing toward the object's position in the sky.
+iOS Users Please Note: for best results with the compass, turn your phone sideways to landscape mode.
+Orbit - this button lets you leave Earth and orbit the object, if it's a solar system object.  See the Orbit button Help for more information. Please Note: this button is only present in SkySafari Plus on Pro!
+GoTo and Align - If you have connected with a GoTo telescope using your mobile device's Wi-Fi or bluetooth capability, or with SkyWire, additional buttons appear.  These let you slew (GoTo) the object with your telescope, or to Align your telescope on the object.  See the Scope Control view for more information about this.
+Observe - Tap this button to add the object to an observing list, log a new observation of the object, view all your logged observations of the object or to download a Deep Sky Survey (DSS) image of the object.  If you are adding an object to an observing list you only have one list, the object will be added to that list.  If you have more than one list, SkySafari will let you choose which list you want to add the object to.  See the Observing Lists Help for more information.
+Please Note: This feature is only available in SkySafari Plus and Pro.
+Galaxy View
+Please Note: This feature is only available in SkySafari Pro.
+Galaxy View helps you visualize the 3-D location of stars and deep sky objects. Using paired face-on and edge-on views of the Galaxy, it shows you where that cluster or nebula is actually located relative to the rest of the Galaxy â a three-dimensional perspective.  The face-on image is an artist's rendition based on recent data from the Spitzer Space Telescope looking down from above the north galactic pole
+Objects in the left, face-on view are always drawn overlaid on the galactic disk so they will be visible. This does not  imply the object is actually in the northern galactic hemisphere. You should consult the right, edge-on view to see which hemisphere the object is actually in.
+If Galaxy View is shown from the Object Info, the current object's location in the Galaxy is shown.  You can also show the Galaxy view from the highlighted list's icon along the bottom of the chart.  In this case, all objects in the highlighted list are show in the view.  In either case, if an object is outside the current field of view, a blue line is drawn in the direction it will be found.
+Share: Takes a snapshot of the view that may then be shared with others through Email, Facebook, iCloud Photo Sharing, etc.
+Auto Zoom: If the selected object is outside the viewable area, this will will zoom out to make the object visible. If the selected object is very close to the Sun at the current zoom level, the command will zoom in to display the object better in relation to the Sun.
+Show Spiral Arm Labels: Labels the various spiral arms in the Galaxy.
+Show Constellation Sectors: Divides the Milky Way galaxy in the neighborhood of the Sun into sectors, where each sector corresponds to the Milky Way constellation you would see when looking in that direction. Showing the constellation sectors allows you to better understand which part of the Milky Way galaxy you are looking at when observing within a particular Milky Way constellation.
+For example:
+When looking at the Milky Way in Sagittarius and Scorpius, you are looking at the next spiral arm inward from the Earth toward the galactic core at galactic longitude 0°. This spiral arm is appropriately called the Sagittarius Arm.
+Cygnus lies at 90° galactic longitude and looks lengthwise along our own spiral arm which is called the Orion Spur. This is looking in the direction toward which the Galaxy is rotating.
+When viewing the Milky Way in Auriga and Orion you are looking directly away from the galactic center, back through our own spiral arm. This is in the direction of galactic longitude 180°.
+Finally, the southern hemisphere constellation, Vela, lies near galactic longitude 270° and looks down an inter-arm gap in the direction from which the Galaxy is rotating as a whole.
+Center On Sun: Centers the view on our Sun's location in the Galaxy.
+Center On Selected Object: Centers the view on the selected object's location in the Galaxy.
+Center On Selected Object: Centers the view on the selected object's location in the Galaxy.
+Reset: Resets the view to a zoom level where the whole Galaxy is visible.
+Center
+The Center button centers the selected object in the sky chart.  Use this button if the selected object has moved off screen, and you want to re-center it in the field of view.  The selected object will stay centered if you zoom in or out, or animate the sky chart using the Time Flow controls.
+If you are using your device's gyroscope or compass/altimeter, then tapping the Center button will not center the selected object directly.  Instead, an arrow appears, leading you toward the selected object.  Move your phone in the direction of the arrow to center the object in the field of view.  When the object is centered, the arrow disappears, and your phone will be pointing toward the object's position in the sky.
+The Settings > Chart Animations switch provides animated panning to objects that you select and center in the sky chart.  If turned off, the chart jumps instantly to objects when you center them. Please Note: this feature is only available in the SkySafari Plus and Pro.
+Time Flow
+The Time button in the main Sky Chart toolbar displays a set controls which let you flow the date and time dynamically, or adjust it step-by-step.  Tap the Time button to show these controls; tap it again to hide them.
+When visible, the time flow controls contain the following items:
+Current Time Label: The chart's current date and time is shown at the top of the panel.  If there is an underlined segment, this indicates the time unit that will be used for flowing or stepping time (e.g. by days, hours, minutes, etc).
+Time Flow Arrows: In the middle of the panel is a set of VCR controls lets you start and stop the flow of time.  Tap the rightmost arrow to start the flow of time continuously forward; tap the leftmost arrow to flow time continuously backward.  Tap either of these arrows to stop the flow of time.
+Time Step Arrows: The central arrows adjust the time by a single step, equal to the time unit you have selected underneath.  For example, if you selected 1 day as the time unit, tapping the center right arrow will move the time forward by 1 day - but it will not continuously run the time by one day.
+Now Button: Stops the flow of time, and returns to the current date and time indicated by your device's internal clock.
+Time Units Button: The button in the lower left shows the time unit you will change time by when stepping or flowing time.  Tapping the button brings up a panel where you can change the time unit.  The unit can also be quickly changed by tapping the corresponding part of the time label at the top of the panel. For example you would tap the day part of the time and date to change the unit to days.
+In SkySafari Plus and Pro, the number in the time unit button is a multiplier applied to the time unit.  You can tap the button to enter a new multiplier with the numeric keypad - for example: 10 minutes, 7 days, 86164 seconds (one sidereal day), or 24.659784 hours (one Martian day). Please Note: in the basic version of SkySafari, you can only use time steps of exactly one minute, one day, etc.
+You'll find that different astronomical phenomena are best simulated using different time units.  For example:
+Second - best for showing the motion of fast-moving satellites.
+Minute - best at showing the daily rise-and-set motion of the Sun, Moon, and Stars.
+Hour - best for showing the motion of Jupiter and Saturn's moons.
+Day - best for showing the motion of the planets against the background stars, as they (and we!) orbit the Sun.
+Year - best for showing the orbital motion of binary star systems like Sirius and Alpha Centauri.
+Time flow is temporarily paused when another view (like Search, Object Info, or Settings) is present.  You can also use the Settings to change the simulated date and time.  If you are using SkySafari to control a telescope, we do not recommend using Time Flow while the telescope is connected - simulating a view other than the current date and time may result in pointing the telescope at the wrong place in the sky!
+Scope Control View
+The Scope Control view lets you connect to your telescope and control it.  Before connecting, select your telescope type and communication options in the Settings, under Scope Setup.  By default, SkySafari's uses a "Demo" telescope. This is a dummy virtual telescope that lets you to use the controls without having a real scope connected. To connect to a real telescope, choose the telescope type and communication parameters in the Settings.
+Please note: you can't use SkySafari's telescope controls when you are orbiting another object in the solar system.  To use them, first return home to Earth.  See the Orbit button Help for more information.
+Connecting and Disconnecting
+After setting up your telescope in the Settings, tap the Scope button in the toolbar to show the Scope Control view at the bottom of the screen.  The Scope Control view contains a button which lets you connect or disconnect from the scope.
+Connect: This button opens a connection to your telescope.  If you're using an iPhone, iPad, or iPad touch with our SkyWire serial accessory, then SkySafari will use SkyWire for telescope communication.  If you are using an Android device with a paired bluetooth serial adapter, then SkySafari will use bluetooth for telescope communication.  Otherwise, SkySafari will use Wi-Fi for wireless telescope communication.
+Connect and Align: This button only shows when connecting to a Celestron WiFi telescope.  Tapping it will connect and then guide you though an alignment process.  The type of alignment can be chosen in the Telescope Setup > Setup and Control settings screen.
+Once you've connected, this button's title will change to Disconnect. Tapping it will end your telescope control session.
+Before tapping the Connect button, make sure you've selected the correct telescope type and communication options in the Settings.  Make sure the scope is powered on, and any necessary alignment procedures are completed.  Consult your telescope manual for details on the scope's alignment procedure.
+After connecting, the sky chart is centered where SkySafari thinks the scope is pointing, as reported by your telescope.  If this is wrong, your telescope is probably not star-aligned correctly.
+While you're connected to a telescope, the Compass or Gyro button in the toolbar will be turned off.  The sky chart cannot be centered on the telescope, and centered on the compass, at the same time.
+Slewing and Aligning
+Once your telescope is connected, arrow buttons appear on the sides of the screen.  The status bar expands to show the scope's coordinates and target object.  The arrow buttons let you move the scope directionally.  A motion rate slider appears, to ket you control how fast the directional motion occurs.
+The other buttons in the Scope Control panel are now active, too:
+GoTo/Stop: This button issues a "GoTo" command to your telescope, which will physically slew it to the coordinates of the currently-selected object in the sky chart.  To select an object in the sky chart, tap on it, or use the Search view.
+While a GoTo is in progress, this button's title changes to "Stop", and pressing it will issue a command to stop the currently-in-progress GoTo.  You can use this as an "emergency stop" if the telescope is in danger of hitting something, or if you have accidentally slewed to the wrong object.
+Note that not all telescopes support GoTo commands, and that you cannot GoTo an object which is below the horizon.
+Align: This synchronizes the scope to coordinates of the selected object.  The bullseye indicator in the sky chart shows where the telescope thinks it is pointing.  If that appears incorrect, the scope and the software must be synchronized.  To do this:
+Physically point the scope at a real star in the sky, using SkySafari's arrow buttons or the scope control panel.  Center the object in the eyepiece.
+Select that same object in SkySafari to make it the current target object.  Do this by tapping the object in the sky chart, or by searching for it by name.
+Tap the Align button.
+Lock/Unlock: Tapping this button keeps the sky chart centered on the telescope's position.  Moving the telescope will cause the sky chart to move, following the telescope's motion.
+Notes on Alignment
+Note: for Celestron NexStar, Orion/SkyWatcher SynScan, iOptron GOTONova, and ServoCAT telescope controllers, tapping the Align button stores the offset between the telescope's reported position and the selected object's position.  It subtracts that offset from the telescope's reported position whenever the telescope is within 10 degrees of the object you Aligned on.  In other words, SkySafari performs a "local sync" around the alignment target.  If you move the telescope to a very different part of the sky, you may want to Align on a target in that part of the sky.  Also note that the telescope's RA/Dec reported by SkySafari will differ from the RA/Dec reported by its hand controller (since SkySafari is applying the alignment offset to the telescope's reported position.)
+Note: for encoder-based "Push-To" systems, like the Tangent Instruments BBox, Celestron Astro-Master, JMI NGC-MAX, and Orion Intelliscope, SkySafari now lets you perform a 2-star alignment.  This eliminates the need to level your telescope mount base.  Simply set up your telescope, point it at the first alignment star, select that star in SkySafari, and tap "Align".  Repeat the process with a second alignment star, choosing "Align" rather than "Restart Alignment" when asked.  Your encoders should now be aligned to the sky.  You can continue to align on additional second stars; but SkySafari only uses the two you most recently aligned on.  If you want to forget the pervious alignment stars and align as your first star, choose "Restart Alignment".
+Make sure your two alignment stars are at least 10 degrees apart; 90 degrees apart is ideal.  SkySafari will warn you if your alignment stars are too close together, or if their positions don't match - for example, if you've accidentally selected the wrong alignment star in SkySafari, or you're not really pointing the telescope at that star in the sky.
+SkySafari remembers the telescope's alignment until you quit the app, so you should not have to realign if you disconnect (or are accidentally disconnected) from the encoder control box.  However, if you accidentally kick the telescope mount, or otherwise destroy your alignment, you can realign without having to quit SkySafari.  To start over, point the telescope at a star, select the same star in SkySafari, and tap Align.  When given the option, align on the star as the "First Star".  That will reset SkySafari's alignment process and start it over with the star you just selected.
+Going to a specific RA/Dec
+Normally GoTo will take you to the coordinates of the selected object.  To go to specific coordinates rather than the selected object, press and hold the GoTo button in the scope control view until you see a small RA/Dec panel pop up onscreen.  Fill in the RA and Dec you want and tap GoTo in the panel.  The coordinates may be entered using either decimal format or as HH MM SS.S for RA and DD MM SS.S for Dec.
+Orbit
+The Orbit button lets you leave Earth behind, and orbit the Sun, other Solar System objects, and even nearby stars. Please Note: this feature is only available in SkySafari Plus and Pro!  In the basic version of SkySafari for iOS, you can unlock the Orbit feature with a one-time in-app purchase.
+Entering Orbit and Returning to Earth
+To orbit a solar system object or another star, first select one by tapping on it in the sky chart, or by searching for one with the Search view.  Then tap the Orbit button.  In a few seconds, you'll fly through millions of miles of space into orbit near the object you selected.
+If you select the Sun and then tap the Orbit button, you'll fly to a location 100 Astronomical Units above the Sun, where you can see the entire solar system as a whole.  From there, you can select any other solar system object and fly into orbit around it.
+When you want to go home to Earth, tap the small Earth icon at the bottom of the sky chart.  SkySafari will fly you back to same Earthly location you left earlier.
+Navigating in Orbit
+When you're orbiting a solar system object or nearby star, that object stays locked at the center of the sky chart.   Swiping the chart moves you around the object.  Two new buttons at the bottom of the sky chart let you fly toward or away from the object you're orbiting.  The status bar above the sky chart indicates your distance from the object.
+You can magnify the field of view by pinching and zooming, just as you can when viewing from Earth.  Zooming will not move you toward or away from the object you're orbiting; it simply changes the sky chart's field of view.  A planet can appear very large in the sky chart because you're far away from it but highly zoomed in, or because you're zoomed out but very close to the planet.  Usually the distinction is obvious, but this is one thing to note in case you become confused.
+While you're orbiting another star or solar system object, you can center the sky chart on a different object by tapping it and tapping the "Center" button, or by searching for it and tapping the "Center" button in the Object Info window.  If you do this, swiping the chart will no longer move you around the object you're orbiting; it will simply pan the field of view.  To resume orbiting the object, tap it to select it again, then tap either the "Center" or "Orbit" button.
+Using SkySafari in Orbit
+When you're orbiting another star or solar system object, certain SkySafari features are not available.  For example, you cannot use the compass or gyroscope, and you cannot use any telescope control features.  These features are only designed to work when you're observing from the Earth's surface!
+SkySafari also adjusts some display settings when you leave Earth and enter "orbit mode".  For example, planet and moon orbits are automatically displayed, and constellation lines are hidden.  The maximum field of view width is restricted to 90 degrees.  SkySafari does these things to provide a clearer display.  When you return home to Earth, your previous display settings are restored.
+When you're in orbit around another star or solar system object, the Object Info view provides all information about an object as it is seen from your perspective in orbit.  For example, it gives the constellation in which the object appears, and the object's visual magnitude and distance, as seen from your simulated location in space - not as seen from Earth.
+When you are orbiting another star, SkySafari only displays stars in the Hipparcos catalog, and nearby stars whose distances are well known.  SkySafari does not display faint Tycho or Guide Star Catalog stars, because their positions in three-dimensional space are unknown.  Therefore their apparent positions when seen from outside our Solar System cannot be accurately depicted.
+The Settings > Chart Animations switch controls the animation to and from stars or solar system objects that you wish to orbit.  If turned off, you will jump instantly into orbit around objects when tapping the Orbit button instead of experiencing a few seconds of animated "flight".
+Compass & Gyro
+If you have an iOS or Android device with a compass, SkySafari can show you the sky in same the direction that you're holding your phone.  As you move the phone around, the view on the sky chart follows your motion.  You can identify stars and planets by holding your phone up next to them, and you can find any object in the sky by following an arrow that points in its direction.
+Please note: some devices, like the iPod Touch and Kindle Fire, have a gyroscope but no compass.  The toolbar icon for Compass will say Gyro instead.
+You can activate the compass (or gyro) as follows:
+Tilt your device upward.
+Tap the Compass icon in the toolbar.
+On a device with gyro but no compass, tap the Gyro button in the toolbar to activate the gyro.
+Tap the Compass (or Gyro) button again, or touch any part of the sky chart, to turn the compass (or gyroscope) off.  You can enable or disable the "tilt up to use" compass feature in the Settings > Appearance screen.  You can turn off "Tilt to Use" if you find that you're accidentally activating the compass too often, or if you prefer to activate it from the main toolbar.
+Please note: in SkySafari Plus and Pro, the compass and gyroscope cannot be used when you are orbiting another object in the solar system.  You can only use the compass when you are viewing from Earth.  See the Orbit button Help for more information.
+Using the Compass
+SkySafari uses the compass to center the sky chart on the direction you're holding your phone.  You can also use it to find objects in the sky.  To do this, first turn on the compass.  Then tap Search, and enter the name of the object you're looking for.  When the Object Info view appears, tap the Locate button at the bottom of view.  An arrow appears, leading you toward your selected object.  Follow the arrow with your phone to center the object on the screen.  When the object is centered, the arrow disappears, and your phone will be pointing toward the object's position in the sky.
+In SkySafari Plus and Pro, the compass and altimeter will be turned off if you connect to a telescope, or lock on the telescope's position in the sky chart.  The sky chart cannot be centered on the telescope's position, and centered on the coordinates reported by the compass, at the same time.
+A note on accuracy: the solid-state compass built into most mobile devices is not very accurate, and easily affected by interference. It can easily be wrong by ten degrees or more. The compass may be useful for locating bright objects in a general part of the sky, but it's certainly not accurate enough to point a telescope.
+Using the Gyro
+Unlike the compass/accelerometer, the gyroscope measures your device's orientation relative to a known starting point.  The gyro does not measure your device's true orientation relative to north/south/east/west or up/down in the sky.  So to find your way around the sky with the gyroscope, you'll need to use a slightly different process.
+First, locate a known reference object in the sky, like the Moon.  Then search for the same object in SkySafari, and center it on the screen.  With the object centered, hold your device toward the object in the sky.  Then tap the gyro button (with a finger in your other hand!) to turn on the gyro.  Now, as you move your device around, the gyroscope follows its orientation relative to the object you used as a starting point.  As you move the device around, the sky chart on the screen follows to match the view in the sky behind it.
+As with the compass, you can use the gyroscope to find an object in the sky.  Start with a known object in the sky, then find and center the same known object in SkySafari's sky chart, and turn on the gyroscope - just as described above.  Then search for the unknown object you're trying to find in SkySafari.  When the Object Info view appears for that object, tap the Center button.  SkySafari show an arrow that leads toward the object; follow the arrow with your phone to find the object in the sky.
+Night Vision
+The Night button changes SkySafari's appearance to a red-on-black theme designed to help preserve your night vision.  Night Vision is best used in the dark, out under the stars.  Tap this button once to switch to the Night Vision theme; tap again to restore SkySafari to its previous appearance.
+For many people, the screen is still too bright to effectively preserve their night vision - even when SkySafari is using its Night Vision theme.
+The iOS version of SkySafari has a Screen Brightness setting (also found in the Settings > Appearance view) which lets you adjust the screen brightness.  However, this setting only works within SkySafari.  To turn down the screen brightness for all apps on your devices, use the screen brightness slider in the main Settings app on your device.
+An even better solution is to place a piece of red film over the screen.  A brand called Rubylith works particularly well.  A "hardware" approach to preserving your night vision works better than any software solution because it will enforce a red appearance across all applications, not just SkySafari.
+SkyWeek
+Simulation Curriculum and the editors of Sky & Telescope magazine have collaborated to bring you SkyWeek - the interactive mobile version of S&T's super-popular "This Week's Sky at a Glance" web page - as an integrated feature in SkySafari for iOS and Android!  "This Week's Sky at a Glance" has been Sky & Telescope's most popular online offering for 21 years, and SkyWeek gives you a day-by-day calendar of events to observe in the changing night sky.
+SkyWeek describes all major sky events: eclipses, conjunctions, good meteor showers - miss nothing!  Whether you're a newbie skywatcher or an experienced amateur astronomer, SkyWeek will become your handy, everyday guide to what's up.
+Tap the SkyWeek icon in SkySafari's toolbar to view a page listing the week's current events.  Tap the VIEW icon next to a particular event to view a custom sky map which illustrates the event.  Sky maps that are automatically set for your location.  And starting from the sky scene that's displayed, you can pan around the heavens, change the scene to other times and dates, and zoom in or out.
+SkyWeek's daily event listing also includes links to more info.  Some content on Sky & Telescope's web site may require a user account login and password.  If you have a Sky & Telescope web site account, simply enter it when prompted.  Otherwise, you can create and register a new Sky & Telescope account; registration is free.
+Tonight At A Glance
+The Tonight At A Glance view provides a concise summary of what is happening in the sky.  It shows important information for the Sun, Moon, planets and selected satellites.  Tapping an entry will take you to the Object Info for that object so you can learn more about it.
+The constellation and distance information refers to where the object is "right now" relative to your current location.  For the Sun, Moon and planets, the rise and set times are calculated for the current day.  For example Sun rise time is when it rose, or will rise today, not necessarily for the next Sun rise.  For satellites, the rise and set times refer to the next visible pass of the satellite.
+The Tonight At A Glance view also has information about any Iridium flares in the next 24 hours. An Iridium flare happens when the satellite's reflective antennae act like a signal mirror and reflect the Sun's light down to your specific location. If you are watching the satellite when it flares you will see it suddenly increase in brightness.  By tapping the Iridium satellite's entry you can go to the Object Info and see the exact altitude and azimuth where the flare will happen in the sky.
+Date & Time
+The Date & Time view can be set to use the current time, or can be set to a specific time/date in the past or future.  When set to current time, the chart view will update every second to show the current positions of objects in the sky.
+Use Current Time keeps SkySafari's simulated time in sync with your mobile device's built-in system clock.  When turned on, the sky chart updates to match real time every second.
+Setting the Date
+To change the simulated date:
+iOS users touch the Date tab at the top of the screen, then rotate the picker wheels to the desired date.
+Android users tap the Set Date button to select a new date.
+Automatic Daylight Saving Time: This switch turns the automatic daylight saving time (DST) correction on and off.  When the switch is on, SkySafari automatically determines whether DST is currently in effect based upon the date and your simulated location.  SkySafari displays a message below the switch, telling you whether it thinks DST is currently in effect for your simulated date and location.
+Governments often change the rules for daylight saving time, so SkySafari's automatic DST option may not work.  If this happens, you may turn off Automatic DST, and instead add one hour to your Time Zone setting, in the Location view.
+Setting the Time
+To change the simulated time:
+iOS users touch the Time tab at the top of the screen, then rotate the picker wheels to the desired time.
+Android users tap the Set Time button to select a new time.
+There are buttons below the picker to allow you to quickly set the time to specific events such as Sunset, Moonset, etc.  The exact time of these events will differ based on your location and the simulated date.
+Advanced Options
+In SkySafari Plus and Pro, there are additional options for setting the date and time.  The standard iOS date/time controls do not easily let you pick a date more than 100 years in the past or future, or to the nearest second. Select the Advanced tab to see some new options which let you avoid
+With the Advanced tab, you can enter a date up to 10,000 years from the present in SkySafari Plus, and up to 500,000 years from the present in SkySafari Pro.  You can also enter the time to the nearest second.
+Julian Date is another method to set the date.  Widely used in astronomy, the Julian Date is the number of days since January 1, 4713 B.C. The Julian Date begins at Greenwich noon, not midnight. Midnight (i.e., 0h UTC) on 1 January 2000 A.D. is Julian Date 2451545.0. Julian dates do not observe any time zones or daylight saving time changes.
+Local Sidereal Time is displayed near the bottom of the Date settings view.  This indicates the hour of right ascension that is currently on your local meridian, and is sometimes used for aligning a telescope.
+Location
+SkySafari needs to know your location on Earth in order to correctly plot the location of objects in the sky.  You can set this in the Location view from the main Settings screen.  Four pieces of information are necessary:
+Latitude - distance north or south of the equator
+Longitude - distance east or west of the prime meridian
+Elevation - altitude above sea level
+Time Zone - local time offset in hours from Universal Time (UT), previously called Greenwich Mean Time (GMT)
+A time zone west of (behind) Universal Time is negative; time zones east (ahead) of UT are positive. Always enter the time zone offset for Standard Time only.  Don't enter a Daylight Saving Time offset here.  SkySafari will automatically correct for Daylight Saving Time.  See the Date & Time Settings Help.
+Please note: in SkySafari Plus and Pro, you cannot change your location settings while you are orbiting another object in the solar system.  These settings only refer to your location on Earth.  To change them, you first need to return home to Earth.  See the Orbit button Help for more information.
+Use Current Location
+Tap the "Use Current Location" button to automatically determine your location from your iPhone's Location Manager, your Android device's GPS, or other information supplied by your internet service.  When the location information is obtained this way, your location name is automatically filled in as "Current Location".
+Choose Location From Map
+If your mobile device is connected to the internet, you can use Apple or Google maps to choose a new location.  This is useful if you want to see the sky from a place other than where you are located right now. You could use this feature to view the sky as it will appear from a distant city or island where you're planning to take a vacation.
+After you tap this option, a map view will appear, centered on your current location.  You can pinch or swipe this map to zoom or move around, just as you would with the built-in Maps app on your device.
+Tap and hold to drop a pin on your desired location.  Then tap Done at the top of the screen.  SkySafari will use the longitude, latitude, and location name where your pin dropped.  SkySafari will make a best guess about the elevation and time zone, since this information is not available from Apple or Google Maps.
+Choose Location From List
+If your mobile device is not connected to the internet, and GPS or Wi-Fi-based location services are not available, you can choose a location from a searchable list of thousands of cities in SkySafari's database.
+Tap "Choose from List" to see a list of locations, sorted by country.  Choose a country to see a list of cities in that country.  Choosing a city will automatically fill in the data for you.  You can also search for any location in SkySafari's database by entering its name in the search field above the list of countries.  If SkySafari finds more than one location which matches the name you entered, it will list all matching locations, and you can choose the one you want.  If there is only one matching location, SkySafari will use it.
+The location database in SkySafari's basic version includes every city worldwide with more than 100,000 inhabitants - a total of over 4,000 cities.  In SkySafari Plus and Pro, the location database includes all cities with more than 10,000 people, plus more than 500 observatories, star parties, NASA centers, and other "astronomical" locations - a grand total of over 30,000 locations in all!
+Save User-Defined Location
+Tap the "Save User-Defined Location" to store a manually-entered location for retrieval later.  To retrieve a user-defined location, tap the "Choose Location from List" button, then choose the "User-Defined Locations" group.  You must name your location something other than "Current Location" before saving it as user-defined.  If you choose the same name as an existing user-defined location, that existing location will be overwritten with the new longitude, latitude, etc. currently displayed in the Location view.
+You can delete user-defined locations as follows:
+Tap the "Choose Location from List" button.  Choose the "User Defined Locations" group at the end of the location groups list.
+Tap the "Edit" button at the top of the user-defined locations list.
+Tap the small, red, round, "-" button for each user-defined location you wish to delete.  Confirm by tapping the red "Delete" button that appears to the right.
+When you are finished, tap the "Done" button at the top of the user-defined locations list.
+Please Note: the User-Defined Location feature only available in SkySafari Plus and Pro.
+Coordinates
+The settings in this view let you select the coordinate system used to display the sky chart, and precisely center the chart on a particular set of coordinates.  You can also set the field of view width and orientation, and display or hide the chart center coordinates and field of view while you are swiping or pinching the chart.
+Coordinate System
+This sets the coordinate system used by SkySafari.  These are the options that you can choose here:
+Horizon - In the Horizon (or "Alt-Az") coordinate system, altitude is how high in the sky something is, and azimuth is the direction around the horizon.   This system is used to show an object's position in the sky relative to your local horizon line.
+Equatorial - In the Equatorial (or "RA-Dec") coordinate system, RA stands for Right Ascension, and Dec stands for Declination.  These coordinates are akin to longitude and latitude on the Earth.  The Equatorial system is aligned with the Earth's equator and rotates with the Earth, so the coordinates of objects in the sky do not change as the Earth turns.  Hence, Equatorial coordinates are commonly used with printed star atlases.
+Ecliptic - In the Ecliptic coordinate system, longitude and latitude in the sky are akin to longitude and latitude on the Earth.  Ecliptic coordinates are defined by the plane of the Earth's orbit.  The "equator" in this coordinate system is called the Ecliptic path or simply the Ecliptic.  It is a great circle traced by the Sun as the Earth orbits around it over the course of a year.  Most objects in the solar system orbit the Sun in nearly the same plane as the Earth, so they usually appear near the ecliptic in the sky.  Ecliptic coordinates are the "natural" coordinates for the solar system, and are used extensively to describe the motion of planets, comets, and asteroids. Please Note: Ecliptic coordinates are only available in SkySafari Plus and Pro.
+Galactic - In the Galactic coordinate system, longitude and latitude in the sky are akin to longitude and latitude on the Earth.  Galactic coordinates are defined by the plane of our Milky Way galaxy.  Galactic longitude is measured westward along the galactic equator from 0° at the galactic center, located in the constellation Sagittarius, to 360°.  Galactic latitude is measured from 0° on the galactic equator to +90° at the north galactic pole and -90° at the south galactic pole.  Galactic coordinates are used most commonly for dynamical studies of stars, star clusters, galaxies, and other objects outside the solar system. Please Note: Galactic coordinates are only available in SkySafari Pro.
+The horizon is only visible in the sky chart when using Horizon coordinates.  In other coordinate systems, it would appear as a confusing distraction that tilts and move as the Earth rotates - so SkySafari hides it.
+Chart Center Coordinates
+Center Azm/RA/Lon: Sets the azimuth at the center of the sky chart.  North is 0°, East is 90°, South is 180° and West is 270°.  You may enter a new azimuth to precisely set the chart's center.
+Center Alt/Dec/Lat: Sets the altitude at the center of the sky chart.  At 0° the chart is centered on the horizon, at +90° it is centered directly overhead at the zenith, and at -90° it is centered directly under your feet.
+When using Equatorial or Ecliptic coordinates, the chart center RA and Dec are always assumed to be for the precession epoch specified in the Precession settings.
+When using Horizon coordinates, the chart center altitude is assumed to be apparent (i.e. it includes the effects of atmospheric refraction) if the Refraction option is turned on in the Precession settings.  If this option is turned off, the chart center altitude is assumed to be the true (un-refracted) altitude.
+Field of View
+Field Width Angle: Sets the sky chart's field of view width angle using a slider control.
+The largest field of view SkySafari can display is 180 degrees, letting you see the entire sky at once.  As the field of view increases past 90 degrees, the horizon becomes curved, due to the distortion caused by projecting the entire celestial sphere onto the flat screen.  In SkySafari Plus and Pro, the maximum field of view is 90 degrees when you are orbiting another solar system object.  See the Orbit button Help for more information.
+If you hold your mobile phone at arm's length, about 2 feet from your eyes, its 2-by-3 inch screen has an apparent size of 4.8 by 7.2 degrees.   So, if you set the field of view width to 4.8 degrees (portrait mode) or 7.2 degrees (landscape mode), and hold your phone out at arm's length, the view on your phone should appear at the same scale as the real sky.
+The smallest field of view SkySafari can display is 0.1 arcminutes, or 6 arcseconds - about the average size of the planet Mars as seen from Earth.  One arcsecond is the best resolution a typical 8" backyard telescope can achieve under good observing conditions.
+For comparison, the Sun and Moon appear about 1/2 degree (or 30 arcminutes) across.   The smallest angle the unaided human eye can resolve is about 1/30th of a degree, or 2 arcminutes - about 1/15th the width of the full Moon.  At its closest approach to Earth, the planet Venus appears about 1 arcminute across; Jupiter typically appears appears 45 arcseconds across.
+Flip Horizontally: "On" flips the sky chart display horizontally to match the view in a telescope whose optical design results in a mirror-image view.
+Flip Vertically: "On" flips the sky chart display vertically to match the view in a telescope whose optical design results in an upside-down view.
+Precession
+The settings in this view let you set the precession epoch of the Equatorial coordinate system that SkySafari uses to report the right ascensions and declinations of objects.  It also gives you precise control over the corrections SkySafari makes when computing the positions of objects in the sky.
+Precession & Nutation
+Precession is a very slow "wobble" in the direction of the Earth's rotational axis, which takes about 25,800 years to complete.  The Earth's axis defines both the Equatorial (or RA-Dec) coordinate system.  Because of precession, an object's right ascension and declination change over time - not because the object is moving, but because the coordinate system is moving.
+Use Current Epoch: if turned on, SkySafari will always report right ascensions and declinations for the current year ("epoch").  If turned off, SkySafari will report RA and Dec for the precession epoch entered below.
+Precession Epoch: the precession epoch (or year) for which equatorial coordinates should be reported, if "Use Current Epoch" is turned off.  Star atlases and ephemeris predictions (e.g. as in the Astronomical Almanac) often use a fixed epoch, such as 2000.0, for reporting RA and Dec.
+Include Nutation: a small wobble in the orientation of the Earth's axis superimposed on its overall precessional motion.  Nutation causes a small change in an object's position, typically amounting to about 8-10 arc seconds.
+Other Corrections
+Aberration: a systematic shift in star positions caused by the Earth's velocity through space.  It is a result of Einstein's theory of special relativity.  Aberration causes objects to appear to shift in the direction that the Earth is moving by about 20 arc seconds, and affects all objects in the same part of the sky equally.
+Proper Motion: a slow change in the positions of the stars due to their physical motion through space.  For all except the nearest stars, proper motion is only a small fraction of an arc second per year.  When this option is turned on, a star's proper motion in right ascension and declination is displayed adjacent to its coordinates in the Object Info window.
+Light Time: adjusts the positions of objects in the solar system for the finite velocity of light.  We see Saturn in the sky not where it is right now, but instead where it was about 90 minutes ago, because light from Saturn requires about 90 minutes to travel to Earth.
+For most objects, the effect of light time amounts to only a few arc seconds.  Where light time makes a noticeable difference is in the positions of the outer planets' moons, and especially in planetary rotation.
+Dynamic Time: also called Terrestrial Dynamic Time (TDT), this is the standard for precise time keeping in astronomy.  It differs from Universal Time (UTC or GMT) because the Earth's rotation is slowing irregularly, due to the gravitational influence of the Moon.  We periodically add or subtract "leap seconds" to/from our civil time scale, to keep it in sync with where the Earth is actually pointing.  The accumulated difference between UTC and TDT is called Delta T, and its current value is about 67 seconds.  Delta T affects the local time when an astronomical event is observed on Earth.
+If you turn on the Dynamic Time option, SkySafari adds Delta T to the civil time obtained from your Android device before computing the positions of solar system objects.   If your leave Dynamic Time off, SkySafari will assume that there is no difference between UTC and TDT.  This is technically incorrect, but it may be useful to compare SkySafari's results against another reference (such as the Astronomical Almanac) which tabulates an ephemeris of planetary positions against Dynamic Time instead of Universal Time.
+Refraction: a distortion in an object's apparent altitude caused by the Earth's atmosphere, which bends light as it passes through.  Refraction can amount to over 1/2 degree near the horizon, but decreases rapidly as an object's altitude increases.  Refraction only affects an object's apparent altitude, not its azimuth, right ascension, or declination.
+Formats Help
+The settings in this section let you control how SkySafari displays dates, times, and celestial coordinates throughout the program.
+Time
+These settings let you choose the format which SkySafari uses to display the time of day.
+12 hour displays the time with an AM or PM.
+24 hour displays the time in "military" format.
+HH:MM displays the time to the nearest minute.
+HH:MM:SS displays the time to the nearest second.
+Date
+These settings let you choose the format which SkySafari uses to display the calendar date.
+Mmm DD, YYYY displays the month abbreviation and day, separated by a comma from the year.
+YYYY, Mmm DD displays the year, separated by a comma from the month abbreviation and day.
+MM/DD/YYYY displays the month, day, and year all separated by slashes.
+DD/MM/YYYY displays the day, month, and year all separated by slashes.
+YYYY/MM/DD displays the year, month, and day all separated by slashes.
+YYYY/DD/MM displays the year, day, and month all separated by slashes.
+Geographic Longitude, Latitude
+These settings let you choose the format which SkySafari uses to display geographic longitude and latitude on the Earth's surface.
+DDD MM SS.S, DD MM SS.S displays geographic longitude and latitude to the nearest tenth of an second.
+DDD MM, DD MM displays geographic longitude and latitude to the nearest minute.
+DDD.DDDDDD, DD.DDDDDD displays geographic longitude and latitude in decimal degrees to the nearest millionth.
+Azimuth, Altitude
+These settings let you choose the format which SkySafari uses to display azimuth and altitude, which describe an object's position in the local horizon coordinate system.
+DDD MM SS.S, DD MM SS.S displays azimuth and altitude to the nearest tenth of an arcsecond.
+DDD MM, DD MM displays azimuth and altitude to the nearest arcminute.
+DDD.DDDDDD, DD.DDDDDD displays azimuth and altitude in decimal degrees to the nearest millionth.
+Right Ascension, Declination
+These settings let you choose the format which SkySafari uses to display right ascension and declination.  These coordinates describe an object's position in the equatorial coordinate system.
+HH MM SS.SS, DD MM SS.S displays Right Ascension to the nearest hundredth of a second, and Declination to the nearest tenth of an arcsecond.
+HH MM SS.S, DD MM displays Right Ascension to the nearest tenth of a minute, and Declination to the nearest arcminute.
+HH.HHHHHH, DD.DDDDDD displays Right Ascension in decimal hours to the nearest millionth, and Declination in decimal degrees to the nearest millionth.
+Ecliptic Longitude, Latitude
+These settings let you choose the format which SkySafari uses to display longitude and latitude in the ecliptic coordinate system.
+Please Note: Ecliptic coordinates are only available in SkySafari Plus and Pro.
+DDD MM SS.S, DD MM SS.S displays ecliptic longitude and latitude to the nearest tenth of an arcsecond.
+DDD MM, DD MM displays ecliptic longitude and latitude to the nearest arcminute.
+DDD.DDDDDD, DD.DDDDDD displays ecliptic longitude and latitude in decimal degrees to the nearest millionth.
+Galactic Longitude, Latitude
+These settings let you choose the format which SkySafari uses to display longitude and latitude in the galactic coordinate system.
+Please Note: Galactic coordinates are only available in SkySafari Pro.
+DDD MM SS.S, DD MM SS.S displays galactic longitude and latitude to the nearest tenth of an arcsecond.
+DDD MM, DD MM displays galactic longitude and latitude to the nearest arcminute.
+DDD.DDDDDD, DD.DDDDDD displays galactic longitude and latitude in decimal degrees to the nearest millionth.
+Appearance & Behavior
+The settings in this view let you control the use of color in your sky charts, and set some preferred behaviors for the app.
+Chart Color & Brightness
+These options let you control the appearance of your sky charts.
+Color Chart: Displays stars, planets, and other objects in the sky chart using full color.
+Monochrome Chart: Displays stars, planets, and other objects in the sky chart using grayscale, with light objects on a dark background.
+Inverse Monochrome Chart: Displays stars, planets, and other objects in the sky chart using grayscale, with dark objects on a light background.  This makes the sky chart appear as a photographic negative, and may make it easier to see for those with poor vision.
+Screen Brightness: Sets the brightness level of the screen.  Turning this down, especially when using the Night Vision theme, may help preserve your visual dark adaptation, as well as save battery life.
+When using the Night Vision theme, the sky chart is always drawn with red objects on a dark background (or dark objects on a red background, if you're using Inverse Monochrome sky charts).  Again, this is to preserve your night vision - red light affects your dark adaptation much less than white light.
+Behavior
+These options are only found in the iOS version of SkySafari.  Android SkySafari users will find the equivalent options under the Appearance section, below.
+Ambient Sound: Controls the use of ambient sound in the app.  Tapping the entry will display a sound picker where you can choose from several ambient sounds or none at all.  You can add you own custom ambient sounds to the list. On iOS, place them in the Documents directory using iTunes file sharing. On Android, add them to the app's Sounds directory.
+Sound Effects: Controls the use of sound in the app.  When turned on, SkySafari plays sounds in response to events such as selecting a new object, connecting to a telescope, and so on.  When turned off, SkySafari does not play sounds.
+Tilt to Use Compass: When turned on, you can tilt your iPhone, iPad, or Android device upward to activate the compass.  Once activated this way, touch the screen anywhere to turn the compass off.  Turn "Tilt to Use" off if you find that you're accidentally activating the compass too often, or if you prefer to activate it from the main toolbar.
+Please Note: the compass will be turned off if you connect to a telescope, or lock on the telescope's position in the sky chart.  The sky chart cannot be centered on the telescope's position, and centered on the coordinates reported by the compass, at the same time.  See the Scope Control view Help page for more information.
+If your device does not have a compass, this option is disabled.  When the compass has been activated, the coordinate system will change to Horizon coordinates (see above).
+Show Coordinates & FOV: When turned on, the chart center coordinates and field of view are always displayed at the top of the sky chart.  You can turn them off if you want to see the sky chart without any coordinates superimposed.
+Chart Animations: Provides animated panning to objects that you select and center in the sky chart.  If turned off, the chart jumps instantly to objects when you center them.  Also provides smoother panning.  When turned on, the chart "glides to a halt" when you remove your finger after swiping.  When turned off, the chart stops moving instantly when you remove your finger. Please Note: this feature is only available in the SkySafari Plus and Pro.
+Show FPS: Displays frames per second as you're swiping or animating the chart (FPS = 1.0 by default when the app is sitting idle.) Please Note: this feature is only available in the SkySafari Plus and Pro.
+Prevent Sleep: When turned ON, this prevents the device from sleeping while SkySafari is active.  This allows a continuous connection to a telescope. Please Note: this feature is only available in the SkySafari Plus and Pro.
+Redden Keyboard in Night Vision: When turned ON, SkySafari reddens the keyboard when displayed in Night Vision mode.  Normally this is desired but you may want to turn this OFF when using a custom keyboard that is already reddened or when using a red film over the screen.
+Toolbar Icon Order: Lets you rearrange the items on the main sky chart toolbar.  Tap this item to show the list of toolbar items.  Tap and drag the "grip" on the right side of an item in the list to rearrange it.  Tap Done when finished. Please Note: this feature is only available in SkySafari Plus and Pro for iOS.  It's not available in the Android version.
+Screen Rotation
+These options let you control what happens when you rotate your device from portrait to landscape mode or vice-versa.
+Allow Auto Rotation: When turned on, the main sky chart and other views automatically rotate as you turn your device from portrait to landscape mode.  When turned off, all views stay in portrait mode, regardless of how you are holding your device.
+On the iPad, this setting overrides the hardware rotation lock.  In other words, if the auto rotation setting is turned off, all of SkySafari's views will remain in portrait mode even if the iPad's hardware rotation lock is disabled.  You may want to have other iPad apps auto-rotate, but keep SkySafari in portrait orientation.
+Toolbar in Landscape: When turned on, the main toolbar and status bar appear when your device is held in Landscape mode, as well as in Portrait mode.  If this setting is turned off, the toolbar will disappear in Landscape mode, giving you a "full screen" sky chart view.
+Notifications
+SkySafari can notify you about satellite events and planet risings.  These notifications are generated for next 24 hour period each time SkySafari is brought to the foreground.  If you go for a day or so without using SkySafari, the notifications will stop.
+Planet risings: When turned on, SkySafari will notify you of Sun, Moon and planet risings.
+Bright Satellites and Flares: When turned on, SkySafari will notify you when the International Space Station (ISS), the Tiangong Space Station, or the Hubble Space Telescope (HST) is rising for a visible pass.  It will also notify you when an Iridium satellite is about to flare.
+Do Not Disturb: When turned on, no notifications will be delivered during the specified time period.
+Please Note: Iridium flares are only shown in the SkySafari Plus and Pro.
+Horizon & Sky
+The settings in this view let you control the display of the local horizon, and the sky background.  In SkySafari Plus and Pro, note that the horizon is not visible if you are not displaying the sky chart using horizon coordinates!  Use horizon coordinates to show the horizon.
+Horizon Display
+Show Horizon & Sky: Turns the local horizon and sky background display off or on.  When turned off, most of the other settings in this section are disabled.
+as Transparent with Line: With a transparent horizon, objects below the horizon are visible, as if the Earth were transparent.  The horizon line itself is still visible.
+as Translucent Area: With a translucent horizon, objects below the horizon are visible, but so is the Earth.
+as Opaque Area: With an opaque horizon, no objects are visible below the horizon.
+as Panoramic Image: With a horizon panorama, the horizon is drawn as a realistic image that moves as you pan and zoom around the chart.  You can select a specific panorama from the list in the section below.
+Show Cardinal Points: Sets whether the cardinal points are displayed along the horizon line.  Cardinal points label the north, east, south, and west directions on the horizon.
+Show Daylight: When turned on, the sky color changes with the cycle of day and night.  When turned off, the sky background color is always black.
+Show Horizon Glow: When turned on, the horizon is drawn with a soft glow that increases with daylight to simulate atmospheric haze.  When turned off, the horizon is always drawn against a clear sky background.
+Horizon Altitude: Lets you determine when objects rise and set above a specific altitude.  Selecting this item leads to a slider that lets you set the horizon altitude used to compute rise/set times, and to draw the horizon line.
+Objects below the altitude you select will be considered below the horizon.  You can use this to quickly identify objects which - even though technically above zero degrees altitude - are still too low in the sky to be easily observed.  It's usually not worthwhile to observe objects below an altitude of 10 - 15 degrees, since they are lost in atmospheric haze.
+Please note: this feature is only available in SkySafari Plus and Pro.
+Horizon Panoramas
+This section lists the horizon panoramas that are available in SkySafari.  The currently-selected panorama is shown with a check mark.  The panorama is only displayed if you've selected Panoramic Image display option above.  Choosing any item from the list of horizon panoramas will automatically select this option!
+Creating Your Own Horizon Panorama
+You can create your own horizon panorama - for instance, an image of your own back yard, or your favorite observing site.  You can then import it into SkySafari, to show the sky as it realistically appears from your location.
+To do this, first create a panorama using your digital camera, and a panorama-stitching program like Adobe Photoshop, Canon PhotoStitch, or DoubleTake for macOS.  Resize your panorama image to dimensions of exactly 2048 pixels wide x 1024 pixels tall.
+The vertical sweep of the image represents 180 degrees of altitude, from the zenith at +90° (top of the image), to the horizon at 0° (middle of the image) to the nadir at -90° (bottom).
+The horizontal direction on your image represents 360° of azimuth, starting with north (0°) at the left edge, east (90°) one quarter of the way across, south (180°) halfway across, west (270°) three fourths of the way across, and finally wrapping around again to north (360° or 0°) at the right edge.
+When you're done photoshopping, save your panorama as a 32-bit RGBA color image file in PNG format.  Make sure your image contains an alpha or transparency layer that accurately indicates the parts of your panorama that are opaque (the ground, trees, buildings, etc.) versus the parts that are transparent (the sky).
+Importing Your Horizon with iTunes
+If you are using SkySafari on an iPhone, iPad, or iPod touch, you can import your horizon panorama using iTunes file sharing.  To do this, connect your iPhone or iPad with a USB cable to a computer running iTunes.  Select your iOS device when it appears in iTunes, then find the "Apps" section that lists all the apps on your device.  Choose SkySafari from the list of apps.  Add your horizon PNG image file to the list of SkySafari Documents displayed by iTunes, or drag and drop it into the list.  iTunes will then copy your file over the USB cable onto your iPhone/iPad.
+If everything works correctly, your image will then appear in the list of horizon panoramas in SkySafari.  You can select and display it just like SkySafari's other built-in horizon panoramas.
+If your horizon panorama doesn't appear in SkySafari's list, make sure it's in PNG format, and that its name ends with ".png".  Make sure its dimensions are 2048 x 1024, and that's a 32-bit RGBA color image with an alpha (transparency) layer.  If all else fails, you can email your image to Simulation Curriculum technical support, and we can try to debug it for you.
+Importing Your Horizon with SD Card
+If you are using SkySafari for Android, you can import your horizon panorama using your SD card.  To do this, connect your Android device with a USB cable to a computer.  Then mount your Android's SD card on your computer, so it appears as a disk.  Look for a SkySafari, SkySafari Plus, or SkySafari Pro folder on the root (top level) of your SD card, depending on which version of SkySafari you own.  Then copy your horizon PNG image file into the Horizon Panoramas folder within this folder.
+For example, if you own SkySafari Pro, copy your panorama to the following directory on your SD card:
+<top level of SD card>/SkySafari Pro/Panoramas/
+If everything works correctly, your image will then appear in the list of horizon panoramas in SkySafari.  You can select and display it just like SkySafari's other built-in horizon panoramas.
+If your horizon panorama doesn't appear in SkySafari's list, make sure it's in PNG format, and that its name ends with ".png".  Make sure its dimensions are 2048 x 1024, and that's a 32-bit RGBA color image with an alpha (transparency) layer.  If all else fails, you can email your image to Simulation Curriculum technical support, and we can try to debug it for you.
+Solar System
+The settings in this view control the display of planets, moons, and other "minor bodies" in the solar system (asteroids and comets), as well as artificial Earth-orbiting satellites.
+Planet & Moon Display
+Show Planets: Displays planets and moons in the sky chart. When turned off, most of the other settings in this section are disabled.
+with Grids: Shows planets and moons with surface coordinate grids.  Planet grids show the orientation of the planet's equator and rotational axis.  The equator and prime meridian are drawn as bold lines; other longitudes/latitudes are shown with lighter lines.
+with Axes: Shows the rotational axes of planets and moons.  Their north poles are drawn as bold lines; south poles are shown with lighter lines. Note: this option is only available in SkySafari Plus and Pro.
+with Phases: Shows planets and moons with their night sides shaded in a darker color.  When turned off, planets shown as fully illuminated, without any night side shading.
+with Atmospheres: Shows the atmospheres of Venus, Earth, and Titan.  To see these objects' surfaces unobscured by clouds, turn off this option. Note: this option is only available in SkySafari Plus and Pro.
+with Surfaces: Shows planet and moons with realistic surfaces (and ring systems) using NASA planetary mission image data.  This option can slow performance when zoomed in a planet's disk, but generates a very pretty view.
+with Surface Labels: Shows labels for named planetary surface features like craters, mountains, maria, and canyons.  Spacecraft that have landed on other solar system objects, and cities on Earth, are indicated with a green dot and label.  Only the largest features are labelled when a planet's disk appears very small; to see more labels for smaller features, zoom in on the planet. Note: this option is only available in SkySafari Plus and Pro.
+with Names: Shows names next to planets and moons.
+with Minor Moons: Shows the "irregular" satellites of the outer planets, as well as other minor moons discovered by spacecraft exploration.  All of these are small, asteroid-sized objects that are only visible in large professional telescopes.  Many of these objects have highly inclined, elliptical, and/or retrograde orbits; most are suspected to be captured into temporary orbits around their primary planets. Note: this option is only available in SkySafari Pro.
+Minor Body Display
+Show Asteroids: Sets whether asteroids are displayed in the sky chart.
+Show Comets: Sets whether comets are displayed in the sky chart.
+Show Satellites: Sets whether satellites are displayed in the sky chart.
+with Names: Sets whether the sky chart displays names next to asteroids, comets, and satellites.
+Orbits, Paths & Shadows
+Note: this section is only available in SkySafari Plus and Pro.
+Show Planet Orbits: Shows orbital paths of the major planets around the Sun.  Since the planets orbit in the nearly the same plane as the Earth (the Ecliptic plane), their orbits appear near the Ecliptic line - the Earth's orbit as seen from the Earth - in the sky. Note: this option is only available in SkySafari Plus and Pro.
+Show Moon Orbits: Shows orbital paths of the moons around their primary (parent) planet.  You may need to zoom in on a planet to see its moon orbits; Mercury and Venus have no moons!
+Selected Object Orbit: Shows the orbit of the selected planet, moon, asteroid, comet, or satellite.  You need to select such an object and turn on this option to show its orbit.
+Selected Object Path: Shows the apparent path of a solar system object across the sky, with its position at specific dates labelled.  The solar system object must be selected, and you must be viewing it from the Earth's surface, in order to see the path.
+Selected Object Path: Shows the apparent path of a solar system object across the sky, with its position at specific dates labelled.  The solar system object must be selected, and you must be viewing it from the Earth's surface, in order to see the path.
+Earth & Moon Shadow Circles: Shows the Earth's shadow (when viewing from Earth) or the Moon's shadow (when viewing from the Moon).  When this option is turned on, the Earth's (or Moon's) umbral and penumbral shadows are shows as concentric circles.  Inside the smaller umbral shadow, the Sun is totally hidden; inside the larger penumbral shadow, the Sun is only partially blocked.  This can be helpful for simulating lunar and solar eclipses, and illustrating the difference between total and partial eclipses.
+Brightness & Size
+Please Note: this section is only available in SkySafari Plus and Pro.
+Magnitude Limit: This item lets you set the faintest planets, moons, asteroids, comets, and spacecraft that the sky chart will display.  You can use this item to filter out the many hundreds of faint asteroids and comets that are not observable in backyard telescopes - or you may want to show them all!
+Planet Magnification: This slider lets you magnify the Solar System's major planets by a factor of up to 10,000x their true size.  The planets are very small compared to the space between them.  This option is useful for showing comparative views of the planets from different perspectives.
+Moon Magnification: This slider lets you magnify the moons of the planets by a factor of up to 100x over their true size.  Since most moons are very small compared to their primary planet, this option lets you exaggerate them to make easier comparative views.
+Update Minor Body Orbit Data
+SkySafari normally updates its database of asteroid, comet, and satellite orbits once per week.  In SkySafari Plus and Pro, you can tap this button to download new asteroid, comet, and satellite orbit data any time your iOS or Android device is connected to the internet.  SkySafari will download the following files:
+Bright Asteroids - from the Minor Planet Center
+Observable Comets - from the Minor Planet Center
+Visual Satellites - from Celestrak.com
+These downloads should take 10 - 30 seconds if you are connected to the internet by Wi-Fi, and a 1 - 3 minutes if you are connected by a cellular data network.  If successful, SkySafari will report the number of asteroid, comet, and satellite orbits that it has updated.  If that number is zero, it probably means SkySafari can't connect to the on-line data sources for this information (because the server is down, or because you are not connected to the internet, etc).
+Updating your orbit data every month or so is a good idea.  It will ensure that SkySafari's position predictions are accurate.  This is especially true for satellites, whose orbits change rapidly due to atmospheric drag, and due to perturbations from the Earth's non-spherical gravity field.
+Updating also ensures that as new objects are launched - or discovered! - SkySafari will be able to show them to you.
+Please Note: this feature is only available in SkySafari Plus and Pro.
+Stars
+The settings in this view let you control the display of stars, including the number of stars that will be shown, the size and color of the star symbols, and the labelling of stars with their names or catalog numbers.
+Star Display
+Show Stars: Sets whether stars are displayed in the sky chart.   When turned off, most of the other settings in this view are disabled.
+Magnitude Limit: Sets the star magnitude limit. This determines the faintest stars that are visible in the sky chart.  The brighter a star, the lower its magnitude.  The faintest stars visible to the naked eye are about magnitude 6.5.  Very bright stars can have negative magnitudes; the brightest star in the sky, Sirius, is magnitude -1.44.
+The magnitude limit will change automatically as you zoom the sky chart in and out.  When zoomed in, fainter stars are displayed.
+Star Name Display
+Show Names: Sets whether star names are displayed next to some stars in the sky chart.
+Proper Names: Sets whether proper names are displayed for stars when possible.  When turned off, stars' names are displayed using their catalog numbers (e.g. "α CMa") instead of their proper names (e.g. "Sirius").
+Greek Symbols: Sets whether greek symbols are displayed for stars which have Bayer letters.  When turned off, greek letters are spelled out in English, e.g. "Alpha CMa" instead of "α CMa".
+Name Density: Sets the percentage of stars whose names are displayed on the sky chart.  At 0%, no stars have names shown; at 100%, all stars have names shown.  At 20%, only the brightest 20% of stars have names shown.  When the star name density is at 10% or below, only stars with Bayer letters, Flamsteed numbers, or proper names will be labelled.
+Double Stars: displays double stars with their component identifiers (A, B, C, D, etc.) as well as their visual separations in arcseconds (").  For binary stars with known orbits, this option also displays the orbital path of the secondary component relative to the primary.  Turn this option on, then zoom in on Sirius or Alpha Centauri, and take a look!
+Please Note: this feature is only available in SkySafari Plus and Pro.
+Star Symbol Options
+Symbol Size: Sets the size of the star symbols.  Use small, subtle star symbols to give the screen the appearance of the night sky.
+Color Intensity: Sets the displayed intensity of the color difference between stars of different spectral types.
+Deep Sky Objects
+The settings in this view let you control the display of star cluster, nebulae, and galaxies - including the selection of deep sky objects that are shown, and the labelling of objects with their names or catalog numbers.
+Deep Sky Object Display
+Show Objects: Draws symbols for star clusters, nebulae, and galaxies in the sky chart.  When turned off, most of the other settings in this view are disabled.
+Show Images: Displays images of deep sky objects in the sky chart.  When turned on, Digitized Sky Survey images of several hundred best-known deep sky objects are drawn at their true size and orientation in the sky chart.  Deep sky images can be displayed independently of deep sky object symbols (above), and vice-versa.
+Best-Known Only: Sets whether only the best-known deep sky objects are shown in the sky chart.  These objects include the Messier objects, the Caldwell objects, and any other deep sky objects with a proper or common name.
+The Messier Catalog is a famous list of 110 prominent deep sky objects compiled by the 18th century astronomer Charles Messier. The Messier catalog includes some of the most prominent star clusters, nebulae, and galaxies visible from the northern hemisphere, such as the Hercules Cluster (M 13) and the Whirlpool Galaxy (M 51).
+The Caldwell Catalog is a modern complement to Messier's list, compiled in 1995 by the British astronomer Patrick Caldwell-Moore.  It includes additional 110 "Messier-quality" deep sky objects which Messier missed, many because they are only observable from the southern hemisphere.  Together, the Messier and Caldwell lists include most of the deep sky objects easily visible in backyard telescopes from both hemispheres.
+Please Note: this feature is only available in the SkySafari Plus and Pro.
+Show in Wide Fields: allows deep sky objects to be displayed when the field of view is wider than 45 degrees.  This option is turned off by default, since deep sky objects can only be seen through binoculars or telescopes, which have very small fields of view.  However, turning this option on may let you see the distribution of (for example) galaxies across wide areas of the sky.
+Please Note: this feature is only available in SkySafari Plus and Pro.
+Magnitude Limit: Sets the deep sky object magnitude limit. This determines the faintest deep sky objects that are visible in the sky chart.  The brighter an object, the lower its magnitude.  The magnitude limit will change automatically as you zoom the sky chart in and out.  When zoomed in, fainter objects are displayed.
+Intensity: Sets the brightness used to display deep sky object symbols and names.  Move the slider to vary the brightness from 0% (black) to 100% (white).
+Deep Sky Object Name Display
+Show Names: Sets whether deep sky objects' names are displayed next to the objects in the sky chart.
+Proper Names: Sets whether proper names are displayed for deep sky objects, when possible.  When turned off, deep sky objects names are always shown using catalog numbers (e.g. "M 13") instead of proper names (e.g. "Hercules Cluster").
+Name Density: Sets the percentage of deep sky objects whose names are displayed on the sky chart.  At 0%, no objects have names shown; at 100%, all objects have names shown.  At 80%, the brightest 80% of deep sky objects have names shown.
+Deep Sky Object Type Selection
+Please Note: this section is only available in SkySafari Plus and Pro.
+Globular Clusters: Sets whether globular clusters are displayed in the sky chart.  These are dense concentrations of stars, typically containing tens of thousands to millions of stars.  These massive clusters are among the oldest objects in our galaxy.  Examples are M 13 in Hercules and M 22 in Sagittarius.
+Bright Nebulae: Sets whether bright nebulae are displayed in the sky chart.  These are glowing clouds of gas usually found in the disk of the Milky Way.  These nebulae glow either from the reflection of light from nearby stars or from the emission of light produced by nearby stars heating the nebulae. Examples are M 42 (the Great Orion Nebula) in Orion and M 20 (the Trifid Nebula) in Sagittarius.
+Dark Nebulae: Sets whether dark nebulae are displayed in the sky chart.  These are opaque clouds of cold dust which obscure the light from the stars behind them.  They are mostly located along the Milky Way.  Examples are B 33 (the Horsehead Nebula) in Orion, and the Coal Sack in Crux.
+Planetary Nebulae: Sets whether planetary nebulae are displayed in the sky chart.  These are expanding shells of gas expelled from a star late in its life. A round, planet-like appearance led to the name "planetary nebulae" in the eighteenth century, though there is no actual connection with planets. Examples are M 57 (the Ring Nebula) in Lyra and M 27 (the Dumbbell Nebula) in Vulpecula.
+Galaxies: Sets whether galaxies are displayed in the sky chart.  Galaxies are immense star systems outside of our own Milky Way galaxy; many are larger than our own.  The total number of galaxies is in the billions, and they extend to the edge of the known universe.  Most galaxies are classified as spiral galaxies, elliptical galaxies, or irregular galaxies, based on their appearance.   Examples are M 31 (spiral) in Andromeda, M 87 (elliptical) in Virgo, and the Small Magellanic Cloud (irregular).
+Milky Way
+The Milky Way is the visible concentration of stars, star clusters, bright gas clouds, and dark dust lanes that lie along the plane of our galaxy in the sky.  The settings in this view control how the Milky Way is displayed in the main sky chart.
+Milky Way Display
+Show Milky Way: Turns the Milky Way off or on.  When turned off, the Milky Way is not drawn, and most of the other settings in this section are disabled.
+as Framed Outline: shows the Milky Way's boundaries as a thin outline.
+as Filled Area: shows the Milky Way region filled with a solid gray color.
+as Realistic Image: shows a digital all-sky panorama of the Milky Way in visible light, provided by Axel Mellinger.
+as Hydrogen Alpha Image: shows the sky in Hydrogen Alpha light, with an image produced by Doug Finkbeiner. This full-sky H-alpha map is a composite of the Virginia Tech Spectral line Survey (VTSS) in the north and the Southern H-Alpha Sky Survey Atlas (SHASSA) in the south. The view shows the distribution of glowing ionized hydrogen gas clouds in our galaxy's star-forming regions.
+as 2MASS Infrared Image: shows the sky at near-infrared wavelengths, using data from the 2-micron all-sky survey.
+as WISE Infrared Image: shows the sky in mid-infrared wavelengths, using data from NASA's WISE (Wide-Field Infrared Explorer) satellite. The colors in this image represent specific wavelengths of infrared light. Cyan (blue-green) represents light emitted predominantly from stars and galaxies at a wavelength of 3.4 microns. Green and red represent light mostly emitted by dust at 12 and 22 microns, respectively.
+as IRAS Infrared Image: shows the sky at a far-infrared wavelength of 100 microns, using data from the IRAS (Infrared Astronomy Satellite) and COBE (Cosmic background Explorer) spacecraft.  Galactic dust clouds are visible at these wavelengths.
+as Planck Microwave Image: shows the distribution of cosmic microwave background radiation, as measured by the Planck satellite. Constructed from observations of the sky at wavelengths spanning 850 microns to 1 cm (353 GHz to 30 GHz).
+as 408 MHz Radio Image: shows the sky observed at a frequency of 408 MHz by the Haslam radio survey. The Haslam 408 MHz map is derived from 4 separate surveys.
+as 1420 MHz (21 cm) Radio Image: shows the sky observed at a frequency of 1420 MHz or a wavelength of 21 cm (the frequency of HI, neutral hydrogen) by the LAB (Leiden/Argentine/Bonn) radio survey.
+as ROSAT X-Ray Image: shows the sky at soft X-ray wavelengths, as observed by the ROSAT satellite.  The maps cover approximately 98% of the sky in the 1/4 keV, 3/4 keV, and 1.5 keV bands.  In this 3-color image, red is 0.1 - 0.4 keV, green is 0.5 - 0.9 keV, and blue is 0.9 - 2.0 keV.
+as Fermi Gamma-Ray Image: shows the sky at gamma rays frequencies, as observed by the Fermi spacecraft. This view shows how the sky appears at energies greater than 1 billion electron volts (GeV) according to five years of data from NASA's Fermi Gamma-ray Space Telescope. For comparison, the energy of visible light is between 2 and 3 electron volts.
+Please Note: The options to show the Milky Way in Hydrogen Alpha thru Gamma Ray wavelengths are only available in SkySafari Pro.
+Milky Way Intensity
+Intensity: Sets the brightness level of the Milky Way when shown as a filled area or realistic image.
+Fade in Small Fields: When turned on, the Milky Way's intensity will fade to zero as the field of view decreases from 10 to 1 degrees wide.  It is often not useful to show the Milky Way in very small fields of view.
+Grids & Reference
+The settings in this view let you show or hide grids which display the major celestial coordinate systems, as well as the reference lines and points that those systems are based on.
+Celestial Coordinate Grid
+Show Grid: Sets whether a celestial coordinate grid is displayed on the sky chart.  When turned on, the following items are enabled:
+with Horizon Coordinates: displays an alt-azimuth coordinate grid on the sky chart.
+with Equatorial Coordinates: displays a right ascension/declination grid on the sky chart.
+with Ecliptic Coordinates: displays an ecliptic longitude/latitude grid on the sky chart.
+with Galactic Coordinates: displays a galactic longitude/latitude grid on the sky chart.
+Please Note: Ecliptic and Galactic coordinate grids are only available in SkySafari Pro.
+Reference Lines
+Celestial Equator: Sets whether the celestial equator is displayed on the sky chart. The celestial equator is the plane of the Earth's equator projected onto the celestial sphere.
+Galactic Equator: Sets whether the galactic equator is displayed on the sky chart. The galactic equator is the plane of the Milky Way galaxy projected onto the celestial sphere.
+Ecliptic Path: Sets whether the Ecliptic path is displayed on the sky chart. The Ecliptic is the plane of the Earth's orbit projected onto the sky.  It is also the annual path of the Sun around the celestial sphere.
+Meridian Line: Sets whether the meridian is displayed on the sky chart.   The meridian is the projection of your longitude on Earth onto the celestial sphere.  It extends from the northern horizon through the zenith to the south cardinal point on the horizon.   An object is said to transit when it crosses the meridian.
+Reference Points
+Celestial Poles: Sets whether the celestial poles are displayed on the sky chart.  The celestial poles are where the Earth's polar axis (i.e. the line perpendicular to the plane of the Earth's equator) intersects the celestial sphere.  The north and south celestial poles are currently in the constellations Ursa Minor and Octans, but they move slowly over the centuries due to precession.
+Galactic Poles: Sets whether the galactic poles are displayed on the sky chart. The north and south galactic poles are where a line perpendicular to the plane of the Milky Way galaxy intersects the celestial sphere.  They are currently located in the constellations Coma Berenices and Sculptor, respectively.
+Ecliptic Poles: Sets whether the ecliptic poles are displayed on the sky chart.  The ecliptic poles are where a line perpendicular to plane of the Ecliptic intersects the celestial sphere.  The north and south ecliptic poles are in the constellations of Draco and Dorado, respectively.
+Zenith & Nadir: Sets whether the zenith and nadir are displayed on the sky chart.  This marks and labels the points directly overhead and underneath your feet.
+Settings Files
+Settings Files let you save all of your sky chart options so you can restore them at a later date.  You can email settings files to yourself, or send them to your friends, so that you (or they) can easily reproduce a sky chart which you have created.
+To do all of these things, select the Save and Restore Settings item from the main Settings view.
+Default Settings: SkySafari creates a default settings file the first time you run the app.  This settings file is called "Default Settings", and it contains a "snapshot" of the app the first time it was launched.  You can restore SkySafari to its initial state at any time by choosing this settings file.
+Saving New Settings Files
+To create your own settings files, tap the "Save New Settings File" button.  SkySafari will make another "snapshot" of all the app's current settings, and save them as a settings file called "Current Settings."  If the date and time are set to something other than current time, the simulated date is used as the file name: for example, "April 15, 2014 Settings" for a settings file that reproduces the total lunar eclipse of April 15th, 2014.  You can edit the settings file name to something else if you want a more descriptive title.
+Description: SkySafari generates a default description for your settings file, to give you an idea of what's inside it.  You can edit this description as well.  When you are satisfied with the name and description, tap the "Done" button in the upper right side of the status bar to return to the list of settings files that you have already saved - your new settings file is added to the list!
+Restoring and Deleting Settings Files
+To restore a saved settings file, tap its name in the list of settings files.  SkySafari will display the file's description, to let you make sure this is the file you want.  If so, tap the "OK" button - and all of the app's settings will be replaced with those from the settings file.  You can tap the "Cancel" button if you don't want to do this!
+Editing and Emailing Settings Files
+You can view and edit a previously-saved settings file's name and description by tapping the small blue arrow to the right of the file's name.  You can overwrite the settings inside the file with a copy of the app's current settings, by tapping the "Update with Current Settings" button.  You might want to do this if, for example, you wanted to tweak the settings inside that file, without having to save them to an entirely new file.
+You can email a saved settings file to yourself, or to anyone else, by tapping the "Email This Settings File" button.  When the email is received, the e-mail app on the recipient's phone will launch their copy of SkySafari, import the settings file into their list of saved settings, and let them restore the settings you sent them - all in a single step!
+Rearranging and Deleting Settings Files
+You can rearrange and delete settings files.  Here's how.
+On iOS, tap the Edit button at the top of the screen.  Then tap and drag the "grip" icon on the right side of the settings file to move it around the screen.  Tap and drag the - (minus) icon on the left side of the settings file to delete it.  Tap the End Edit button at the top of the screen when you're finished.
+On Android, tap the Edit link at the top of the screen.  Up/down arrows and a trash can appear at the bottom of the screen.  Then tap the settings file you want to move or delete.  Use the up/down arrows to move the item in the list, or tap the trash can to delete it.  When finished, tap the End Edit link at the top of the screen.
+Using iTunes File Sharing
+iOS users can import and export settings files to SkySafari using iTunes file sharing.  To do this, connect your iPhone or iPad to a computer running iTunes with a USB cable.  Select your iOS device when it appears in iTunes, then find the "Apps" section that lists all the apps on your device.  Choose SkySafari from the list of apps.  iTunes will then display a list SkySafari Documents that can be shared with iTunes.
+To export a settings (.skyset) file from SkySafari, drag and drop it from the list of SkySafari documents to your computer's desktop.  You can also rename or delete observing lists here.  Changes should be reflected immediately in SkySafari's Save and Restore Settings section.
+To import a settings (.skylist) file, drag and drop it from your computer into the list of SkySafari Documents displayed by iTunes.  iTunes will copy your file over the USB cable onto your iPhone/iPad.  If everything works correctly, your settings file will then appear in SkySafari's Save and Restore Settings section.
+If your settings file doesn't appear in SkySafari, make sure it's a valid SkySafari settings file, and that its name ends with ".skyset".  If all else fails, you can email your settings file to Simulation Curriculum technical support, and we can try to debug it for you.
+SD Card Import & Export
+Android users can import and export settings files to SkySafari using their SD card.  To do this, connect your Android device with a USB cable to a computer.  Then mount your Android's SD card on your computer, so it appears as a disk.  Look for a SkySafari, SkySafari Plus, or SkySafari Pro folder on the root (top level) of your SD card, depending on which version of SkySafari you own.  Then locate the Saved Settings folder within this folder.  For example, if you own SkySafari Pro, your observing lists are stored in the following directory on your SD card:
+<top level of SD card>/SkySafari Pro/Saved Settings/
+To export a settings (.skyset) file from SkySafari, copy it out of this folder on your SD card to your computer's desktop.  You can also rename or delete settings files directly on your SD card.  Changes should be reflected immediately in SkySafari's Save and Restore Settings section.
+To import a settings (.skyset) file, drag and drop it from your computer into this folder.  If everything works correctly, your observing list will then appear in SkySafari's Save and Restore Settings section.  You can select and apply the new settings file, just as any other.
+If your settings file doesn't appear in SkySafari, make sure it's a valid SkySafari settings file, and that its name ends with ".skyset".  If all else fails, you can email your observing list to Simulation Curriculum technical support, and we can try to debug it for you.
+Storage
+Cloud Storage
+SkySafari 5 Plus and Pro allow you to store observing lists and saved settings files in the cloud so they will be available and up to date on all your devices.
+Note: Cloud storage is only available in SkySafari Plus in Pro. It's not available in the basic version.
+Enabling Cloud Storage
+You enable cloud syncing from the Storage settings panel. You may choose to store the files locally, on iCloud Drive or on Google Drive. The later option should be chosen if you run SkySafari on both iOS and Android devices and want files shared between them.
+You must have iCloud Drive enabled in your iOS Settings to use iCloud Drive storage.  To use storage on Google Drive you must have an active Google account. SkySafari will ask you to sign into this the first time you use it.
+Uploading and Downloading
+Changed files are uploaded to the cloud only when you quit the app or put it into the background. It can take several minutes for those changes to propagate to your other devices. For iCloud Drive, files that have changed in the cloud should be automatically downloaded to your device any time SkySafari is active. If a file doesn't appear to be downloading, try putting SkySafari in the background and then bring it to the foreground again. For Google Drive, files are downloaded each time SkySafari is brought to the foreground.
+File Conflicts
+File conflicts can occur if the same file is modified on two devices within a short amount of time or when you don't have internet access on one or both devices.  Conflicts are resolved by choosing the most recent modification. The two sets of changes will not be merged
+DSS Cache Storage
+The DSS Cache Storage setting controls how much space is allotted to storing Deep Sky Survey images downloaded from the Object Info view.  When the allotted storage is filled, older images are automatically discarded.
+Scope Control View
+The Scope Control view lets you connect to your telescope and control it.  Before connecting, select your telescope type and communication options in the Settings, under Scope Setup.  By default, SkySafari's uses a "Demo" telescope. This is a dummy virtual telescope that lets you to use the controls without having a real scope connected. To connect to a real telescope, choose the telescope type and communication parameters in the Settings.
+Please note: you can't use SkySafari's telescope controls when you are orbiting another object in the solar system.  To use them, first return home to Earth.  See the Orbit button Help for more information.
+Connecting and Disconnecting
+After setting up your telescope in the Settings, tap the Scope button in the toolbar to show the Scope Control view at the bottom of the screen.  The Scope Control view contains a button which lets you connect or disconnect from the scope.
+Connect: This button opens a connection to your telescope.  If you're using an iPhone, iPad, or iPad touch with our SkyWire serial accessory, then SkySafari will use SkyWire for telescope communication.  If you are using an Android device with a paired bluetooth serial adapter, then SkySafari will use bluetooth for telescope communication.  Otherwise, SkySafari will use Wi-Fi for wireless telescope communication.
+Connect and Align: This button only shows when connecting to a Celestron WiFi telescope.  Tapping it will connect and then guide you though an alignment process.  The type of alignment can be chosen in the Telescope Setup > Setup and Control settings screen.
+Once you've connected, this button's title will change to Disconnect. Tapping it will end your telescope control session.
+Before tapping the Connect button, make sure you've selected the correct telescope type and communication options in the Settings.  Make sure the scope is powered on, and any necessary alignment procedures are completed.  Consult your telescope manual for details on the scope's alignment procedure.
+After connecting, the sky chart is centered where SkySafari thinks the scope is pointing, as reported by your telescope.  If this is wrong, your telescope is probably not star-aligned correctly.
+While you're connected to a telescope, the Compass or Gyro button in the toolbar will be turned off.  The sky chart cannot be centered on the telescope, and centered on the compass, at the same time.
+Slewing and Aligning
+Once your telescope is connected, arrow buttons appear on the sides of the screen.  The status bar expands to show the scope's coordinates and target object.  The arrow buttons let you move the scope directionally.  A motion rate slider appears, to ket you control how fast the directional motion occurs.
+The other buttons in the Scope Control panel are now active, too:
+GoTo/Stop: This button issues a "GoTo" command to your telescope, which will physically slew it to the coordinates of the currently-selected object in the sky chart.  To select an object in the sky chart, tap on it, or use the Search view.
+While a GoTo is in progress, this button's title changes to "Stop", and pressing it will issue a command to stop the currently-in-progress GoTo.  You can use this as an "emergency stop" if the telescope is in danger of hitting something, or if you have accidentally slewed to the wrong object.
+Note that not all telescopes support GoTo commands, and that you cannot GoTo an object which is below the horizon.
+Align: This synchronizes the scope to coordinates of the selected object.  The bullseye indicator in the sky chart shows where the telescope thinks it is pointing.  If that appears incorrect, the scope and the software must be synchronized.  To do this:
+Physically point the scope at a real star in the sky, using SkySafari's arrow buttons or the scope control panel.  Center the object in the eyepiece.
+Select that same object in SkySafari to make it the current target object.  Do this by tapping the object in the sky chart, or by searching for it by name.
+Tap the Align button.
+Lock/Unlock: Tapping this button keeps the sky chart centered on the telescope's position.  Moving the telescope will cause the sky chart to move, following the telescope's motion.
+Notes on Alignment
+Note: for Celestron NexStar, Orion/SkyWatcher SynScan, iOptron GOTONova, and ServoCAT telescope controllers, tapping the Align button stores the offset between the telescope's reported position and the selected object's position.  It subtracts that offset from the telescope's reported position whenever the telescope is within 10 degrees of the object you Aligned on.  In other words, SkySafari performs a "local sync" around the alignment target.  If you move the telescope to a very different part of the sky, you may want to Align on a target in that part of the sky.  Also note that the telescope's RA/Dec reported by SkySafari will differ from the RA/Dec reported by its hand controller (since SkySafari is applying the alignment offset to the telescope's reported position.)
+Note: for encoder-based "Push-To" systems, like the Tangent Instruments BBox, Celestron Astro-Master, JMI NGC-MAX, and Orion Intelliscope, SkySafari now lets you perform a 2-star alignment.  This eliminates the need to level your telescope mount base.  Simply set up your telescope, point it at the first alignment star, select that star in SkySafari, and tap "Align".  Repeat the process with a second alignment star, choosing "Align" rather than "Restart Alignment" when asked.  Your encoders should now be aligned to the sky.  You can continue to align on additional second stars; but SkySafari only uses the two you most recently aligned on.  If you want to forget the pervious alignment stars and align as your first star, choose "Restart Alignment".
+Make sure your two alignment stars are at least 10 degrees apart; 90 degrees apart is ideal.  SkySafari will warn you if your alignment stars are too close together, or if their positions don't match - for example, if you've accidentally selected the wrong alignment star in SkySafari, or you're not really pointing the telescope at that star in the sky.
+SkySafari remembers the telescope's alignment until you quit the app, so you should not have to realign if you disconnect (or are accidentally disconnected) from the encoder control box.  However, if you accidentally kick the telescope mount, or otherwise destroy your alignment, you can realign without having to quit SkySafari.  To start over, point the telescope at a star, select the same star in SkySafari, and tap Align.  When given the option, align on the star as the "First Star".  That will reset SkySafari's alignment process and start it over with the star you just selected.
+Going to a specific RA/Dec
+Normally GoTo will take you to the coordinates of the selected object.  To go to specific coordinates rather than the selected object, press and hold the GoTo button in the scope control view until you see a small RA/Dec panel pop up onscreen.  Fill in the RA and Dec you want and tap GoTo in the panel.  The coordinates may be entered using either decimal format or as HH MM SS.S for RA and DD MM SS.S for Dec.
+Scope Setup
+Use these settings to specify what kind of telescope hardware you have, and how SkySafari should communicate with your telescope.
+In order to communicate with your telescope, you will need either:
+SkyFi - a Wi-Fi adapter that relays wireless communication from your mobile device to the serial port on your telescope. Android devices must support Ad Hoc Wi-Fi networks to use our SkyFi wireless adapter; most do not.  All iOS devices support Ad Hoc Wi-Fi, and therefore can use SkyFi.
+SkyWire - a serial cable accessory for iOS devices.  This connects your iPhone/iPad/iPod Touch to the serial port on your telescope using a direct cable connection.  Does not work with Android devices.
+a bluetooth serial adapter, which relays communication from SkySafari through your Android's bluetooth radio hardware to your telescope's serial port.  Does not work with iOS devices.
+a Celestron WiFi scope using either its built-in WiFi or Celestron's SkyQ Link.  Note that when using a Celestron WiFi scope, the telescope setup and control interface will be somewhat different.  This is detailed more below.
+You can also use our SkySafari software, running on a macOS computer with Wi-Fi and a serial port, as a Wi-Fi-to-serial server.  See Simulation Curriculum's web site at www.skysafariastronomy.com for more details.
+Equipment Selection
+Scope Type - selects the type of telescope you want to control.  SkySafari can control any of the telescopes in the list.  SkySafari supports many encoder systems that can read out the telescope position but not actually move the telescope.  The Celestron AstroMaster and JMI NGC-MAX are examples of such encoder systems.
+Mount Type - selects your telescope's type of mounting:
+Equatorial Push-To - a non-motorized mount whose right ascension axis is pointed at the celestial pole.  The mount must be manually turned around this axis to follow the diurnal motion of the sky.
+Equatorial GoTo (Fork) - a motorized equatorial mount that automatically follows the diurnal motion of, and can automatically slew to, targets in any part of the sky.  Has one or two fork arms that suspend the telescope between them.  The Meade LX-200 and Celestron NexStar (when used with an equatorial wedge) are examples.
+Equatorial GoTo (German) - a motorized, polar-aligned mount that requires reversing the telescope tube to the east or west side of the mount when the telescope passes through the meridian.  Examples include the Losmandy and Takahashi mounts.
+Alt-Az. Push-To on Equ. Platform - a non-motorized mount that must be manually pushed to targets in different parts of the sky.  However, it sits on a motorized platform that is aligned with the Earth's polar axis, so the mount follows the diurnal motion of the sky when it is not being pushed.
+Alt-Az. Push-To - a non-motorized alt-azimuth platform with fork arms that suspend the telescope between them.  It is moved manually by pushing the telescope tube.  It sits flat on the ground, so its "up-down" and "left-right" axes of motion align to the local horizon and zenith.  This includes most Dobsonian telescopes.
+Alt-Az. GoTo - a motorized alt-azimuth platform with fork arms that suspend the telescope between them, and can slew to any set of coordinates in the sky on command.  Includes the Meade LX-200 and Celestron NexStar when used in the alt-azimuth configuration.
+If your telescope mount has encoders which provide a digital readout of the scope's position, additional text fields will appear here.  These let you specify the encoder resolution.
+RA/Azm - The number of steps per revolution for the encoder attached to the telescope's Right Ascension axis (or Azimuth axis, if you have an alt-azimuth mount).
+Dec/Alt - The number of steps per revolution for the encoder attached to the telescope's Declination axis (or Altitude axis, if you have an alt-azimuth mount).
+Get Automatically - If turned on, SkySafari will attempt to read these values from your encoders when it connects to the telescope controller.  If turned off, you can enter the encoder steps per revolution manually; then SkySafari will send the values you entered to the encoders when connecting to the telescope.  You can do this if (for example) your mount is using gears or pulleys to increase the effective encoder resolution.
+Depending how your encoders are installed, their position readouts may increase when they are turned clockwise, or increase when they are turned counterclockwise.  If the encoder position readouts increase when they are turned counterclockwise, enter a negative value for the number of steps per revolution.  You may need to determine the correct + or - sign by trial-and-error.  If you push your telescope left (or up), but the telescope field-of-view indicator on the sky char moves right (or down), the sign is probably wrong.
+Communication Settings
+If you are using SkySafari with SkyWire connected to your iPhone, iPad, or iPad Touch, then SkySafari will use SkyWire (rather than Wi-Fi) to communicate with your telescope.
+If you are using SkySafari for Android, then the first two settings below determine how SkySafari communicates with your telescope - either via Bluetooth or Wi-Fi.  These settings are not present in the iOS version of SkySafari.
+Connect via Bluetooth - If selected, SkySafari will only attempt to communicate with your telescope using a bluetooth serial adapter.  The adapter must be turned on, physically connected to your telescope's serial port, and paired with your Android device.
+Connect via Wi-Fi - If selected, SkySafari will only attempt to communicate with your telescope using a Wi-Fi adapter like SkyFi.  The adapter must be turned on, and physically connected to your telescope's serial port.
+If you are using Wi-Fi, then the following settings must be correct.  These are only used with Wi-Fi telescope communication.  They will be disabled if you are communicating via bluetooth, and ignored if you are using SkyWire with an iOS device.
+Auto-Detect SkyFi - Detects your SkyFi unit's IP address automatically, using the name you have configured for your SkyFi.  This requires SkyFi firmware version 2.3 or later!
+SkyFi Name - The name of the SkyFi device whose IP address you want SkySafari to automatically detect.  This requires SkyFi firmware version 2.3 or later.  Make sure to enter the same name here as you entered into your SkyFi unit's configuration web page!
+IP Address - If you do not auto-detect your SkyFi's IP address, you can enter it here manually instead.  If you are using a Wi-Fi device that does not respond to SkyFi auto-detection, you must enter its IP address manually.  Your mobile device must be on the same Wi-Fi network as the SkyFi, and must have an IP address on the same subnet.  Check your iOS or Android's Wi-Fi network settings to make sure this is correct.
+Port Number - The TCP port number to be used for communication with the adapter.  Make sure this is the same TCP port that the telescope adapter or server is listening on.
+SkyFi Settings Web Page - If you have a SkyFi wireless adapter, this item displays its settings/configuration web page.  You must be connected to SkyFi's wireless network in order to see this web page.
+Celestron WiFi Telescope Settings
+If you have chosen Celestron WiFi as your telescope type, the Communications Settings section described above will not be present.  Instead you will see choices for Setup and Control and for Communication.  The Setup and Control screen will have options that vary depending upon the exact Celestron WiFi scope you are connected to.  The Communication screen will allow you to change whether you connect to the WiFi directly or by using access point mode where the WiFi scope has joined your local network.
+Additional Settings
+Set Time and Location - If turned on, SkySafari will send the time and location from your mobile device to the telescope when establishing a connection.  This will overwrite your telescope's previously-set time and location.  For some telescopes, this may invalidate your alignment.  For older Meade LX-200 telescopes, this may also cause a delay of up to 15 seconds when connecting.
+Note: This option is disabled with Celestron WiFi scopes.  The time and location is always sent in this case.
+Readout Rate - The readout rate is how often SkySafari requests the telescope's position from the mount.  If you set this rate to "4 per second", then SkySafari will request the telescope's position (and update it on screen) four times every second.
+If the telescope communication drops often, the rate of position requests may be too high for the telescope to respond properly. Setting a lower rate of 1 or 2 readouts per second may improve reliability.  The best readout rate may require some trial and error to find. A lower readout rate will update the telescope's position in the sky chart less frequently, and may make SkySafari's telescope controls feel sluggish.
+Save Log File - If turned on, SkySafari saves a log of its communication with the telescope on your mobile device.  SkySafari creates a new log file every time you connect to the telescope.  The log file records every command that SkySafari sends to the telescope, and every response from the telescope.  The log file name contains the date and time you began the telescope session, for example:
+2014-01-31-12-34-56.txt
+This log file can be emailed to Simulation Curriculum for troubleshooting telescope communication problems.  You can transfer the telescope communication log from your iOS or Android device using iTunes file sharing (iOS) or SD file card transfer (Android).
+iOS users - transfer the scope communication log to your computer with iTunes file sharing.  Connect your iPhone or iPad to a computer running iTunes with a USB cable.  Select your iOS device when it appears in iTunes, then find the "Apps" section.  Choose SkySafari Plus or Pro from the list of apps.  iTunes will then display the SkySafari Documents that can be shared with iTunes.
+Android users - the scope communication log is written to a folder named "SkySafari Plus" or "SkySafari Pro" at the top level of your SD card.  Copy this file to your computer with a USB cable, or simply email it to yourself.
+Scope Display
+Use the scope display settings to customize the display of the telescope's field of view in the sky chart.
+Fields of View
+Here, you can choose the telescope, eyepiece, finder scope, and/or camera(s) that you're using.  SkySafari will automatically compute the FOV of your equipment and display it in the sky chart when the telescope is connected. Any of these fields of view may be shown or hidden by touching its on/off switch.
+You can enter your equipment into SkySafari using the Equipment settings. See the Equipment Help for more information.
+To define a particular field of view, tap its row.  An equipment picker slides in, letting you choose the exact combination of equipment - telescope (or binoculars/finder) plus eyepiece (or camera) for that particular FOV.
+You can also enter a custom FOV (in degrees) if you don't want to choose any equipment from the list.
+Please Note: if you choose binoculars or a finder scope, you cannot choose an eyepiece or camera.  Binoculars and Finders have built-in eyepieces with fixed fields of view.  You can use any eyepiece or any camera with any telescope, however.
+Draw Labels: Shows names of the equipment combination that defines a particular field of view in the sky chart.
+Crosshairs: Lets you turn crosshairs on or off, which precisely show the field of view center, and indicate the directions of movement of the telescope mount axes.
+Telrad Circles: Shows the field-of-view indicators of a Telrad as red circles in the sky chart.  These circles are 0.5°, 2°, and 4° across, always centered on the telescope's field of view.
+Cardinal Directions: Shows cardinal direction (N/E/S/W) markers around the edges of the field of view indicator.  These help you follow the cardinal celestial directions in a small telescopic field of view.  As the Earth rotates from west to east, objects appear to travel through the eyepiece from east to west.
+Field of View Display Options
+Show Even if Not Connected to Telescope: Lets you display the field-of-view indicators even if SkySafari is not actually communicating with your telescope controller.  In this case, the field of view indicators will always be displayed at the center of the sky chart.  You may use this feature, for example, to "preview" how a star cluster may appear in a particular eyepiece or finder scope.
+Field Rotation Angle: Lets you set the scope field-of-view rotation angle.  When zero, "up" in the scope's field of view is north in the sky (for equatorial mounts) or "up" in the sky (for alt-azimuth mounts).
+Scope Display Coordinates
+This setting determines the coordinate system used to show the telescope's position in the Scope Control view.
+Horizon - displays the telescope's position in Altitude and Azimuth.
+Equatorial - displays the telescope's position in Right Ascension and Declination.
+Scope Equipment
+Use the Equipment settings to enter information about your telescopes, eyepieces, finder scope, and/or camera(s).  SkySafari uses this information to display the field of view of your equipment.  And you can select this equipment when logging observations of objects.
+SkySafari comes with some built-in lists of equipment, as examples.  You can delete these, and/or add your own equipment.  To edit any equipment list, tap the Edit button in the upper right corner of the screen.
+Telescopes
+This section lists your telescopes.  To add a new telescope, tap the Add Telescope button below the list, then enter the following:
+Scope Name: descriptive name for the scope, for example "Celestron 8-in SCT f/10".
+Aperture: diameter of the telescope's primary mirror or lens, in mm.   An 8-inch telescope has an aperture of 200 mm.  This is usually printed on the telescope tube.
+Focal Length: focal length of the telescope's primary mirror or lens, in mm.  This may be printed on the telescope tube.  It is the same as the aperture times the telescope's f/ ratio.  For example, an 8" telescope with an f/10 focal ratio has a focal length of 2000 mm (=200 mm x 10).
+When you're done entering your telescope's information, tap the Done button.  To cancel without entering anything, tap the back button to return to the Equipment list.
+Eyepieces
+This section lists your eyepieces.  To add a new eyepiece, tap the Add Eyepiece button below the list, then enter the following:
+Eyepiece Name: descriptive name for the eyepiece, for example "Celestron 25mm Plossl".
+Focal Length: focal length of the eyepiece, in mm.  This is usually printed on the side of the eyepiece.
+Apparent Field of View: the angular width of the visible circle (in degrees) that you see looking through the eyepiece.  Often found printed on the eyepiece barrel.
+Binoculars & Finders
+This section lists your binoculars and finder scopes.  To add a new binocular or finder, tap the Add Binocular or Finder button below the list. Then enter the following:
+Binocular or Finder Name: descriptive name for the binocular or finder.  For example "Celestron 10x50".
+Aperture: diameter of the objective lens, in mm.  Binoculars and finders are commonly described as "Magnification x Aperture".  So for 10x50 binoculars, the aperture would be 50 mm.
+Magnification: the enlarging power of the binocular or finder.  For 10 x 50 binoculars, the magnification would be 10x.
+True Field of View: the true angular width (in degrees) of the visible circle that you see looking through the finder scope or binoculars.  For example, 10x finder scope with an apparent field of view of 60° would have a true field of view of 6°.  May be printed on the actual equipment or found in its user manual.
+Cameras
+This section lists your camera equipment.  You can enter information for film cameras, CCDs, DSLR cameras, or any device with a rectangular image sensor - or more than one image sensor.  For CCD cameras that have a separate guide sensor and main image sensor, enter the information for each sensor separately.
+Camera Name: descriptive name for the camera.  For example "SBIG ST-2000".
+Sensor Width: total width of the film frame or active image sensor area, in mm.
+Sensor Height: total height of the film frame or active image sensor area, in mm.
+Sensor X-offset: horizontal offset of the film or sensor center from the camera's optical axis, in mm.  This is usually zero, except for off-axis guide chips. Check your camera specs for details.
+Sensor Y-offset: vertical offset of the film or sensor center from the camera's optical axis, in mm.  Again, this is usually zero, except for off-axis guide chips. Check your camera specs for details.
+Barlows and Focal Reducers
+This section lists your barlows and focal reducers.  To add a new barlow or focal reducer, tap the Add Barlow or Focal Reducer button below the list, then enter the following:
+Barlow or Focal Reducer Name: descriptive name for this piece of equipment.  For example "2x Barlow".
+Magnification: the change in magnification that this barlow or focal reducer imparts.  Enter a number greater than 1 for magnification or between 0 and 1 for reduction.
+Editing Equipment Lists
+You can rearrange and delete items in an equipment list.  Here's how.
+On iOS, tap the Edit button at the top of the screen.  Then tap and drag the "grip" icon on the right side of the equipment item to move it around the screen.  Tap and drag the - (minus) icon on the left side of the item to delete it.  Tap the End Edit button at the top of the screen when you're finished.
+On Android, tap the Edit link at the top of the screen.  Up/down arrows and a trash can appear at the bottom of the screen.  Then tap the equipment item you want to move or delete.  Use the up/down arrows to move the item in the list, or tap the trash can to delete it.  When finished, tap the End Edit link at the top of the screen.
+Celestron Wi-Fi Help
+SkySafari controls compatible Celestron Wi-Fi telescopes.  Compatible models include NexStar Evolution models with built-in Wi-Fi, and others that use Celestron's SkyQ Link accessory.
+Use these settings to specify your Celestron Wi-Fi telescope preferences, including slew speeds and tracking.
+You must connect to your telescope's Wi-Fi network before you can access these settings.  Make sure your telescope type is set to Celestron Wi-Fi.
+Utilities
+Battery Status (NexStar Evolution only) - Displays the battery voltage, whether it's discharging or charging, and High, Medium, or Low status.
+Tray Lighting (NexStar Evolution only) - Adjusts the LED brightness of the accessory tray light. Light can be turned off by sliding all the way to 0.
+Logo Lighting (NexStar Evolution only) - Adjusts the LED brightness of the Celestron power logo and the Wi-Fi logo. Can be dimmed down or shut off for dark sky locations.
+Move To Switches (CGE and CGE Pro only) - Moves the telescope to the home switch position.
+GoTo Home Position (EQ mounts only) - Moves the telescope to the home position.
+Set Home Position (EQ mounts only) - Sets the telescope home position.
+Tracking Rate
+Sidereal - Compensates for the rotation of the Earth to keep objects centered in the eyepiece of your telescope. This is the default tracking rate and used for all stars and deep space objects.
+Lunar - Used for tracking the Moon and when observing the lunar landscape.
+Solar - Used for tracking the Sun when solar observing with a proper filter.
+Off - Turns tracking off. The motors in the telescope will stop unless you are slewing.
+Track RA Only (EQ mounts only) - When EQ alignment is complete, SkySafari will track in both RA and Dec to keep your object centered in the field of view, even if the mount is not perfectly polar aligned. Disable this default setting if you want the mount to track in RA only. Disabling this setting is also recommended if you are imaging with an autoguider.
+Go To
+Simply enter the Right Ascension (RA) and Declination (Dec) coordinates to go to a specified area of sky. This is the quickest way to go to a custom object, such as a new comet or object of interest provided by a star chart or online reference.
+Alignment
+Align Using SkyAlign (Altazimuth mounts only) - The default and recommended alignment for altazimuth mounts is SkyAlign. Alignment is achieved by centering and aligning 3 bright stars in the telescope's eyepiece.
+Align Using Manual Align (Altazimuth mounts only) - Identify, select, and center 3 named stars in the telescope's eyepiece. The star is selected on your screen and centered with the on-screen direction arrows.
+Align Using EQ Align (for EQ mounts only) - Identify, select and center 4 named stars, 2 on each side of the meridian. Similar to Manual Align for altazimuth mounts but requires 4 stars instead of 3, and 2 must be selected on each side of the Meridian
+Align Using Wedge Align - Use this align method if you have an altazimuth mounted telescope equipped with a wedge. Alignment requires selecting and centering 4 stars, 2 on each side of the meridian.
+Hibernate Enabled - Allows the telescope alignment to be saved when shutting the telescope off or disconnecting and exiting the app.
+Slew Buttons at Slow Speeds
+Telescope direction can be reversed up/down and left/right to change the apparent motion of the star in the telescope's eyepiece in the three lowest slew speeds. Reverse Up and Down is default enabled so the star moves in the same direction as the direction button.
+Reverse Left and Right - Reverses left and right directions in the three lowest slew speeds.
+Reverse Up and Down - Reverses up and down directions in three lowest slew speeds.
+Slew Limits
+Some telescopes may require limiting the altitude angle to prevent striking the mount. Altazimuth mounts default to a 70° altitude slew limit as some mounts cannot point all the way to zenith. This can be changed manually to set the best slew limit for your telescope. Note that the slew limit does not work until the telescope is aligned with the sky, or the slew limit assumes the telescope is pointing horizontally.
+Maximum - Sets the maximum (or highest) limit, 0-90°. Use to prevent the telescope from striking the mount when oversized accessories are attached
+Minimum – Sets the minimum (or lowest) limit, 0-90°. This setting is useful when trying to avoid obstructed horizons.
+Software RA Limits (for EQ mounts only):
+RA Minimum - Sets how many degrees approach to the east the mount can slew before stopping. -20° will slew 20° past the meridian.
+RA Maximum - Sets how many degrees approach to the west the mount can slew before stopping. -20° will slew 20° past the meridian.
+Anti-Backlash
+All mechanical gears have a certain amount of backlash or play between the gears. This is seen as a delay in the time it takes for the telescope to move after a direction arrow is pressed, especially when changing directions. Anti-backlash compensates for backlash by inputting a value which quickly rewinds the motors just enough to eliminate the play between gears.
+Altitude - Sets the backlash compensation value for altitude (up/down motion of the telescope), 0-99.
+Azimuth - Sets the backlash compensation value for azimuth (left/right motion of the telescope), 0-99.
+RA (EQ mounts only) - Sets the backlash compensation value for right ascension (east/west motion of the telescope), 0-99.
+Dec (EQ mounts only) - Sets the backlash compensation value for declination (north/south motion of the telescope), 0-99.
+Advanced
+Advanced settings in allow you to adjust other features on your telescope.
+External Power (NexStar Evolution only) - Set the maximum potential current draw from the power supply. Default is 2.0A for the included power supply. Any setting higher than 2.0 requires a higher capacity power supply which is not included with the telescope. The telescope has built-in fail safes if the External Power setting is incorrectly set, but we recommend always using a suitable power supply for the given setting.
+When used with a higher capacity power supply, this setting allows you to charge the internal battery at the fastest speed while using the telescope, and while optionally charging your smart device from the USB charger.
+USB Charging (NexStar Evolution only) - Sets the USB charger on the mount to always on or auto. Default is Auto, meaning the charger will shut off to save battery life when the battery is low. On will force the charger to stay on at all times, even when the battery is low.
+RA Guide Rate - Percentage of sidereal speed for the autoguider 0-99.
+Dec Guide Rate - Percentage of sidereal speed for the autoguider 0-99.
+Max Slew Rate Enabled - Allows the max slew speed to be adjusted from default.
+Max Slew Rate - Increasing speed will draw more current from your power source. Decreasing speed will operate more quietly.
+Observing Lists
+Observing lists keep track of objects you wish to observe, and record a log of your observations.  Items in the list can be edited to show the time and date you observed the object, and let you enter notes about your observations of the object.  You can share observing lists with friends  by email, or send them to yourself for safekeeping.
+You create and access observing lists at the bottom of the Search view, in the Custom Observing Lists section.
+Creating Observing Lists
+By default, SkySafari comes with a single, empty observing list called "My Favorites".  To create additional observing lists, tap the Create New Observing List button at the bottom of the Search view.  Give your new list a title; you can then add objects to the list.
+Adding Objects and Observations
+You can add an object to an observing list, log a new observation of an object, or show your existing observations of the object, from the Object Info view.  Tap the Observe button at the bottom of this view.  This gives you three options:
+Add to Observing List - lets you add the object to the observing list.
+Create New Observation - lets you log a new observation of the object.
+Show Observations - shows all of your existing observations of the object.
+Choose Add to Observing List from the popup list of options. If you have more than one observing list, SkySafari lets you choose which list to add the object to.  If you have only a single list, this choice is skipped.
+Sorting and Highlighting the List
+You can rearrange and delete items in an observing list.  Here's how.
+On iOS, tap the Edit button at the top of the screen.  Then tap and drag the "grip" icon on the right side of the list item to move it around the screen.  Tap and drag the - (minus) icon on the left side of the item to delete it.  Tap the End Edit button at the top of the screen when you're finished.
+On Android,  tap the Edit link at the top of the screen.  Up/down arrows and a trash can appear at the bottom of the screen.  Then tap the observing list item you want to move or delete.  Use the up/down arrows to move the item in the list, or tap the trash can to delete it.  When finished, tap the End Edit link at the top of the screen.
+You can sort all objects in the list by tapping the Settings button above the list.  Then choose a property to sort on.  For example, to sort objects in the list by magnitude (brightest to faintest), choose "Visual Magnitude" from this menu.
+To visually show where objects in the selected list appear in the sky chart, tap the Settings button, then turn on the Highlight Objects switch. When an observing list is highlighted, a small list icon appears at the bottom of the sky chart.  Click this icon to quickly return to the highlighted list.
+To delete an entire observing list, use the same techniques to edit the list of observing lists at the bottom of the main Search view.
+Using an Observing List
+Tap an observing list in the Search view to see the objects it contains.  Tapping an object in the list provides a choice of:
+Showing the Object Info for that object
+Editing your observations of the object
+Centering the object in the sky chart
+When editing an observation of an object, you can enter the following information about your observation:
+Observed - a switch you can turn on to mark that you've actually observed the object.  You can "cross it off your list".
+Date and Time - when you actually observed the object.
+Comments - any particular notes about the object that you want to save.  For example, "Jupiter's Great Red Spot was unusually red tonight."
+Location - the location from where you observed the object.  You can enter the location name by typing, or you can tap the button to the right to choose a particular location from SkySafari's built-in database.
+Equipment - the combination of equipment you used to observe the object (telescope, eyepiece, binoculars, etc.)  You can enter the equipment by typing, or you can tap the button to the right to choose from SkySafari's equipment list.  See the Equipment Help for information on how to add equipment to the list.
+Seeing - a measure of how steady the air was when you observed the object.  Use the slider to choose from 0 (very turbulent) to 9 (perfectly still).
+Transparency - a measure of how steady the clear the sky was when you observed the object.  Use the slider to choose from 0 (very hazy) to 9 (perfectly clear).
+You can go back and edit your observations of an object at any time.
+Sharing Observing Lists
+Below the objects in an observing list is an Email Observing List button.  Tap this button to create an email message with the observing list as an attachment.  Enter the recipient's email address in the "To:" field, and edit the message body as desired.  Tap Send to send the observing list to the recipient.
+When the recipient receives the email on their mobile device, they can import the attached observing list into their copy of SkySafari.  To do this, the recipient should touch and hold the observing list attachment until a view appears with an Open in SkySafari button.  Tapping this button imports the observing list into the recipient's copy of SkySafari.
+You can email your observing lists with or without observations.  This lets you send a "clean" copy of an observing list to someone else.  You can also email your observing list as a plain-text attachment, or as a CSV (comma-separated value) text file attachment.  This lets you import your observations and notes into other programs.
+Using iTunes File Sharing
+If you're using SkySafari on an iOS device, you can import and export observing lists to SkySafari using iTunes file sharing.  To do this, connect your iPhone or iPad to a computer running iTunes with a USB cable.  Select your iOS device when it appears in iTunes, then find the "Apps" section that lists all the apps on your device.  Choose SkySafari from the list of apps.  iTunes will then display a list SkySafari Documents that can be shared with iTunes.
+To export an observing list (.skylist) file from SkySafari, drag and drop it from the list of SkySafari documents to your computer's desktop.  You can also rename or delete observing lists here.  Changes should be reflected immediately in SkySafari's Custom Observing Lists section.
+To import an observing list (.skylist) file, drag and drop it from your computer into the list of SkySafari Documents displayed by iTunes.  iTunes will copy your file over the USB cable onto your iPhone/iPad.  If everything works correctly, your observing list will then appear in SkySafari's Custom Observing Lists section.  You can select and display objects in the new observing list, just like any other.
+If your observing list doesn't appear in SkySafari, make sure it's a valid SkySafari observing list file, and that its name ends with ".skylist".  If all else fails, you can email your observing list to Simulation Curriculum technical support, and we can try to debug it for you.
+SD Card Import & Export
+If you're using SkySafari for Android, you can import and export observing lists to SkySafari using your SD card.  To do this, connect your Android device with a USB cable to a computer.  Then mount your Android's SD card on your computer, so it appears as a disk.  Look for a SkySafari, SkySafari Plus, or SkySafari Pro folder on the root (top level) of your SD card, depending on which version of SkySafari you own.  Then locate the Observing Lists folder within this folder.  For example, if you own SkySafari Pro, your observing lists are stored in the following directory on your SD card:
+<top level of SD card>/SkySafari Pro/Observing Lists/
+To export an observing list (.skylist) file from SkySafari, copy it out of this folder on your SD card to your computer's desktop.  You can also rename or delete observing lists directly on your SD card.  Changes should be reflected immediately in SkySafari's Custom Observing Lists section.
+To import an observing list (.skylist) file, drag and drop it from your computer into this folder.  If everything works correctly, your observing list will then appear in SkySafari's Custom Observing Lists section.  You can select and display objects in the new observing list, just like any other.
+If your observing list doesn't appear in SkySafari, make sure it's a valid SkySafari observing list file, and that its name ends with ".skylist".  If all else fails, you can email your observing list to Simulation Curriculum technical support, and we can try to debug it for you.
+Night Sky Network
+The Night Sky Network is an on-line directory of astronomy events like star parties, club meetings, and public lectures taking place all across the United States.  The Night Sky Network event list covers all events taking place within 100 miles of your location for the next month.  To find events for a different location, go to Settings > Location and select a new location there.  Then return to the Night Sky Network page.  The Night Sky Network requires internet access, and currently only works inside the United States.
+NASA Night Sky Network club and event information are managed by the Astronomical Society of the Pacific (ASP), and sponsored by NASA and the National Science Foundation (NSF). Permission to use this material does not constitute an endorsement of the SkySafari application or SimulationCurriculum.com by NASA, NSF or the ASP.
+This service is based upon work partially supported by the Division of Research on Learning in Formal and Informal Settings (DRL) of the National Science Foundation under Grant Number DRL 0638873. Any opinions, findings, and conclusions or recommendations expressed in the material are those of the authors and do not necessarily reflect the views of the National Science Foundation.

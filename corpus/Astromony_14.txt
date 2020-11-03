@@ -1,0 +1,69 @@
+Replied by jzen on topic jzen's Astronomy Guild Journal
+Apprentice Core Lessons in Astronomy
+Astronomy Termonology
+Define the following terms in your journal: (All definitions taken from Sky and Telescope's Glossary of Astronomy)
+Angular Size and Distance- The apparent size of an object in the sky, or the distance between two objects, measured as an angle.
+Aperture- The diameter of a telescope's main lens or mirror and the scope's most important attribute.
+Asterism- Any prominent star pattern that isn't a whole constellation, such as the Northern Cross or the Big Dipper.
+Asteroid-A small solid body orbiting the Sun that consists of metal and rock.
+Astronomical Unit- The average distance from Earth to the Sun, slightly less than 93 million miles.
+Black Hole- A concentration of mass so dense that nothing, not even light, can escape its gravitational pull once swallowed up.
+Blue Moon-The second full Moon in a single calendar month.
+Celestial Coordinates-A grid system for locating things in the sky.
+Circumpolar-Denotes an object near a celestial pole that never dips below the horizon as Earth rotates and thus does not rise or set.
+Collimation-Aligning the optical elements of a telescope so that they all point in the proper direction.
+Comet-A ball of ice and rocky debris, typically a few miles across, that orbits the Sun in a long ellipse.
+Compound Telescope- A telescope with a mirror in the back and a lens in the front.
+Conjunction- When the Moon or a planet appears especially close either to another planet or to a bright star.
+Constellation-A distinctive pattern of stars used informally to organize a part of the sky.
+Culmination-The moment when a celestial object crosses the meridian and is thus at its highest above the horizon.
+Dark Adaptation-The eyes' transition to night vision, in order to see faint objects.
+Declination-The celestial equivalent of latitude, denoting how far (in degrees) an object in the sky lies north or south of the celestial equator.
+Double Binary Star-Two stars that lie very close to, and are often orbiting, each other.
+Earthshine-Sunlight reflected by Earth that makes the otherwise dark part of the Moon glow faintly.
+Eccentricity-The measure of how much an orbit deviates from being circular.
+Eclipse-An event that occurs when the shadow of a planet or moon falls upon a second body. A solar eclipse occurs when the Moon's shadow falls upon Earth, which we see as the Moon blocking the Sun. When Earth's shadow falls upon the Moon, it causes a lunar eclipse.
+Ecliptic-The path among the stars traced by the Sun throughout the year.
+Elongation-The angular distance the Moon or a planet is from the Sun.
+Ephemeris-A timetable with celestial coordinates that indicates where a planet, comet, or other body moving in relation to background stars will be in the sky.
+Equinox-The two times each year, near March 20th and September 22nd, when the Sun is directly overhead at noon as seen from Earth's equator. On an equinox date, day and night are of equal length.
+Eyepiece-The part of a telescope that you look into.
+Field of View-The circle of sky that you see when you look through a telescope or binoculars.
+Finderscope-A small telescope used to aim your main scope at an object in the sky.
+Galaxy- A vast collection of stars, gas, and dust, typically 10,000 to 100,000 light-years in diameter and containing billions of stars.
+Gibbous-When the Moon or other body appears more than half, but not fully, illuminated.
+Inclination-The angle between the plane of an orbit and a reference plane.
+Light Pollution-A glow in the night sky or around your observing site caused by artificial light.
+Light Year-The distance that light (moving at about 186,000 miles per second) travels in one year, or about 6 trillion miles.
+Magnification-The amount that a telescope enlarges its subject. It's equal to the telescope's focal length divided by the eyepiece's focal length.
+Magnitude-A number denoting the brightness of a star or other celestial object. The higher the magnitude, the fainter the object.
+Meridian-The imaginary north-south line that passes directly overhead.
+Messier Object-An entry in a catalog of 103 star clusters, nebulas, and galaxies compiled by French comet hunter Charles Messier between 1758 and 1782.
+Meteor-A brief streak of light caused by a small piece of solid matter entering Earth's atmosphere at tremendous speed.
+Milky Way-A broad, faintly glowing band stretching across the night sky, composed of billions of stars in our galaxy too faint to be seen individually.
+Nebula-Latin for "cloud." Bright nebulas are great clouds of glowing gas, lit up by stars inside or nearby. Dark nebulas are not lit up and are visible only because they block the light of stars behind them.
+Occultation-When the Moon or a planet passes directly in front of a more distant planet or star.
+Opposition-When a planet or asteroid is opposite the Sun in the sky.
+Paralax-The apparent offset of a foreground object against the background when your perspective changes.
+Phase-The fraction of the Moon or other body that we see illuminated by sunlight.
+Planisphere-A device that can be adjusted to show the appearance of the night sky for any time and date on a round star map.
+Reflector-A telescope that gathers light with a mirror.
+Refractor-A telescope that gathers light with a lens.
+Retrograde-When an object moves in the reverse sense of "normal" motion. For example, most bodies in the solar system revolve around the Sun and rotate counterclockwise as seen from above (north of) Earth's orbit; those that orbit or spin clockwise have retrograde motion. This term also describes the period when a planet or asteroid appears to backtrack in the sky because of the changing viewing perspective caused by Earth's orbital motion.
+Right Ascension-The celestial equivalent of longitude, denoting how far (in 15°-wide "hours") an object lies east of the Sun's location during the March equinox.
+Satellite-Any object that orbits a celestial body. May be natural or artificial.
+Solstice-The two times each year, around June 20th and December 21st, when the Sun is farthest north or south in the sky. At the summer solstice, the day is longest and the night is shortest, and vice versa at the winter solstice.
+Star-A massive ball of gas that generates prodigious amounts of energy (including light) from nuclear fusion in its hot, dense core.
+Star Cluster- A collection of stars orbiting a common center of mass. Open clusters typically contain a few hundred stars and may be only 100 million years old or even less.
+Star Diagonal-A mirror or prism in an elbow-shaped housing that attaches to the focuser of a refractor or compound telescope. It lets you look horizontally into the eyepiece when the telescope is pointed directly overhead.
+Star Party-A group of people who get together to view the night sky. Astronomy clubs often hold star parties to introduce stargazing to the public.
+Sun Spot-A temporary dark blemish on the surface of the Sun that is a planet-size region of gas cooler than its surroundings. Sunspots can be viewed safely using a solar filter.
+Supernova-A star ending its life in a huge explosion. In comparison, a nova is a star that explosively sheds its outer layers without destroying itself.
+Transit-When Mercury or Venus crosses the disk of the Sun, making the planet visible as a black dot in silhouette, or when a moon passes across the face of its parent planet. Transit also refers to the instant when a celestial object crosses the meridian and thus is highest in the sky.
+Transparency-A measure of the atmosphere's clarity, how dark the sky is at night and how blue it is during the day. When transparency is high, you see the most stars.
+Twilight-The time after sunset or before sunrise when the sky is not fully dark.
+Variable Star-A star whose brightness changes over the course of days, weeks, months, or years.
+Waning-The changing illumination of the Moon (or other body) over time. The Moon waxes, growing more illuminated, between its new and full phases, and wanes, becoming less illuminated, between its full and new phases.
+Waxing-The changing illumination of the Moon (or other body) over time.
+Zenith-The point in the sky that's directly overhead.
+Zodiac-Greek for "circle of animals." It's the set of constellations situated along the ecliptic in the sky, through which the Sun, Moon, and planets move.
