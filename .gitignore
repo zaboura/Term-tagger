@@ -1,1 +1,9 @@
+#Directories 
+
 bootcat/*
+treetagger/*
+corpus/*
+
+#Files
+termsuite-core-3.0.10.jar
+project.pdf
