@@ -1,0 +1,23 @@
+MaNGA uses a technique called resolved spectroscopy to study galaxies in much greater detail than previous surveys. Spectroscopy is a powerful tool for astronomers, yielding a wealth of information by measuring how much light an object emits at different wavelengths. In the past, astronomers typically acquired just one spectrum for each galaxy, but resolved spectroscopy (also called integral field spectroscopy) obtains hundreds of separate spectra covering every location within the galaxy.
+
+"Resolved spectroscopy allows us to dissect a galaxy and study its internal composition and the motions of its stars and gas," explained MaNGA principal investigator Kevin Bundy, an associate researcher at UC Observatories and adjunct professor of astronomy and astrophysics at UC Santa Cruz.
+
+"People have been doing resolved spectroscopy for individual galaxies, but we've never had it for thousands of galaxies, so MaNGA gives us the statistical power to address a lot of important questions," Bundy said.
+
+MaNGA's goal is to understand the "life history" of present-day galaxies, from their initial birth and assembly, through their ongoing growth via star formation and mergers, to their death from "quenching" of star formation at late times. Bundy and his students at UC Santa Cruz, for example, have discovered evidence in the MaNGA data for outflows of hot ionized gas in "dead" galaxies, supporting the idea that powerful winds driven out from a galaxy's central black hole can shut down star formation. Bundy's team is also finding clues to how galaxies were assembled over time by studying the motions of their stars and gas and by analyzing the chemical signatures of stars in different parts of galaxies.
+
+One of three programs in the fourth phase of SDSS, MaNGA will eventually study a representative sample of some 10,000 nearby galaxies. Bundy said the survey is more than half way toward that goal and on track to reach it by 2020. Data from 4,621 galaxies are now publicly available as part of the 15th SDSS data release (the third data release for SDSS-IV).
+
+"This data release is a major milestone for us," Bundy said. "MaNGA is already by far the largest survey of its kind, and this release includes both the data and the analytical tools the project has developed."
+
+A powerful new interface called Marvin provides access to the MaNGA data and galaxy maps based on analyses of the data. Marvin includes a wide range of tools for searching, accessing, and visualizing the data. The Marvin web site offers easy access to a wealth of information about each galaxy, including maps of key features such as star formation, stellar motion, emission lines, and dozens of other properties important to astronomers. Kyle Westfall, a project scientist at UC Observatories, led the development of the data analysis pipeline that produced the maps and other data products now publicly available for the first time.
+
+Another important part of this data release is the MaNGA Stellar Library containing spectra of more than 3,000 stars in our Milky Way galaxy. When complete, it will include 5,000 to 6,000 stars. Researchers can use the spectra of these individual stars to try to reconstruct the spectrum of a galaxy and thereby figure out that galaxy's unique mix of different star types.
+
+"The MaNGA Stellar Library is the largest library of stars ever compiled, with spectra from the same instruments used for the galaxies, so it's a very powerful tool for understanding the nature of the stellar populations in these galaxies," Bundy said.
+
+MaNGA Survey Scientist Renbin Yan of the University of Kentucky led the development of the Stellar Library.
+
+The MaNGA survey uses the two BOSS spectrographs at the 2.5-meter Sloan Foundation Telescope at Apache Point Observatory in New Mexico in a novel way. Specially designed "integral field units," each composed of tightly packed arrays of optical fibers, enable the measurement of spectra at multiple points in the same galaxy. The MaNGA spectra provide continuous coverage from optical to near-infrared wavelengths.
+
+Funding for the Sloan Digital Sky Survey IV has been provided by the Alfred P. Sloan Foundation, the U.S. Department of Energy Office of Science, and the Participating Institutions.

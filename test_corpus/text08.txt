@@ -1,0 +1,12 @@
+Using data from the Sloan Digital Sky Survey (SDSS) and various optical telescopes, a team of astronomers has discovered seven distinct groups of dwarf galaxies with just the right starting conditions to eventually merge and form larger galaxies, including spiral galaxies like the Milky Way. This discovery offers compelling evidence that the mature galaxies we see in the universe today were formed when smaller galaxies merged many billions of years ago.
+
+"We know that to make a large galaxy, the universe has to bring together many smaller galaxies," said Sabrina Stierwalt an astronomer with the National Radio Astronomy Observatory (NRAO) and University of Virginia in Charlottesville. "For the first time, we have found examples of the first steps in this process -- entire populations of dwarf galaxies that are all bound together in the same general neighborhoods."
+
+Stierwalt and her team began their search by poring over SDSS data looking for pairs of interacting dwarf galaxies. The astronomers then examined the images to find specific pairs that appeared to be part of even larger assemblages of similar galaxies.
+
+The researchers then used the Magellan telescope in Chile, the Apache Point Observatory in New Mexico, and the Gemini telescope in Hawaii to confirm that the apparent clusters are not just on the same line of sight but are also approximately the same distance from Earth, indicating they are gravitationally bound together.
+
+This discovery of long-sought groups of tiny galaxies is reported online in the journal Nature Astronomy.
+
+"We hope this discovery will enable future studies of groups of dwarf galaxies and offer insights into the formation of galaxies like the Milky Way," concluded Stierwalt.
+
