@@ -11,9 +11,9 @@ python sequence_tagger.py
 
 and for more option you can use --help command to see more options of training.
 
--i for number of iteration, we set 10 iterations as default value
--l to load pre-trained Spacy model, default value is False (True to load the model)
--o the path to save the trained model, default value is 'ouput_dir' directory in the same work directory
+__-i__ for number of iteration, we set 10 iterations as default value
+__-l__ to load pre-trained Spacy model, default value is False (True to load the model)
+__-o__ the path to save the trained model, default value is 'ouput_dir' directory in the same work directory
 
 
 
