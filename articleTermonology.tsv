@@ -1,0 +1,2689 @@
+#	type	key	freq
+1	T	n: sirnas	283
+2	T	n: rnai	170
+3	T	n: algorithm	105
+4	T	n: rnas	92
+5	T	an: small rna	137
+6	T	n: nucleotide	58
+7	T	n: dsrna	58
+8	T	nn: rnai activity	47
+8	V[s]	ann: sequential rnai activity	4
+8	V[s]	nnpn: rnai activity of sirnas	2
+8	V[s]	ann: actual rnai activity	2
+8	V[s]	ann: efficient rnai activity	2
+9	T	n: corpus	45
+10	T	n: dcl3	41
+11	T	n: rdr2	39
+12	T	nn: sirna molecule	35
+12	V[s]	ann: synthetic sirna molecule	4
+12	V[s]	ann: active sirna molecule	4
+13	T	n: drosophila	34
+14	T	nn: sirna duplex	32
+15	T	n: duplex	63
+16	T	a: linear	30
+17	T	nn: training datum	27
+17	V[s]	nnn: training datum size	8
+18	T	n: dsrnas	27
+19	T	n: trbp	27
+20	T	a: rdr2	27
+21	T	n: propagation	26
+22	T	nn: size class	26
+22	V[s]	ann: 24-nt size class	9
+22	V[s]	ann: 22-nt size class	3
+22	V[s]	annn: small rna size class	2
+23	T	nn: sirna activity	25
+24	T	n: specificity	25
+25	T	nn: hela cell	24
+26	T	n: dicer	24
+27	T	n: risc	24
+28	T	nn: dialogue strategy	23
+29	T	n: regression	23
+30	T	nn: target site	23
+30	V[s]	nnn: target site accessibility	2
+31	T	nn: rnai experiment	22
+31	V[s]	ann: mammalian rnai experiment	3
+32	T	an: mammalian cell	21
+33	T	n: bigram	20
+34	T	n: segmentation	20
+35	T	a: optimal	19
+36	T	nn: user satisfaction	19
+36	V[s]	nnn: user satisfaction rating	3
+37	T	n: svms	19
+38	T	n: transposons	34
+39	T	n: optimization	17
+40	T	an: cluster-proximal gene	17
+41	T	nn: sirna sequence	17
+42	T	a: cross-validation	16
+43	T	nn: - o-methyl	16
+43	V[s]	nnn: - o-methyl modification	11
+44	T	n: elegans	16
+45	T	n: periodicity	16
+46	T	n: primer	15
+47	T	n: functionality	15
+48	T	n: grosz	15
+49	T	n: behavior	15
+50	T	a: thermodynamic	29
+51	T	n: vector	14
+52	T	nn: micro effect	14
+53	T	an: 3-nt periodicity	14
+54	T	nn: discourse unit	14
+54	V[s]	ann: current discourse unit	4
+54	V[s]	ann: global discourse unit	2
+55	T	nn: antisense strand	28
+55	V[s]	nnpn: antisense strand of sirna	4
+56	T	n: mirnas	14
+57	T	a: vivo	13
+58	T	nn: boundary site	13
+58	V[s]	ann: potential boundary site	11
+59	T	nn: sense strand	13
+60	T	a: unmodified	13
+61	T	nn: dialogue agent	13
+62	T	nn: performance function	13
+62	V[s]	nnn: performance function estimate	2
+63	T	nn: discourse structure	13
+63	V[s]	ann: global discourse structure	2
+64	T	n: transfection	26
+65	T	n: retroelements	25
+66	T	a: nonterminal	12
+67	T	a: genome-wide	12
+68	T	a: prosodic	12
+69	T	nn: fragment length	12
+69	V[s]	ann: preferred fragment length	7
+70	T	n: assay	12
+71	T	nn: gene expression	12
+71	V[s]	npan: expression of cluster-proximal gene	3
+71	V[s]	ann: endogenous gene expression	2
+72	T	nn: guide strand	12
+72	V[s]	nnpn: guide strand of sirna	2
+73	T	n: col-0	23
+74	T	nn: machine learning	11
+74	V[s]	nnn: machine learning tool	2
+75	T	n: katz	11
+76	T	nn: rnai probe	11
+77	T	n: trigram	11
+78	T	nnn: - o-methyl modification	11
+79	T	n: wild-type	11
+80	T	nn: table s1	11
+80	V[s]	ann: supplementary table s1	6
+81	T	an: brown corpus	11
+82	T	ann: potential boundary site	11
+83	T	an: endogenous gene	11
+84	T	nn: decision tree	11
+85	T	nn: gene set	11
+85	V[s]	ann: cluster-proximal gene set	3
+85	V[s]	ann: random gene set	3
+86	T	an: relative contribution	11
+87	T	n: subdialogues	31
+88	T	nn: web application	10
+89	T	nn: off-target effect	10
+90	T	nn: correlation coefficient	10
+90	V[s]	nnpn: correlation coefficient of prediction	2
+90	V[s]	nnn: pearson correlation coefficient	2
+91	T	n: tasirnas	10
+92	T	n: adaptor	10
+93	T	nn: gc content	10
+93	V[s]	ann: low gc content	2
+93	V[s]	nnpn: gc content of sirna	2
+94	T	nn: datum size	10
+94	V[s]	nnn: training datum size	8
+95	T	nn: sirna functionality	10
+96	T	nn: partner protein	10
+96	V[s]	nnn: partner protein trbp	2
+97	T	an: standard deviation	10
+98	T	an: elementary tree	10
+99	T	nn: training set	10
+99	V[s]	nnn: training set size	3
+100	T	nn: cost measure	10
+101	T	an: linear regression	10
+101	V[s]	aan: multiple linear regression	2
+102	T	nn: macro effect	10
+103	T	an: active sirnas	20
+104	T	n: dataset	10
+105	T	an: nonterminal symbol	10
+106	T	nn: cost function	10
+107	T	n: derivation	10
+108	T	n: depart-city	10
+109	T	n: pseudogenes	19
+110	T	an: lexical cohesion	9
+111	T	an: free energy	9
+112	T	nn: trigram model	9
+113	T	ann: good - turing	9
+114	T	an: polynomial kernel	9
+115	T	nn: cue phrase	9
+115	V[s]	nnn: cue phrase feature	2
+116	T	nn: diffusion time	9
+117	T	an: pericentromeric region	9
+117	V[s]	acan: centromeric and pericentromeric region	2
+118	T	nn: rna interference	9
+118	V[s]	nnn: introduction rna interference	2
+119	T	nn: test datum	9
+120	T	n: sirecords	18
+121	T	a: repeat-normalized	9
+122	T	ann: 24-nt size class	9
+123	T	n: dsrbd	9
+124	T	nn: target mrna	18
+125	T	nn: repair utterance	9
+126	T	n: interpolation	9
+127	T	n: helix	9
+128	T	nn: antisense sirna	9
+128	V[s]	ann: single-stranded antisense sirna	3
+129	T	nn: top-down constraint	9
+130	T	an: synthetic sirnas	17
+131	T	n: avms	8
+132	T	a: quantitative	8
+133	T	nn: cue word	8
+134	T	aan: 22-nt small rnas	8
+135	T	an: prosodic phrase	8
+136	T	nn: translation pattern	8
+137	T	nn: task success	8
+138	T	n: gapdh	8
+139	T	nn: sirna specie	8
+140	T	an: auxiliary tree	8
+141	T	nn: success measure	8
+141	V[s]	ann: task-based success measure	6
+142	T	ann: small rna cluster	8
+143	T	nn: efficacy rating	8
+143	V[s]	ann: consistent efficacy rating	3
+144	T	n: iteration	8
+145	T	a: proximal	7
+146	T	nn: dialogue cost	7
+147	T	nn: task representation	7
+147	V[s]	nnn: avm task representation	2
+148	T	nn: cell line	7
+149	T	an: protein-coding gene	14
+150	T	nn: discourse relation	7
+151	T	a: upstream	7
+152	T	nn: link constraint	7
+153	T	n: normalization	7
+154	T	an: knockdown activity	7
+155	T	nn: speech recognition	7
+156	T	nn: cfg skeleton	7
+157	T	a: single-stranded	7
+157	V[m]	an: single strand	2
+158	T	nn: nucleotide position	7
+159	T	an: human dicer	7
+160	T	nn: confirmation strategy	7
+160	V[s]	ann: implicit confirmation strategy	2
+161	T	nn: detection function	7
+162	T	ann: preferred fragment length	7
+163	T	n: formalism	7
+164	T	nn: coherence relation	7
+165	T	nn: similarity curve	7
+166	T	npn: instability of guide	7
+166	V[s]	anpn: thermodynamic instability of guide	2
+167	T	nn: cell culture	7
+168	T	ann: small rna locus	7
+169	T	nn: bigram model	7
+170	T	an: minimal length	7
+171	T	n: phenotype	7
+172	T	ann: small rna sequence	7
+173	T	n: subset	7
+174	T	a: sequence-specific	7
+175	T	nn: derivation sequence	7
+175	V[s]	nnnn: target cfg derivation sequence	2
+176	T	nn: substitution site	20
+177	T	nn: rnai library	13
+178	T	an: long dsrnas	13
+179	T	nva: result be consistent	6
+180	T	nn: egfp mrna	12
+181	T	nn: language modeling	6
+182	T	nn: noun phrase	6
+182	V[s]	ann: referential noun phrase	2
+183	T	r: experimentally	6
+184	T	ann: task-based success measure	6
+185	T	nn: transaction success	6
+186	T	nn: drosophila genome	6
+187	T	n: dinucleotides	6
+188	T	an: human performance	6
+189	T	nn: confusion matrix	6
+190	T	nn: segment boundary	6
+191	T	npn: activity of sirnas	6
+192	T	r: computationally	6
+193	T	n: interp-del-int	6
+194	T	n: entropy	6
+195	T	n: coref	6
+196	T	nn: np algorithm	6
+196	V[s]	ann: original np algorithm	4
+197	T	an: single mutation	6
+198	T	an: dynamic programming	6
+199	T	n: mrnas	6
+200	T	n: cdna	6
+201	T	nn: flow cytometry	6
+202	T	an: molecular mechanism	6
+203	T	npn: activity of sirna	6
+203	V[s]	nn: sirna activity	25
+203	V[g]	npn: activity of sirnas	6
+204	T	n: novartis	6
+205	T	nn: hand tuning	6
+206	T	n: tipster	6
+207	T	an: efficient sirnas	6
+208	T	an: linguistic feature	6
+209	T	n: mirna	6
+210	T	npnn: nucleotide of antisense strand	6
+211	T	an: original np	6
+212	T	n: subtask	6
+213	T	a: unification-based	6
+214	T	nn: feature selection	6
+215	T	n: chromatin	6
+216	T	npn: set of feature	6
+216	V[s]+	nn: feature set	3
+216	V[s]	npan: set of linguistic feature	2
+216	V[s]	anpn: minimum set of feature	2
+217	T	an: mutant plant	6
+217	V[s]	aan: dcl3 mutant plant	2
+218	T	nn: sirna efficiency	6
+219	T	ann: supplementary table s1	6
+220	T	nn: feature structure	6
+221	T	nn: - mercer	6
+222	T	npnn: tree with substitution site	6
+223	T	an: periodical effect	6
+224	T	n: annotation	6
+225	T	nn: rnai pathway	12
+226	T	n: post-transfection	6
+227	T	n: taqman	6
+228	T	nn: hacat cell	6
+229	T	npn: set of sirna	11
+229	V[s]	anpn: complete set of sirna	5
+230	T	nn: arabidopsis genome	11
+231	T	nn: chemical modification	11
+232	T	a: posttranscriptional	11
+233	T	an: relative performance	5
+234	T	nn: segmentation algorithm	5
+235	T	npn: efficiency of rnai	5
+236	T	n: silico	5
+237	T	a: mono	5
+238	T	nn: dsrna construct	5
+239	T	n: subdag	5
+240	T	nn: concept accuracy	5
+241	T	ncnn: transposon and retroelement bin	5
+242	T	a: phosphorylated	5
+243	T	n: vitro	5
+244	T	n: interp-held-out	5
+245	T	nn: wild-type sirna	5
+246	T	npn: loss of rdr2	5
+247	T	an: serum-derived nuclease	5
+248	T	nn: polyacrylamide gel	5
+248	V[s]	nnn: polyacrylamide gel electrophoresis	3
+249	T	n: shrna	5
+250	T	a: rna-induced	5
+251	T	nn: sirna-trbp interaction	5
+252	T	n: p110b	5
+253	T	a: multiplexed	5
+254	T	nn: antisense molecule	5
+254	V[s]	ann: conventional antisense molecule	3
+255	T	nn: translation algorithm	5
+256	T	nn: fragmentation method	5
+257	T	nn: mrna level	5
+257	V[s]	ann: akt1 mrna level	2
+258	T	an: context-free grammar	5
+258	V[s]	aan: pattern-based context-free grammar	2
+259	T	nn: scenario key	5
+260	T	an: cross-validation experiment	5
+261	T	n: transcriptome	5
+262	T	an: asymmetric recognition	5
+262	V[s]	anpn: asymmetric recognition of sirna	2
+263	T	nnn: sirna design tool	5
+263	V[s]	annn: reliable sirna design tool	2
+264	T	an: efficacious sirnas	10
+265	T	nn: protein level	5
+266	T	nn: rnai machinery	5
+267	T	n: amplicons	5
+268	T	n: cue1	5
+269	T	n: left-corner	5
+270	T	n: rt-pcr	5
+271	T	ann: small rna population	10
+272	T	nn: propagation path	5
+273	T	an: significant loss	5
+273	V[s]	anpn: significant loss of rna	2
+274	T	ncnn: head and link constraint	5
+275	T	nn: sequence feature	5
+276	T	a: clausal	5
+277	T	nn: retroelement bin	5
+278	T	aan: 24-nt small rnas	10
+279	T	n: restrictor	5
+280	T	nn: support vector	5
+281	T	nn: end modification	5
+282	T	nn: fragment boundary	5
+283	T	nn: dna methylation	5
+284	T	a: n-gram	10
+285	T	npan: effect of third position	5
+286	T	a: pattern-based	5
+287	T	an: thermodynamic stability	5
+288	T	a: above-average	5
+289	T	an: low activity	5
+290	T	nn: nm sirna	5
+291	T	nnn: - o-alkyl modification	5
+292	T	an: predesigned dsrnas	5
+293	T	nn: head constraint	5
+294	T	a: transcriptional	10
+295	T	nn: test narrative	5
+296	T	an: linear kernel	5
+297	T	nn: risc complex	5
+298	T	an: inactive chart	5
+299	T	nn: target rule	5
+300	T	nn: nuclease resistance	5
+301	T	an: bilingual corpus	5
+302	T	nn: inflorescence tissue	5
+303	T	a: a-base	9
+304	T	a: binary	9
+305	T	a: predictive	9
+306	T	nn: information retrieval	4
+306	V[s]	nnn: information retrieval metric	3
+307	T	an: infinite loop	4
+308	T	nn: pten protein	8
+308	V[s]	nnn: pten protein expression	3
+309	T	n: new-avg-count	4
+310	T	n: hirschberg	4
+311	T	nn: accessibility feature	4
+312	T	nn: dialogue behavior	4
+313	T	n: adverbial	8
+314	T	nn: day post-transfection	4
+315	T	nn: optimization model	4
+316	T	nn: blast analysis	4
+317	T	ncan: - and 22-nt rnas	4
+318	T	n: overrepresentation	4
+319	T	ann: small rna pathway	4
+320	T	an: sequenced population	4
+321	T	nn: information goal	4
+322	T	nn: lower-order model	4
+323	T	a: maximal	4
+324	T	nn: source rule	4
+324	V[s]	nnn: source cfg rule	2
+325	T	an: syntactic head	4
+326	T	nn: language model	4
+327	T	an: previous discourse	4
+328	T	ann: original np algorithm	4
+329	T	an: romanian text	4
+330	T	an: high activity	4
+331	T	an: high weight	4
+332	T	an: held-out datum	4
+333	T	anpnn: complete set of sirna activity	4
+334	T	n: activation	4
+335	T	nn: input feature	4
+336	T	an: maximum likelihood	4
+337	T	n: electrophoresis	4
+338	T	n: rdr6	4
+339	T	nn: performance model	4
+340	T	npn: position of sirna	8
+341	T	a: base	4
+342	T	n: email	4
+343	T	nnpn: antisense strand of sirna	4
+344	T	n: eukaryotes	4
+345	T	nn: efficiency score	4
+346	T	npn: mutant with defect	4
+347	T	a: held-out	8
+348	T	an: binding affinity	4
+349	T	n: schilder	4
+350	T	an: secondary structure	4
+351	T	nn: feature class	4
+352	T	a: heuristic	4
+353	T	annn: good - turing estimate	4
+354	T	an: median expression	4
+355	T	an: 24-nt rnas	8
+355	V[s]	aan: 24-nt small rnas	10
+355	V[s]	annn: 24-nt size class rnas	2
+356	T	nn: drosophila melanogaster	4
+357	T	ann: synthetic sirna molecule	4
+358	T	an: general framework	4
+359	T	n: pronoun	4
+360	T	nn: - hydroxyl	8
+361	T	nn: avm attribute	4
+362	T	a: dcl1	4
+363	T	nn: gene knockdown	4
+364	T	an: single mismatch	4
+365	T	an: initial feature	4
+366	T	nn: specificity score	4
+367	T	r: unambiguously	4
+368	T	nn: sirna concentration	4
+369	T	nn: information requirement	4
+370	T	nn: substitution structure	4
+371	T	npn: end of sirna	8
+372	T	ann: sequential rnai activity	4
+373	T	ann: current discourse unit	4
+374	T	ann: endogenous tf mrna	4
+375	T	nn: target chart	4
+376	T	nn: gene product	4
+377	T	ann: active sirna molecule	4
+378	T	n: cue-prosody	4
+379	T	a: rna-based	4
+380	T	an: polynomial time	4
+381	T	nn: caenorhabditis elegans	4
+382	T	n: passonneau	4
+383	T	n: comparability	4
+384	T	nnn: training datum size	8
+385	T	nn: kappa coefficient	4
+386	T	nn: performance measure	4
+387	T	nn: antisense rna	4
+388	T	an: vivo application	4
+389	T	n: dcls	4
+390	T	a: wi-1	4
+391	T	a: observed	4
+392	T	n: dcl4	4
+393	T	an: segmental structure	4
+394	T	n: usability	4
+395	T	nn: target gene	4
+396	T	nn: optimization method	4
+397	T	npn: interpretation of clause	4
+398	T	nn: contrast item	4
+399	T	an: sequential position	4
+400	T	ann: weight-based feature elimination	4
+401	T	ann: total base composition	4
+402	T	n: litman	4
+403	T	nn: start site	4
+403	V[s]	nnn: transcription start site	2
+404	T	n: enthalpy	4
+405	T	nan: fisher exact test	4
+406	T	an: inverted duplication	4
+407	T	nn: position 3n	4
+408	T	an: accurate prediction	4
+409	T	npn: loss of activity	4
+410	T	an: lexical item	4
+411	T	an: unification-based system	4
+412	T	npn: absence of dcl3	4
+413	T	npn: principle of sequentiality	4
+414	T	nn: decision theory	4
+415	T	an: ath1 array	4
+416	T	an: 24-nt sirnas	4
+417	T	an: actual activity	4
+418	T	nn: life science	4
+419	T	an: duplex length	8
+420	T	n: immunoblot	4
+421	T	ncnn: bigram and trigram model	4
+422	T	a: rdr1	4
+423	T	nn: passenger strand	8
+423	V[s]	nnpn: passenger strand of sirna	2
+424	T	a: knock-down	57
+425	T	an: repeated sequence	7
+426	T	an: terminal nucleotide	7
+427	T	a: u-base	7
+428	T	nan: nt long sirna	7
+429	T	n: phosphorothioate	7
+430	T	an: positional effect	7
+431	T	an: knockdown experiment	7
+432	T	nn: base pair	7
+433	T	a: genomic	7
+434	T	an: specific position	3
+435	T	nnn: train timetable domain	3
+436	T	an: single fragment	3
+437	T	an: systematic analysis	3
+438	T	a: egfp	3
+439	T	n: arrival-city	3
+440	T	n: new-one-count	3
+441	T	an: biophysical signature	3
+442	T	an: constrained optimization	3
+443	T	an: n-gram order	3
+444	T	an: binary tree	3
+445	T	n: ribozyme	3
+446	T	n: pollack	3
+447	T	an: unmodified sirna	3
+447	V[g]	an: unmodified sirnas	3
+448	T	anpn: high number of feature	3
+449	T	nn: dsrna template	3
+450	T	r: iteratively	3
+451	T	an: adjoining operation	3
+452	T	nn: probability distribution	3
+453	T	a: base-specific	3
+454	T	npn: combination of feature	3
+455	T	an: equal amount	3
+456	T	nn: paradise framework	3
+457	T	ann: cluster-proximal gene set	3
+458	T	an: previous study	3
+459	T	nn: repair strategy	3
+460	T	a: degenerate	3
+461	T	ann: small rna-generating locus	3
+462	T	n: postulate	3
+463	T	nn: method average-count	3
+464	T	nnn: church - gale	3
+465	T	n: adapter	3
+466	T	ncnn: efficiency and specificity score	3
+467	T	an: single mrna	3
+468	T	nn: sirna efficacy	3
+469	T	ann: 22-nt size class	3
+470	T	n: generality	3
+471	T	npn: sequence of similarity	3
+472	T	an: thermodynamic differential	3
+473	T	r: intracellularly	3
+474	T	an: 6-well plate	3
+475	T	aan: fetal bovine serum	3
+476	T	n: dharmacon	3
+477	T	nn: figure s2	3
+478	T	nn: sirna recognition	3
+479	T	n: phenol	3
+480	T	an: previous result	3
+481	T	nn: drosophila system	3
+482	T	an: optimal selection	3
+483	T	nn: model organism	3
+484	T	nn: sirna agent	3
+485	T	nn: discourse marker	3
+486	T	n: cross-entropy	6
+487	T	nn: dsrna molecule	3
+488	T	nn: task requirement	3
+489	T	nn: heat map	3
+490	T	n: fold-change	3
+491	T	nn: sequence pattern	3
+492	T	n: deoxyribonucleotides	3
+493	T	an: previous section	3
+494	T	an: large training	3
+495	T	ann: single-stranded antisense sirna	3
+496	T	an: genetic information	3
+497	T	r: vivo	3
+498	T	n: decouples	3
+499	T	npn: set of dialogue	3
+500	T	an: objective function	3
+501	T	an: specific residue	3
+502	T	npn: analysis of transcript	3
+502	V[s]	anpn: automatic analysis of transcript	2
+503	T	n: mysql	3
+504	T	an: specific gene	3
+505	T	an: naive subject	3
+506	T	ann: conventional antisense molecule	3
+507	T	an: efficient gene	3
+508	T	nn: discourse processing	6
+508	V[s]	ann: incremental discourse processing	3
+509	T	ann: random gene set	3
+510	T	n: topoisomerase	3
+511	T	an: descriptive power	3
+512	T	n: siegel	3
+513	T	an: rdr2-dependent dsrna	3
+514	T	an: double mutant	3
+515	T	aan: recombinant human trbp	3
+516	T	ann: median expression level	3
+517	T	an: cyclic propagation	3
+518	T	an: efficient silencer	3
+519	T	nn: feature set	3
+519	V[s]	npan: set of linguistic feature	2
+519	V[s]	npnn: set of input feature	2
+520	T	n: notation	3
+521	T	n: subtasks	3
+522	T	an: sequence-specific gene	3
+523	T	an: internal modification	3
+524	T	an: posttranscriptional regulation	3
+525	T	n: lipofectamine	3
+526	T	r: spatially	3
+527	T	nn: tissue type	3
+528	T	nn: sirna helix	3
+529	T	ann: consistent efficacy rating	3
+530	T	an: empirical comparison	3
+530	V[s]	aan: extensive empirical comparison	2
+531	T	nnn: fluorescence correlation spectroscopy	3
+532	T	nn: - o-methylation	3
+533	T	nnn: pten protein expression	3
+534	T	nnn: target cfg derivation	3
+535	T	n: partir	3
+536	T	n: 21mers	3
+537	T	a: illustrative	3
+538	T	npnn: efficacy of rnai experiment	3
+539	T	ann: maximum likelihood estimate	3
+540	T	nn: normalization function	3
+541	T	a: dcl2	3
+542	T	nn: top-down expectation	3
+543	T	nn: source library	3
+544	T	n: parabola	3
+545	T	nn: triton x-100	3
+546	T	an: untuned algorithm	3
+547	T	an: serum-free medium	3
+548	T	an: random set	3
+549	T	a: putative	3
+550	T	n: cue2	3
+551	T	an: good coefficient	3
+552	T	a: co-indexed	3
+553	T	an: experimental setting	3
+554	T	an: future work	3
+555	T	nn: molecule v5	3
+556	T	an: high efficacy	3
+557	T	an: related work	3
+558	T	an: unspecific sirnas	3
+559	T	nn: training narrative	3
+560	T	a: analogous	3
+561	T	annn: small rna accumulation pattern	3
+562	T	nn: task complexity	3
+563	T	an: serum-derived endonucleases	3
+564	T	anpnn: terminal nucleotide of antisense strand	3
+565	T	n: overfitting	3
+566	T	nn: grammar formalism	3
+567	T	nnn: cell culture system	3
+568	T	nn: target contrast	3
+569	T	nn: dna template	3
+570	T	npn: step of rnai	3
+570	V[s]	anpn: initial step of rnai	2
+571	T	an: residual level	3
+572	T	nn: performance evaluation	3
+573	T	an: col-0 plant	6
+574	T	nn: sequence diversity	3
+575	T	npn: distribution of cluster	3
+576	T	nn: type error	3
+577	T	npn: performance of method	3
+578	T	nn: egfp fluorescence	3
+579	T	nn: mrna degradation	3
+579	V[s]	npnn: degradation of target mrna	2
+580	T	an: local feature	3
+581	T	aan: high standard deviation	3
+582	T	aan: complete double-stranded form	3
+583	T	nn: discourse model	3
+584	T	an: subsequent discourse	3
+585	T	ann: small rna class	3
+585	V[s]	annn: small rna size class	2
+586	T	nnn: user satisfaction rating	3
+587	T	r: intuitively	3
+588	T	an: 18-nt analysis	3
+589	T	npn: set of scenario	3
+590	T	nn: sirecords database	3
+591	T	an: multiplexed format	3
+592	T	a: upregulated	3
+593	T	nn: inference relation	3
+594	T	an: active molecule	3
+595	T	an: linear interpolation	3
+596	T	an: functional sirnas	6
+597	T	an: silent state	3
+598	T	npan: expression of cluster-proximal gene	3
+599	T	n: akt1	3
+600	T	n: mir163	3
+601	T	an: global structure	3
+602	T	an: unmodified sirnas	3
+603	T	an: original paper	3
+604	T	an: statistical analysis	3
+605	T	n: dcl1	3
+606	T	n: lidstone	3
+607	T	nn: sequence information	3
+608	T	nn: immunoblot analysis	3
+609	T	a: probabilistic	3
+610	T	an: preterminal rule	3
+611	T	ann: multiple knowledge source	3
+612	T	nn: sequence preference	3
+613	T	nn: figure -	3
+614	T	ann: high r factor	3
+615	T	n: barcode	3
+616	T	n: castellan	3
+617	T	nn: source chart	3
+618	T	nn: error factor	3
+619	T	an: efficient rnai	3
+620	T	r: preferentially	3
+621	T	ann: mammalian rnai experiment	3
+622	T	nn: avm task	3
+622	V[s]	nnn: avm task representation	2
+623	T	n: egfp64	3
+624	T	aan: minimal structural requirement	3
+625	T	a: mutational	3
+626	T	a: disjoint	3
+627	T	n: novo	3
+628	T	nnn: development test datum	3
+629	T	a: cooperative	3
+630	T	ann: small rna abundance	3
+631	T	n: subsumption	3
+632	T	n: validation	3
+633	T	n: coli	3
+634	T	a: informational	3
+635	T	an: downstream region	3
+636	T	nn: parameter setting	3
+637	T	an: double-stranded rna	6
+638	T	nnn: information retrieval metric	3
+639	T	an: linguistic device	3
+640	T	nn: sequence homology	3
+641	T	nnn: polyacrylamide gel electrophoresis	3
+642	T	an: recursive application	3
+643	T	nn: target sequence	3
+644	T	nnn: training set size	3
+645	T	an: single feature	3
+646	T	nn: den berg	3
+647	T	nn: risc assembly	3
+648	T	r: stably	3
+649	T	npnn: requirement of sirna duplex	3
+650	T	an: relative stability	3
+650	V[s]	anpn: relative stability of strand	2
+651	T	nn: target mismatch	3
+652	T	an: qualitative measure	3
+653	T	an: dominant role	3
+654	T	an: thermodynamic profile	3
+655	T	nn: target transcript	6
+656	T	an: human cell	3
+657	T	nn: top-down propagation	3
+658	T	a: non-empty	6
+659	T	n: inactivation	3
+660	T	nn: base preference	3
+661	T	npan: database of mammalian rnai	3
+662	T	n: jeffreys	3
+663	T	n: agar	3
+664	T	nn: sirna transfection	3
+665	T	a: rdr6	3
+666	T	n: discourse	92
+667	T	n: locus	42
+668	T	n: self-hairpin	5
+669	T	an: non-empty node	5
+670	T	npn: efficacy of sirna	5
+670	V[s]	nn: sirna efficacy	3
+671	T	nnn: - hydroxyl group	5
+672	T	n: endonucleases	5
+673	T	npn: stability of sirnas	5
+673	V[s]	npan: stability of synthetic sirnas	2
+674	T	aan: total small rnas	5
+675	T	n: church-gale	5
+675	V[m]	nnn: church - gale	3
+676	T	a: gardent	5
+677	T	nnpn: base composition of sirna	5
+678	T	an: duplex formation	5
+679	T	n: re-done	5
+680	T	n: argonaute	5
+681	T	anpn: complete set of sirna	5
+682	T	n: molecule	109
+683	T	n: node	31
+684	T	an: dcl3 mutant	21
+685	T	an: mammalian system	2
+686	T	ann: large training set	2
+687	T	npn: complexity of task	2
+687	V[s]	nn: task complexity	3
+688	T	an: repeat-normalized locus	2
+688	V[s]	aann: repeat-normalized small rna locus	2
+689	T	nnn: target site accessibility	2
+690	T	n: generalization	2
+691	T	an: regulatory sequence	2
+692	T	npnn: centre of sirna duplex	2
+693	T	n: ethanol	2
+694	T	an: original supposition	2
+695	T	an: hypothetical dialogue	2
+696	T	npn: effect of mismatch	2
+697	T	nn: foot node	2
+698	T	an: molecular redundancy	2
+699	T	nn: feature distribution	2
+700	T	an: inverted repeat	2
+701	T	nn: search algorithm	2
+702	T	nn: rna-generating locus	4
+702	V[s]	ann: small rna-generating locus	3
+703	T	r: transiently	2
+704	T	npn: performance of system	2
+705	T	n: pgsx-trbp	2
+706	T	ann: potential dialogue strategy	2
+707	T	nn: figure 1d	2
+708	T	nn: efficiency measure	2
+709	T	nann: nt long sirna molecule	2
+710	T	npan: set of linguistic feature	2
+711	T	nn: gene function	2
+712	T	an: developmental defect	2
+713	T	n: perplexity	2
+714	T	nann: nt long sirna duplex	2
+715	T	ann: high correlation coefficient	2
+716	T	n: 3-kinase	4
+717	T	ann: potential cue phrase	2
+718	T	n: non-boundary	4
+719	T	an: inferior performance	2
+720	T	anpn: current release of sirecords	2
+721	T	nn: tf expression	2
+722	T	npan: stability of synthetic sirnas	2
+723	T	an: modified eagle	2
+724	T	nn: - terminus	2
+725	T	nnn: sirna target position	2
+726	T	nva: method be independent	2
+727	T	npn: expression of gene	2
+727	V[s]	npan: expression of cluster-proximal gene	3
+727	V[s]+	nn: gene expression	12
+728	T	n: z-scores	2
+729	T	ann: experimental rnai researcher	2
+730	T	n: wi-2i	2
+731	T	an: future research	2
+732	T	an: definite pronoun	2
+733	T	nn: deoxynucleotide overhang	2
+734	T	nn: np feature	2
+735	T	an: stable guide	2
+736	T	npnn: cross-entropy of test datum	2
+737	T	an: empirical study	2
+738	T	nnn: pearson correlation coefficient	2
+739	T	an: periodical fluctuation	4
+740	T	npan: effect of individual base	2
+741	T	n: rna-silencing	4
+742	T	npn: application of technique	2
+743	T	an: poor correlation	2
+744	T	an: present work	2
+745	T	n: chafe	2
+746	T	annn: reliable sirna design tool	2
+747	T	npnn: face of sirna helix	2
+748	T	nnn: machine learning tool	2
+749	T	a: dicer-like	2
+750	T	nva: strand be functional	2
+751	T	an: vivo experiment	2
+752	T	ann: drm rule set	2
+753	T	an: chromatin-associated sirnas	2
+754	T	nn: prediction accuracy	2
+755	T	nn: unification equation	2
+756	T	nn: information access	2
+757	T	nnn: cue phrase feature	2
+758	T	annn: good - turing estimation	2
+759	T	nnn: target cfg skeleton	2
+760	T	a: correlate	4
+761	T	n: artifact	2
+762	T	npn: compatibility of feature	2
+763	T	an: terminal modification	4
+764	T	npnn: region of gapdh mrna	2
+765	T	an: single training	2
+766	T	an: perfect complementarity	2
+767	T	an: empty node	2
+768	T	nn: sentence pair	2
+769	T	aann: repeat-normalized small rna locus	2
+770	T	npn: case of tree	2
+771	T	a: sfold	4
+772	T	ann: wt col-0 plant	2
+773	T	npn: effect of sirna	4
+773	V[s]	nn: sirna effect	2
+774	T	ann: high transaction success	2
+775	T	an: mock-transfected cell	2
+776	T	nn: figure s5	2
+777	T	ann: small rna datum	2
+778	T	nn: figure s4	2
+779	T	n: deoxynucleotide	4
+780	T	an: comprehensive set	2
+781	T	an: similar result	2
+782	T	an: akt1 kinase	2
+783	T	npn: subpart of table	2
+784	T	a: dcl3-dependent	4
+785	T	npn: level of dialogue	2
+786	T	nn: b-catenin mrna	4
+787	T	an: key information	2
+788	T	n: abolishment	2
+789	T	nn: feature vector	2
+790	T	n: pre-mirna	2
+791	T	anpn: chemical modification of sirnas	2
+792	T	nn: discourse segment	2
+793	T	an: diversified set	2
+794	T	nn: machine translation	2
+795	T	an: important finding	2
+796	T	n: dsrbds	2
+797	T	n: substituent	2
+798	T	n: polivb	2
+799	T	ncan: unit and future discourse	2
+800	T	npan: degradation of untargeted gene	2
+801	T	nn: sirna length	2
+802	T	anpnn: catalytic subunits of pi 3-kinase	2
+803	T	nn: phosphorothioate linkage	2
+804	T	ncan: rnas or small rna	2
+805	T	nnpn: passenger strand of sirna	2
+806	T	r: qualitatively	2
+807	T	an: bidirectional transcription	2
+808	T	nnn: score normalization function	2
+809	T	nn: sirna experiment	4
+810	T	ann: akt1 mrna level	2
+811	T	npnn: terminus of sense strand	2
+812	T	ncnn: transposon and retroelement sequence	2
+813	T	nn: protein component	2
+814	T	nn: sam analysis	2
+815	T	an: moderate concentration	2
+816	T	aan: extensive empirical comparison	2
+817	T	nn: template sequence	2
+818	T	an: 21-nt mirnas	2
+819	T	n: plus-one	2
+820	T	n: vianu	2
+821	T	nn: rdr protein	4
+822	T	n: high-activity	2
+822	V[mg]	an: high activity	4
+823	T	n: plus-delta	2
+824	T	nn: raise expectation	2
+825	T	nn: measurement method	2
+826	T	an: numerous experiment	2
+827	T	an: human rnai	2
+828	T	ann: future discourse material	2
+829	T	anpn: average number of count	2
+830	T	npan: efficacy of third position	2
+831	T	nn: weight wf	2
+832	T	an: efficient performance	2
+833	T	nn: low-activity sirnas	2
+834	T	an: effective sirna	4
+835	T	nva: factor be potential	2
+836	T	an: unique locus	2
+837	T	npn: accessibility of sirna	2
+838	T	a: pairwise	2
+839	T	npan: percentage of efficient sirnas	2
+840	T	nn: paragraph boundary	2
+841	T	n: interp-baseline	2
+842	T	npnn: end of sense strand	2
+843	T	nn: gene family	2
+844	T	nn: cleavage site	2
+845	T	an: incompatible constraint	2
+846	T	anpn: major redistribution of size	2
+847	T	nn: pten mrna	4
+848	T	nn: turing estimation	4
+849	T	an: blind test	2
+850	T	npn: fluorescence of egfp	2
+850	V[s]	nn: egfp fluorescence	3
+851	T	an: good activity	2
+852	T	nn: arabidopsis thaliana	2
+853	T	an: non-modified nucleotide	2
+854	T	nn: cell lysates	2
+855	T	nnn: avm task representation	2
+856	T	nva: pattern be unifiable	2
+857	T	ann: global discourse structure	2
+858	T	an: incremental analysis	2
+859	T	anpn: long version of dialogue	2
+860	T	nn: overhang requirement	2
+861	T	n: overtraining	2
+862	T	anpn: asymmetric recognition of sirna	2
+863	T	anpn: automatic analysis of transcript	2
+864	T	nn: genome position	2
+865	T	annn: fast sirna activity prediction	2
+866	T	r: dynamically	2
+867	T	ncnn: root and leaf term	2
+868	T	an: original publication	2
+869	T	nn: design principle	2
+870	T	nn: serum incubation	2
+871	T	nnpn: guide strand of sirna	2
+872	T	an: core promoter	2
+873	T	ann: endogenous gene expression	2
+874	T	an: subordinate conjunction	2
+875	T	npan: analysis of romanian text	2
+876	T	aan: 21-nt small rnas	2
+877	T	nn: pcr primer	2
+878	T	nn: testing datum	2
+879	T	an: functional analysis	2
+880	T	npnn: set of input feature	2
+881	T	nn: fragment size	2
+882	T	npn: design of sirna	4
+883	T	npn: set of narrative	2
+884	T	nn: clause 2a	2
+885	T	an: objective structure	2
+886	T	npan: experiment with consistent efficacy	2
+887	T	n: repeat-normalization	2
+888	T	an: thermodynamic energy	2
+889	T	n: naturalness	2
+890	T	nn: segment s3	2
+891	T	n: standardization	2
+892	T	anpn: absolute value of weight	2
+893	T	an: positive correlation	2
+894	T	npnn: term of lower-order model	2
+895	T	an: small datum	2
+896	T	nn: fcs measurement	2
+897	T	nn: bigram probability	2
+898	T	ann: independent test set	2
+899	T	an: formal proof	2
+900	T	annn: 24-nt size class rnas	2
+901	T	npn: stability of passenger	2
+902	T	npn: amount of molecule	2
+903	T	acan: centromeric and pericentromeric region	2
+904	T	an: genomic dna	2
+905	T	a: 2-nt	2
+906	T	nn: dialogue task	2
+907	T	n: htf167i	2
+908	T	nnn: sirna input wizard	2
+909	T	nnn: train timetable agent	2
+910	T	nn: mt system	4
+911	T	nn: scrolling-window count	2
+912	T	an: duplex stability	4
+913	T	anpnn: small rnas of size class	2
+914	T	nn: arabidopsis sequence	2
+915	T	nn: interpolation technique	2
+916	T	an: left-recursive grammar	2
+917	T	npn: calculation of performance	2
+918	T	npan: demonstration of complete set	2
+919	T	npn: corpus of dialogue	2
+920	T	ncnn: mutation and chemical modification	4
+921	T	an: general correlation	2
+922	T	npnn: activity of sirna molecule	2
+923	T	an: predesigned probe	2
+924	T	nnn: source cfg rule	2
+925	T	nn: nm genebloc	2
+926	T	an: molecular interaction	2
+927	T	nn: o-methyl residue	4
+928	T	an: held-out interpolation	2
+929	T	npn: basis of observation	2
+930	T	nn: rna strand	2
+931	T	nnn: partner protein trbp	2
+932	T	n: precompilation	2
+933	T	an: previous clause	2
+934	T	an: hold-out method	2
+935	T	nn: o-methyl ribonucleotides	4
+936	T	an: diagonal cell	2
+937	T	r: maximally	2
+938	T	nn: foldback structure	2
+939	T	aan: multiple linear regression	2
+940	T	n: prosody	2
+941	T	nn: transposon -	2
+942	T	annn: small rna size class	2
+943	T	nn: discourse expectation	2
+944	T	an: rdr2 mutant	14
+945	T	a: reproducible	2
+946	T	n: confluency	2
+947	T	nn: left-corner path	2
+948	T	an: supplementary information	2
+949	T	an: significant correlation	2
+950	T	an: heuristic rule	2
+951	T	a: dcl4	2
+952	T	nnn: support vector machine	2
+953	T	an: detailed analysis	2
+954	T	nnn: translation initiation site	2
+955	T	an: relational database	2
+956	T	an: general method	2
+957	T	anpn: large number of sirnas	2
+958	T	ncnn: material and method sirna	2
+959	T	n: immunofluorescence	2
+960	T	n: svmlight	2
+961	T	nn: low-activity molecule	2
+962	T	anpn: relative stability of strand	2
+963	T	nn: topoisomerase enzyme	2
+964	T	an: supplementary datum	2
+965	T	ncnn: mrna and protein level	2
+966	T	n: saturation	2
+967	T	n: ribonuclease	2
+968	T	an: low tolerance	2
+969	T	npn: type of factor	2
+970	T	nn: dna amplicons	2
+971	T	nn: off-target sirnas	2
+972	T	anpn: thermodynamic instability of guide	2
+973	T	npnn: face of a-form helix	2
+974	T	npan: class of potential boundary	2
+975	T	nva: mutant be due	2
+976	T	aan: small rna-homologous locus	2
+977	T	nn: lower-order distribution	2
+978	T	npn: proportion of time	2
+979	T	npan: design of long dsrnas	2
+980	T	an: long-term activity	2
+981	T	n: subcategorization	2
+982	T	ann: single nucleotide polymorphism	2
+983	T	npn: application of paradise	2
+984	T	an: preliminary analysis	2
+985	T	npn: efficiency of sirnas	2
+986	T	an: correct translation	2
+987	T	nva: dialogue be identical	2
+988	T	an: strong effect	2
+989	T	an: general constraint	2
+990	T	an: comparable strategy	2
+991	T	n: customization	2
+992	T	n: cristea	2
+993	T	npn: function of rnai	2
+994	T	ann: open reading frame	2
+995	T	an: individual feature	2
+996	T	anpnn: molecular mechanism of sirna functionality	2
+997	T	aan: dcl3 mutant plant	2
+998	T	n: 96-wells	2
+999	T	npnn: prediction of off-target effect	2
+1000	T	acan: large and diverse dataset	2
+1001	T	ann: low gc content	2
+1002	T	an: terminal symbol	4
+1002	V[p]	an: nonterminal symbol	10
+1003	T	nnn: hand tuning result	2
+1004	T	ncnn: fallout and error rate	2
+1005	T	nn: boundary classification	2
+1006	T	n: s3a-s	2
+1007	T	an: tamra-labeled sirna	4
+1008	T	nn: sirna pathway	2
+1009	T	an: 1-nt analysis	2
+1010	T	npn: source of uncertainty	2
+1011	T	an: thermodynamic feature	2
+1012	T	nn: primer sequence	2
+1013	T	ann: referential noun phrase	2
+1014	T	nn: function ci	2
+1015	T	npnnn: loss of rna interference activity	2
+1016	T	npnn: term of task requirement	2
+1017	T	an: binding energy	2
+1018	T	ran: globally optimal solution	2
+1019	T	nn: reachability relation	2
+1020	T	n: treebank	2
+1021	T	r: analogously	2
+1022	T	nn: control set	2
+1023	T	nn: mol sirnas	2
+1024	T	an: experimental condition	2
+1025	T	nn: rnai mechanism	2
+1026	T	an: silent chromatin	2
+1027	T	an: unique association	2
+1028	T	an: genbank accession	2
+1029	T	nn: gapdh mrna	4
+1030	T	npnn: terminus of antisense strand	2
+1031	T	an: cationic lipid	2
+1032	T	npnn: group of antisense strand	2
+1033	T	nva: content be clean	2
+1034	T	nnpn: constraint y of form	2
+1035	T	aan: adjacent minor groove	2
+1036	T	nn: exonuclease activity	2
+1037	T	n: trans	2
+1038	T	a: usable	2
+1039	T	nn: efficacy assessment	2
+1040	T	ann: potential off-target effect	2
+1041	T	ann: global discourse unit	2
+1042	T	n: poliovirus	2
+1043	T	nnpn: line chart of prediction	2
+1044	T	an: distinct pathway	2
+1045	T	nva: bucket be large	2
+1046	T	nn: rnai efficacy	2
+1047	T	an: average performance	2
+1048	T	aan: therapeutic nucleic acid	2
+1049	T	an: isolated peak	2
+1050	T	nn: bin set	2
+1051	T	npn: algorithm with top-down	2
+1052	T	an: light cycle	2
+1053	T	nn: loss-of-function phenotype	2
+1054	T	nn: sirna function	2
+1055	T	r: peto	2
+1056	T	an: global dg	2
+1057	T	aan: pattern-based context-free grammar	2
+1058	T	n: egfp416	4
+1059	T	nn: drosophila lysates	2
+1060	T	npn: interpretation of sentence	2
+1061	T	ncan: - and 22-nt size	2
+1062	T	nn: segmentation task	2
+1063	T	ann: sub-optimal parameter selection	2
+1064	T	an: alternate dcls	2
+1065	T	an: sentence-level processing	2
+1066	T	nn: wt plant	2
+1067	T	an: unpublished datum	2
+1068	T	aan: potential relevant contributor	2
+1069	T	nn: seedling library	2
+1070	T	anpn: strong correlation with activity	2
+1071	T	an: example-based mt	2
+1072	T	an: average activity	2
+1073	T	an: single strand	2
+1074	T	nn: sample size	2
+1075	T	ann: efficient rnai activity	2
+1076	T	an: top node	2
+1077	T	nn: phosphate backbone	2
+1078	T	an: proximal cluster	4
+1079	T	nva: factor be unsuitable	2
+1080	T	nn: rel gene	2
+1081	T	n: referent	2
+1082	T	anpn: relative contribution of success	2
+1083	T	npnn: location of fragment boundary	2
+1084	T	n: hpsg	2
+1085	T	nn: unigram distribution	2
+1086	T	nn: mysql database	2
+1087	T	an: potential bias	2
+1088	T	nnpn: correlation coefficient of prediction	2
+1089	T	an: molecular weight	2
+1090	T	a: antiviral	2
+1091	T	n: carberry	2
+1092	T	nn: - ugagcaagggcgaggagcu-3	2
+1093	T	nva: library be homologous	2
+1094	T	n: hplc	2
+1095	T	nn: novo design	2
+1096	T	nn: scrolling-window analysis	2
+1097	T	an: high efficiency	2
+1098	T	rann: publicly available rnai library	2
+1099	T	a: distal	2
+1100	T	an: viral defence	2
+1101	T	npn: specie of sirnas	2
+1102	T	npnn: sum of error variable	2
+1103	T	n: toxicity	2
+1104	T	r: incrementally	2
+1105	T	a: htf167	2
+1106	T	an: chromosome-wide pattern	2
+1107	T	npnn: design of rnai probe	2
+1108	T	nn: regression plane	2
+1109	T	npnn: record of rnai experiment	2
+1110	T	nn: information exchange	2
+1111	T	nn: histone modification	2
+1112	T	n: hygromycin	2
+1113	T	a: stochastic	2
+1114	T	an: sentential adverb	2
+1115	T	nn: dsrna synthesis	2
+1116	T	nn: dangle base	2
+1117	T	n: dcl2	2
+1118	T	an: pten-specific antibody	2
+1119	T	nnn: coli rnase iii	2
+1120	T	an: imperative verb	2
+1121	T	nn: nucleotide mismatch	2
+1122	T	nnnn: target cfg derivation sequence	2
+1123	T	an: repeat-normalized count	2
+1124	T	ncnn: source and target cfg	2
+1125	T	nn: rule dag	2
+1126	T	n: n-grams	4
+1127	T	nnpn: effect value of sirna	2
+1128	T	npn: sum of frequency	2
+1129	T	an: individual sirna	2
+1130	T	nn: method one-count	2
+1131	T	n: oligoribonucleotides	2
+1132	T	nnn: melanogaster embryo lysates	2
+1133	T	an: bayesian sampling	2
+1134	T	n: paradigm	2
+1135	T	n: fics	2
+1136	T	an: present study	2
+1137	T	nn: input string	2
+1138	T	nn: chromosome iii	2
+1139	T	npan: application of synthetic sirnas	2
+1140	T	an: absolute abundance	2
+1141	T	an: recent review	2
+1142	T	n: photoperiod	2
+1143	T	ncnn: success and dialogue cost	2
+1144	T	an: au-rich composition	2
+1145	T	npan: contribution of various factor	2
+1146	T	an: cross-entropy difference	2
+1147	T	an: residual expression	2
+1148	T	nva: experiment be insufficient	2
+1149	T	n: underrepresentation	2
+1150	T	nn: overfitting problem	2
+1151	T	npn: time with pbs	2
+1152	T	nn: correlation analysis	2
+1153	T	ran: practically polynomial time	2
+1153	V[s]	an: polynomial time	4
+1154	T	npn: mechanism of rnai	2
+1154	V[s]	nn: rnai mechanism	2
+1155	T	anpn: minimum set of feature	2
+1156	T	an: large error	2
+1157	T	nn: product-moment correlation	2
+1158	T	nn: paradise model	2
+1159	T	aan: basic biomedical research	2
+1160	T	nva: operation be adjoining	2
+1160	V[s]	an: adjoining operation	3
+1161	T	nnpn: prediction value of sirna	2
+1162	T	an: weighted sum	2
+1163	T	npn: centre of molecule	2
+1164	T	npn: head of symbol	2
+1165	T	n: abbreviation	2
+1166	T	an: small factor	2
+1167	T	an: linear svms	2
+1168	T	an: errant behavior	2
+1169	T	nn: egfp sirnas	2
+1170	T	nn: loading control	2
+1171	T	an: complex formation	2
+1172	T	ann: actual rnai activity	2
+1173	T	an: duplex sirna	2
+1174	T	an: unmodified nucleotide	2
+1175	T	an: qualitative phenomenon	2
+1176	T	an: northern analysis	2
+1177	T	npnn: set of translation pattern	2
+1178	T	ann: small rna profile	2
+1179	T	ncan: size and n-gram order	2
+1180	T	npnn: end of antisense strand	4
+1181	T	nnn: introduction rna interference	2
+1182	T	nn: sirna stability	2
+1183	T	an: thermodynamic property	2
+1184	T	nnn: arabidopsis protein-coding gene	2
+1185	T	a: localized	2
+1186	T	nva: category be unknown	2
+1187	T	an: final concentration	2
+1188	T	nnn: source cfg skeleton	2
+1189	T	nva: task be accomplished	2
+1190	T	r: recursively	2
+1191	T	nn: discourse feature	2
+1192	T	nn: term repetition	2
+1193	T	npan: class of small rnas	2
+1194	T	nn: target cleavage	2
+1194	V[s]	nnn: target rna cleavage	2
+1195	T	an: optimal probe	2
+1196	T	nva: propagation be re-done	2
+1197	T	nn: rule application	2
+1198	T	nnn: transcription start site	2
+1199	T	nva: success be rigorous	2
+1200	T	n: high-throughput	2
+1201	T	aan: relative thermodynamic instability	2
+1202	T	nn: novartis dataset	2
+1203	T	an: expert coder	2
+1204	T	n: oligos	2
+1205	T	npnn: estimation of performance function	2
+1206	T	aan: innate immune response	2
+1207	T	nn: taqman analysis	2
+1208	T	an: elevated expression	2
+1209	T	an: complete datum	2
+1210	T	nn: risc formation	2
+1211	T	r: constitutively	2
+1212	T	nn: cm plate	2
+1213	T	an: prime pair	4
+1214	T	an: full activity	2
+1215	T	an: extensive database	2
+1216	T	an: original article	2
+1217	T	n: siexplorer	2
+1218	T	npnn: loss of function study	2
+1219	T	nnpn: information requirement of task	2
+1220	T	n: np-a	2
+1221	T	an: stable structure	2
+1222	T	npnn: accessibility of target site	2
+1223	T	npan: activity with 3-nt periodicity	2
+1224	T	ann: small rna distribution	2
+1225	T	n: cutoff	2
+1226	T	ann: external validation criterion	2
+1227	T	n: pcfg	2
+1228	T	nn: blast search	2
+1229	T	npn: sequence of sirna	2
+1229	V[s]	nn: sirna sequence	17
+1230	T	nnn: target rna cleavage	2
+1231	T	an: major groove	2
+1232	T	an: multiple run	2
+1233	T	an: left-to-right reading	2
+1234	T	an: independent clause	2
+1235	T	nnn: development test set	2
+1236	T	nn: avm representation	2
+1236	V[s]	nnn: avm task representation	2
+1237	T	an: terminal position	2
+1238	T	an: fat storage	2
+1239	T	anpn: initial step of rnai	2
+1240	T	n: c-bases	2
+1241	T	aann: gaussian radial basis function	2
+1242	T	an: superior performance	2
+1243	T	an: complete substitution	2
+1244	T	ann: optimal base composition	2
+1245	T	nn: email corpus	2
+1246	T	nn: avm instantiation	2
+1247	T	nn: web server	2
+1248	T	nn: confidence interval	2
+1249	T	n: word2	2
+1250	T	n: word1	4
+1251	T	nn: sirna effect	2
+1252	T	anpn: internal stability of strand	2
+1253	T	an: low stability	2
+1254	T	an: significant agreement	2
+1255	T	ann: implicit confirmation strategy	2
+1256	T	nn: unification grammar	2
+1257	T	nn: method katz	2
+1258	T	n: 19mers	2
+1259	T	nnpn: rnai activity of sirnas	2
+1260	T	an: left daughter	2
+1261	T	n: pause-a	2
+1262	T	an: comparable datum	2
+1263	T	nn: dicer-trbp complex	2
+1264	T	an: initial activity	2
+1265	T	n: overhang	22
+1266	T	ran: highly active sirnas	5
+1266	V[s]	an: active sirnas	20
+1267	T	n: microarray	3
+1268	T	npn: correlation with activity	3
+1269	T	nnn: rna polymerase iii	3
+1270	T	n: tetranucleotide	3
+1271	T	anpn: structural requirement of sirna	3
+1272	T	nva: cue1 be true	3
+1273	T	n: microdocuments	3
+1274	T	a: left-to-right	3
+1275	T	n: invertebrate	3
+1276	T	npn: modification of sirnas	3
+1276	V[s]	anpn: chemical modification of sirnas	2
+1277	T	nn: embryo lysates	3
+1277	V[s]	nnn: melanogaster embryo lysates	2
+1278	T	an: non-terminal node	3
+1279	T	ann: rna-dependent rna polymerase	3
+1280	T	n: foldback	3
+1281	T	a: heterochromatic	3
+1282	T	npan: distribution of small rna	3
+1283	T	an: catalytic subunits	3
+1284	T	ann: incremental discourse processing	3
+1285	T	nn: two-sample t-test	3
+1286	T	nn: time-course experiment	3
+1287	T	nn: adaptor ligation	3
+1288	T	a: argonaute-2	3
+1289	T	n: nontermination	3
+1290	T	nn: pcr fusiona	3
+1291	T	n: abasic	3
+1292	T	n: oligofectamine	3
+1293	T	n: correlation	45
+1294	T	an: double-stranded sirna	3
+1295	T	n: exonuclease	3
+1296	T	nn: rnai gene	3
+1297	T	n: z-score	3
+1298	T	n: allyl-modification	3
+1299	T	an: periodic efficacy	3
+1300	T	n: mutation	43
+1301	T	a: adjoining	19
+1302	T	nn: molecule v13	4
+1303	T	r: chemically	11
+1304	T	n: modification	81
+1305	T	n: substitution	42
+1306	T	n: zeynep	1
+1307	T	n: co-worker	1
+1308	T	n: depart-range	1
+1309	T	n: paraformaldehyde	1
+1310	T	an: resulting dag	1
+1311	T	n: wimust	1
+1312	T	n: magnacharge	1
+1313	T	a: mir161	1
+1314	T	an: mass spectrometry	1
+1315	T	n: aging	1
+1316	T	nn: reachability table	2
+1317	T	n: oberlander	1
+1318	T	an: risc-like mirnp	1
+1319	T	n: femto-l	1
+1320	T	a: false-positive	2
+1321	T	nn: gale implementation	2
+1322	T	n: subsection	1
+1323	T	npn: regulation of target	2
+1324	T	an: mechanistic insight	1
+1325	T	n: mitosis	1
+1326	T	n: replication	1
+1327	T	n: one-half	1
+1328	T	ncnn: - and retroelement-containing bin	1
+1329	T	an: unprecedented set	1
+1330	T	a: simplex	1
+1331	T	n: stopwords	1
+1332	T	a: polyclonal	1
+1333	T	n: byte	1
+1334	T	npn: type of sirna	2
+1335	T	n: aptamers	1
+1336	T	a: sidrm	1
+1337	T	n: facscalibur	1
+1338	T	n: base-call	2
+1339	T	a: 24-nucleotide	1
+1340	T	n: chemicon	1
+1341	T	nnn: performance function estimate	2
+1342	T	an: f-labeled sirna	2
+1343	T	npn: subdialogue with agent	2
+1344	T	n: pcfgs	1
+1345	T	r: evolutionarily	1
+1346	T	r: asymmetrically	1
+1347	T	n: example-type	1
+1348	T	nn: o-methyl nucleotide	2
+1349	T	acan: cell-autonomous and systemic defense	1
+1350	T	n: nitex	1
+1351	T	r: publically	1
+1352	T	a: barcoded	1
+1353	T	n: eshrat	1
+1354	T	n: ilog	1
+1355	T	an: 3-d post-germination	1
+1356	T	npn: case of dcl1	2
+1357	T	n: reynar	1
+1358	T	n: kris	1
+1359	T	a: polynomial-time	1
+1359	V[mg]	an: polynomial time	4
+1360	T	n: repbase	1
+1361	T	n: pronk	1
+1362	T	n: cytotoxicity	1
+1363	T	n: phygegfp	1
+1364	T	an: specific sirna	2
+1365	T	an: prime quality	2
+1366	T	n: ankyrin-domain	1
+1367	T	npn: selection of sirna	2
+1368	T	n: tongbin	1
+1369	T	r: mechanistically	1
+1370	T	n: expectation-raising	1
+1371	T	n: ssrna	1
+1372	T	npn: corefers with np	1
+1373	T	n: hyl1	1
+1374	T	a: cue1	1
+1375	T	an: target-specific stretch	2
+1376	T	n: invitrogen	1
+1377	T	an: cold pbs	1
+1378	T	n: recursion	1
+1379	T	nn: dag dsubsumes	1
+1380	T	nn: data contributor	2
+1381	T	nn: ml opti-mem	1
+1382	T	npan: intersection with vertical axis	1
+1383	T	a: 3iii	1
+1384	T	nan: gene knock-down tool	2
+1385	T	n: t-tests	1
+1386	T	n: his-tag	1
+1387	T	a: inferrable	1
+1388	T	a: consequent	1
+1389	T	n: candace	1
+1390	T	nn: glyceraldehyde-3-phosphate dehydrogenase	1
+1391	T	a: online	1
+1392	T	a: stretched	1
+1393	T	n: qiagen	1
+1394	T	an: z-score statistic	1
+1395	T	a: ago7	1
+1396	T	n: circularity	1
+1397	T	a: deprotected	1
+1398	T	an: o-methyl-modified ribonucleotides	2
+1399	T	n: knott	1
+1400	T	nn: - o-allylation	1
+1401	T	n: cj-1	1
+1402	T	an: pre-formed 5x	1
+1403	T	n: theorem	1
+1404	T	a: understood	1
+1405	T	n: rnafold	1
+1406	T	nn: - nnaanaannunaanawnaa-3	1
+1407	T	r: tuning--particularly	1
+1408	T	nn: - gcagatcgtcagtcagtcacgatg-3	1
+1409	T	nn: subdialogue s4	1
+1410	T	a: unbound	1
+1411	T	n: part-of-speech	1
+1412	T	nn: termination signal	2
+1413	T	n: biopredsi	1
+1414	T	n: galliers	1
+1415	T	a: sirna-mediated	1
+1416	T	n: affymetrix	1
+1417	T	a: unimpaired	1
+1418	T	n: full-text	2
+1419	T	n: cue-a	1
+1420	T	a: hydrophobicity-related	1
+1421	T	n: ci-1	1
+1422	T	n: kozima	1
+1423	T	n: bdgp	1
+1424	T	n: counter-measures	1
+1425	T	n: takara	1
+1426	T	n: satrom	1
+1427	T	nnn: santa cruz biotechnology	1
+1428	T	ann: prosodic phrase pi	2
+1429	T	r: inter-sententially	1
+1430	T	an: non-coding rnas	2
+1431	T	r: coordinately	1
+1432	T	nn: gel image	1
+1433	T	n: trigrams	1
+1434	T	n: anti-p110	1
+1435	T	n: surrogacy	1
+1436	T	r: itelf	1
+1437	T	n: chu-carrol	1
+1438	T	n: esirnas	1
+1439	T	nn: antisense oligo	2
+1440	T	n: sparck-jones	1
+1441	T	r: compositionally	1
+1442	T	nn: - o-modification	2
+1442	V[im]	nnn: - o-methyl modification	11
+1443	T	n: wh-question	1
+1444	T	a: integrative	1
+1445	T	nn: homotri -	1
+1446	T	a: reflexive	1
+1447	T	n: clausally	1
+1448	T	n: rais	1
+1449	T	a: let-7	1
+1450	T	n: dicer2	1
+1451	T	nn: ge healthcare	1
+1452	T	an: dominant-negative disorder	1
+1453	T	a: heterogeneous	1
+1454	T	n: hinrichs	1
+1455	T	a: deoxy	2
+1456	T	nn: cyberspace society	1
+1457	T	n: synchronization	1
+1458	T	n: neighbor	1
+1459	T	npnn: degradation of target mrna	2
+1460	T	r: inversely	1
+1461	T	npn: region of sirna	2
+1462	T	a: non-basepairing	1
+1463	T	a: derivable	1
+1464	T	r: statically	1
+1465	T	a: learned	1
+1466	T	nn: ceteris paribus	1
+1467	T	n: quartile	1
+1468	T	n: pre-incubate	1
+1469	T	nn: french translation	2
+1470	T	a: non-denaturing	2
+1471	T	n: parser	1
+1472	T	nnpn: gc content of sirna	2
+1473	T	n: fusionb	1
+1474	T	a: indend	1
+1475	T	n: wide-array	1
+1476	T	r: equivalently	1
+1477	T	n: slicer	1
+1478	T	n: lascarides	1
+1479	T	nn: o-methylation modification	2
+1480	T	n: fasta	1
+1481	T	n: biospring	1
+1482	T	n: subgoal	1
+1483	T	nn: - cgcggatcccatgagtgaagaggagcaaggct-3	1
+1484	T	a: distinguishable	1
+1485	T	r: intra-sententially	1
+1486	T	nn: - gcctccctcgcgccatcagatcgtaggcacctgata3	1
+1487	T	n: protozoans	1
+1488	T	n: fine-tunes	1
+1489	T	a: hyl1	1
+1490	T	an: o-methylated terminal	2
+1491	T	an: solid tumor	1
+1492	T	an: o-methyl-modified sirna	4
+1493	T	nn: chapter ii	1
+1494	T	an: ni-charged hi-trap	1
+1495	T	nn: sefar america	1
+1496	T	n: bigrams	1
+1497	T	n: sub-confluence	1
+1498	T	r: predominately	1
+1499	T	n: anti-unification	1
+1500	T	n: boutros	1
+1501	T	nn: sam plugin	1
+1502	T	n: tsutomu	1
+1503	T	a: rotate	1
+1504	T	n: scalability	1
+1505	T	n: givan	1
+1506	T	n: estimating	1
+1507	T	n: jelinek-mercer	1
+1508	T	a: 200-bin	1
+1509	T	an: user-specified limit	1
+1510	T	n: depart-time	1
+1511	T	a: discriminating	1
+1512	T	n: remains	1
+1513	T	npn: application of sirna	2
+1514	T	r: positionally	1
+1515	T	n: evaluator	1
+1516	T	aan: age-related macular degeneration	1
+1517	T	n: corefer	1
+1518	T	nn: bioinformatics scientist	1
+1519	T	r: quantitatively	1
+1520	T	a: 6-carboxy-tetramethylrodamine	1
+1521	T	n: coworker	1
+1522	T	r: biochemically	1
+1523	T	n: klippel	1
+1524	T	nn: - deoxynucleotides	1
+1525	T	npn: form of sirna	2
+1526	T	n: nucleolus	1
+1527	T	an: nt sirnas	2
+1528	T	n: micrornas	1
+1529	T	n: elbashir	1
+1530	T	n: elisabeth	1
+1531	T	n: meiosis	1
+1532	T	a: discriminative	1
+1533	T	nn: metaphor agarose	1
+1534	T	anan: rnai-based gene knockdown technique	2
+1535	T	r: ectopically	1
+1536	T	an: dependent pathway	2
+1537	T	n: phosphoramidites	1
+1538	T	r: phrasally	1
+1539	T	a: coincident	1
+1540	T	a: exogenous	1
+1541	T	an: picoliter-scale pyrosequencing	1
+1542	T	nn: dialogue subtask	2
+1543	T	n: selectivity	1
+1544	T	nn: - gccttgccagcccgctcagattgatggtgcctacag-3	1
+1545	T	n: c-terminus	1
+1546	T	a: suppressive	1
+1547	T	a: 1-precision	1
+1548	T	nn: invisorb rna	1
+1549	T	n: highest-performing	1
+1550	T	an: rnase-free te	1
+1551	T	n: kristin	1
+1552	T	an: fam-tamra-labelled taqman	2
+1553	T	n: nacl	1
+1554	T	anpn: significant loss of rna	2
+1555	T	n: nonredundancy	1
+1556	T	npn: average of dg	1
+1557	T	nn: pseudogene set	1
+1558	T	an: o-methylated sirna	4
+1559	T	n: dulbecco	1
+1560	T	n: complexation	1
+1561	T	an: predicative power	2
+1562	T	n: milano	1
+1563	T	an: percival lowell	1
+1564	T	n: ayuso	1
+1565	T	n: outlier	1
+1566	T	r: differentially	1
+1567	T	npn: prediction of rna	2
+1568	T	r: inferentially	1
+1569	T	n: clontech	1
+1570	T	r: enzymatically	1
+1571	T	aan: abundant 24-nt rna	2
+1572	T	n: mutagenesis	1
+1573	T	n: effectivity	1
+1574	T	anpn: informational goal of task	2
+1575	T	aan: small nuclear rnas	2
+1576	T	a: bl2seq	1
+1577	T	a: felicitous	1
+1578	T	an: qualitative result	2
+1579	T	n: salton	1
+1580	T	n: klahre	1
+1581	T	a: holen	1
+1582	T	n: pragmatics	1
+1583	T	n: cplex	1
+1584	T	n: tamra	1
+1585	T	nn: rna portion	1
+1586	T	n: coordinate	1
+1587	T	n: attgatggtgcctaca3	1
+1588	T	n: peto	1
+1589	T	n: mismatch	22
+1590	T	r: empirically	1
+1591	T	a: phrase-final	1
+1592	T	n: 96-well	1
+1593	T	a: resuspended	1
+1594	T	r: sessentially	1
+1595	T	nn: grammar pattern	2
+1596	T	an: leftmost terminal	1
+1597	T	n: resolvant	1
+1598	T	an: nominative nps	1
+1599	T	nn: end protection	1
+1600	T	nn: implementation new-avg-count	2
+1601	T	n: trinucleotides	1
+1602	T	n: wuming	1
+1603	T	a: suggested	1
+1604	T	an: physicochemical descriptor	1
+1605	T	n: klaus	1
+1606	T	n: centromere	1
+1607	T	r: disjunctively	1
+1608	T	a: 24-nt-generating	1
+1609	T	npncn: summation of nx and px	1
+1610	T	a: bottom-up	1
+1611	T	npn: regulation of gene	2
+1612	T	n: gene-dosage	2
+1613	T	an: objective reality	1
+1614	T	n: nakatani	1
+1615	T	n: comprehensibility	1
+1616	T	an: transgene expression	2
+1617	T	r: linearly	1
+1618	T	n: camps-valls	1
+1619	T	n: orfs	1
+1620	T	a: zippy	1
+1621	T	n: iptg	1
+1622	T	an: strict correspondence	1
+1623	T	an: mutant s10	1
+1624	T	npn: specificity of dsrna	2
+1625	T	n: cormen	1
+1626	T	npn: functionality of sirna	2
+1626	V[s]	nn: sirna functionality	10
+1627	T	n: blastn	1
+1628	T	n: prolog	1
+1629	T	an: adjoining grammar	2
+1630	T	nn: hydroxyl terminus	2
+1631	T	npn: activity of rdr2	2
+1632	T	n: mnemonic	1
+1633	T	n: ssrnas	1
+1634	T	n: pathogen	1
+1635	T	nn: motif u1	1
+1636	T	a: cytotoxic	1
+1637	T	n: gijsbertus	1
+1638	T	nnpn: hydoxyl group of antisense	2
+1639	T	n: dynal	1
+1640	T	a: cj-1	1
+1641	T	annn: murine monoclonal anti-p110 antibody	2
+1642	T	r: counterintuitively	1
+1643	T	a: rnai-induced	1
+1644	T	n: ago4	1
+1645	T	npan: svm with linear kernel	2
+1646	T	an: nontermination problem	2
+1647	T	a: single-mutant	4
+1648	T	nn: abi prism	1
+1649	T	nn: ethidium bromide	1
+1650	T	npnn: diameter of planet mar	1
+1651	T	nn: rna poliva	1
+1652	T	n: rhss	1
+1653	T	a: boldface	1
+1654	T	a: left-hand-side	2
+1655	T	n: 10-fold	1
+1656	T	n: deletion	1
+1657	T	nn: gibco brl	1
+1658	T	n: retro-transposons	3
+1659	T	n: gene	216
+1660	T	n: matrix	13
+1661	T	n: accumulation	10
+1662	T	a: inactive	12
+1663	T	n: serum	12
+1664	T	n: terminus	16
+1665	T	n: utterance	37
+1666	T	n: sequence	163
+1667	T	n: cluster	45
+1668	T	n: parameter	34
+1669	T	a: abundant	10
+1670	T	n: strand	97
+1671	T	a: functional	20
+1672	T	a: transient	6
+1673	T	n: deviation	14
+1674	T	an: previous work	8
+1675	T	n: verb	13
+1676	T	n: segment	32
+1677	T	n: chromosome	11
+1678	T	n: initiation	7
+1679	T	n: fragment	34
+1680	T	n: cleavage	17
+1681	T	n: grammar	27
+1682	T	n: dialogue	123
+1683	T	n: unification	14
+1684	T	a: semantic	4
+1685	T	n: attribute	30
+1686	T	n: robustness	4
+1687	T	n: fragmentation	10
+1688	T	n: baseline	5
+1689	T	a: partial	10
+1690	T	a: genetic	8
+1691	T	n: hypothesis	9
+1692	T	an: positive effect	7
+1693	T	r: randomly	8
+1694	T	a: additive	8
+1695	T	n: evaluation	19
+1696	T	n: graph	8
+1697	T	n: domain	23
+1698	T	a: intuitive	3
+1699	T	n: elaboration	3
+1700	T	nn: room temperature	3
+1701	T	n: experiment	93
+1702	T	n: database	35
+1703	T	n: residue	9
+1704	T	a: internal	16
+1705	T	n: feature	220
+1706	T	n: datum	140
+1707	T	an: negative effect	5
+1708	T	n: fallout	6
+1709	T	n: lexicon	4
+1710	T	a: specific	44
+1711	T	n: prediction	50
+1712	T	n: metric	6
+1713	T	a: uniform	3
+1714	T	n: abundance	14
+1715	T	n: paragraph	20
+1716	T	n: narrative	34
+1717	T	n: intuition	3
+1718	T	n: raise	3
+1719	T	n: analysis	95
+1720	T	a: implicit	7
+1721	T	n: probability	19
+1722	T	an: high concentration	2
+1723	T	a: global	16
+1724	T	n: antibody	9
+1725	T	n: density	8
+1726	T	n: methodology	5
+1727	T	n: center	4
+1728	T	n: incorporation	4
+1729	T	n: paradise	28
+1730	T	a: repetitive	4
+1731	T	n: cell	108
+1732	T	an: significant improvement	5
+1733	T	n: loop	7
+1734	T	a: absolute	12
+1735	T	n: tissue	18
+1736	T	n: boundary	64
+1737	T	n: stability	47
+1738	T	n: affinity	7
+1739	T	r: systematically	9
+1740	T	nnn: wall street journal	2
+1741	T	r: negatively	2
+1742	T	an: high number	6
+1742	V[s]	anpn: high number of feature	3
+1743	T	a: efficient	40
+1744	T	a: proportional	2
+1745	T	n: frequency	14
+1746	T	a: distinct	9
+1747	T	n: variance	2
+1748	T	n: variant	4
+1749	T	n: distribution	44
+1750	T	a: initial	18
+1751	T	n: learning	21
+1752	T	n: method	134
+1753	T	r: uniformly	3
+1754	T	n: function	78
+1755	T	n: similarity	17
+1756	T	r: globally	4
+1757	T	a: consecutive	3
+1758	T	an: fundamental issue	2
+1759	T	an: excess capacity	2
+1760	T	n: accuracy	18
+1761	T	n: tolerance	14
+1762	T	n: chart	19
+1763	T	r: exponentially	1
+1764	T	n: long-distance	1
+1765	T	n: efficiency	51
+1766	T	a: applicable	6
+1767	T	n: summary	6
+1768	T	n: variable	8
+1769	T	n: equation	15
+1770	T	n: read	13
+1771	T	a: dynamic	7
+1772	T	a: diverse	12
+1773	T	n: precision	12
+1774	T	a: intentional	2
+1775	T	a: remaining	1
+1776	T	a: collaborative	1
+1777	T	n: gale	16
+1778	T	n: interface	4
+1779	T	r: statistically	4
+1780	T	n: membrane	2
+1781	T	a: explicit	6
+1782	T	a: transparent	4
+1783	T	n: seedling	5
+1784	T	n: classification	6
+1785	T	a: incompatible	5
+1786	T	n: potency	2
+1787	T	r: weakly	1
+1788	T	an: general rule	2
+1789	T	an: brute force	1
+1790	T	n: input	23
+1791	T	a: comparable	10
+1792	T	n: pattern	68
+1793	T	n: user	67
+1794	T	r: manually	2
+1795	T	a: significant	47
+1796	T	a: ambiguous	3
+1797	T	n: repeat	10
+1798	T	a: complementary	4
+1799	T	a: continuous	3
+1800	T	n: rectangle	1
+1801	T	a: fitted	1
+1802	T	n: bucket	9
+1803	T	n: limitation	12
+1804	T	n: buffer	4
+1805	T	a: sparse	3
+1806	T	n: mercer	13
+1807	T	n: implementation	13
+1808	T	a: knock-out	2
+1809	T	n: differential	7
+1810	T	a: conventional	5
+1811	T	n: activity	226
+1812	T	n: brevity	1
+1813	T	n: torino	1
+1814	T	n: approximation	1
+1815	T	r: interestingly	8
+1816	T	n: preference	22
+1817	T	n: tool	29
+1818	T	a: terminal	31
+1819	T	a: combined	3
+1820	T	n: persistence	4
+1821	T	a: self-contained	1
+1822	T	an: lesser extent	2
+1823	T	r: prohibitively	1
+1824	T	n: polymer	1
+1825	T	n: interjection	2
+1826	T	n: length	50
+1827	T	n: inference	4
+1828	T	n: expectation	67
+1829	T	n: joshua	1
+1830	T	n: diane	2
+1831	T	n: duration	5
+1832	T	n: curve	8
+1833	T	n: observation	21
+1834	T	n: webber	6
+1835	T	n: program	7
+1836	T	an: significant factor	2
+1837	T	an: significant difference	2
+1838	T	r: hand	1
+1839	T	n: affect	2
+1840	T	n: terminator	1
+1841	T	n: apache	1
+1842	T	n: phrase	37
+1843	T	n: occurrence	4
+1844	T	n: text	28
+1845	T	n: calculation	16
+1846	T	a: human	37
+1847	T	n: agent	100
+1848	T	an: recent study	2
+1849	T	n: pause	8
+1850	T	n: frontier	12
+1851	T	n: framework	18
+1852	T	n: model	74
+1853	T	n: gong	1
+1854	T	a: incomplete	2
+1855	T	n: melanie	1
+1856	T	a: accurate	15
+1857	T	n: technique	47
+1858	T	n: structure	77
+1859	T	n: organism	6
+1860	T	n: conjunction	4
+1861	T	r: centrally	3
+1862	T	n: mechanism	23
+1863	T	r: reliably	1
+1864	T	n: nucleus	1
+1865	T	n: olympus	1
+1866	T	n: interpretation	15
+1867	T	n: concentration	16
+1868	T	a: informative	3
+1869	T	a: automatic	4
+1870	T	a: consistent	15
+1871	T	n: library	30
+1872	T	a: potent	3
+1873	T	n: rebecca	1
+1874	T	a: backwards	1
+1875	T	a: superior	7
+1876	T	n: complexity	7
+1877	T	n: weight	43
+1878	T	n: default	3
+1879	T	n: correction	3
+1880	T	r: energetically	1
+1881	T	n: error	34
+1882	T	n: clause	43
+1883	T	r: independently	7
+1884	T	n: avoidance	1
+1885	T	n: signature	9
+1886	T	a: constant	6
+1887	T	n: task	73
+1888	T	a: blunt	3
+1889	T	n: phenomenon	15
+1890	T	n: aesthetics	1
+1891	T	n: bias	8
+1892	T	n: dependency	8
+1893	T	n: count	22
+1894	T	n: tree	59
+1895	T	n: confirmation	9
+1896	T	n: criterion	21
+1897	T	n: complex	37
+1898	T	n: maize	1
+1899	T	r: intelligently	1
+1900	T	n: combination	19
+1901	T	a: obligatory	2
+1902	T	n: ambiguity	3
+1903	T	an: large number	10
+1903	V[s]	anpn: large number of sirnas	2
+1904	T	a: complete	29
+1905	T	a: inseparable	1
+1906	T	r: extensively	5
+1907	T	n: proximity	4
+1908	T	r: predominantly	4
+1909	T	a: similar	35
+1910	T	a: robust	5
+1911	T	a: imperative	6
+1912	T	n: sample	19
+1913	T	an: high cost	3
+1914	T	a: indicative	2
+1915	T	a: cost-effective	2
+1916	T	n: promoter	7
+1917	T	n: selection	31
+1918	T	n: factor	81
+1919	T	n: repair	16
+1920	T	n: vocabulary	4
+1921	T	n: variation	12
+1922	T	n: ratio	8
+1923	T	a: detailed	4
+1924	T	n: usage	3
+1925	T	a: dual	1
+1926	T	a: problematic	2
+1927	T	n: hepatitis	1
+1928	T	r: versa	2
+1929	T	a: limited	8
+1930	T	n: introduction	19
+1931	T	a: lane	1
+1932	T	n: comparison	20
+1933	T	n: contrast	32
+1934	T	n: parallel	6
+1935	T	a: comprehensive	4
+1936	T	a: unique	14
+1937	T	a: conditional	2
+1938	T	n: base	62
+1939	T	n: position	161
+1940	T	an: small number	3
+1941	T	a: broad	5
+1942	T	r: efficiently	5
+1943	T	a: practical	7
+1944	T	n: content	18
+1945	T	n: carrington	1
+1946	T	n: hans	1
+1947	T	r: typically	8
+1948	T	n: scenario	15
+1949	T	a: natural	9
+1950	T	a: equal	11
+1951	T	an: good performance	6
+1952	T	a: separate	7
+1953	T	n: strategy	48
+1954	T	n: table	61
+1955	T	n: section	42
+1956	T	r: highest	1
+1957	T	r: explicitly	2
+1958	T	r: informally	1
+1959	T	a: false	5
+1960	T	a: effective	20
+1961	T	n: hank	2
+1962	T	n: performance	132
+1963	T	a: relative	31
+1964	T	a: advantageous	1
+1965	T	a: time-consuming	1
+1966	T	n: path	21
+1967	T	a: primary	4
+1968	T	a: sensitive	7
+1969	T	r: succinctly	1
+1970	T	a: puzzling	1
+1971	T	n: assignment	3
+1972	T	n: training	62
+1973	T	n: relation	33
+1974	T	n: component	9
+1975	T	r: suitably	3
+1976	T	a: positive	19
+1977	T	r: poorly	5
+1978	T	a: frequent	2
+1979	T	n: estimate	13
+1980	T	n: processor	4
+1981	T	r: roughly	6
+1982	T	r: highly	36
+1983	T	n: mask	6
+1984	T	r: vertically	1
+1985	T	n: recall	4
+1986	T	n: requirement	29
+1987	T	a: unaffected	2
+1988	T	a: missing	3
+1989	T	n: discrepancy	2
+1990	T	n: microsoft	1
+1991	T	r: approximately	8
+1992	T	a: concrete	1
+1993	T	n: complement	1
+1994	T	an: long run	2
+1995	T	a: maximum	9
+1996	T	r: simultaneously	5
+1997	T	n: application	40
+1998	T	a: large	44
+1999	T	r: partially	4
+2000	T	a: detrimental	1
+2001	T	a: unstable	1
+2002	T	r: abundantly	1
+2003	T	an: important issue	2
+2004	T	r: primarily	6
+2005	T	an: important factor	2
+2006	T	n: query	2
+2007	T	a: ideal	6
+2008	T	r: kindly	2
+2009	T	n: span	2
+2010	T	n: stag	1
+2011	T	n: literature	9
+2012	T	a: beneficial	3
+2013	T	a: unclear	3
+2014	T	n: pact	3
+2015	T	r: theoretically	1
+2016	T	n: definition	5
+2017	T	a: general	35
+2018	T	n: misunderstanding	2
+2019	T	a: involved	2
+2020	T	n: resistance	9
+2021	T	r: significantly	14
+2022	T	n: timetable	9
+2023	T	r: commonly	3
+2024	T	n: study	45
+2025	T	r: collectively	2
+2026	T	a: ineffective	1
+2027	T	a: tolerant	1
+2028	T	n: machine	29
+2029	T	n: absence	14
+2030	T	an: important role	2
+2031	T	a: high	73
+2032	T	n: sigma	1
+2033	T	a: minimum	8
+2034	T	n: string	9
+2035	T	a: extreme	6
+2036	T	n: ruler	2
+2037	T	n: validity	1
+2038	T	n: sensitivity	3
+2039	T	a: empty	5
+2040	T	n: twelve	1
+2041	T	a: vice	2
+2042	T	r: additionally	2
+2043	T	r: correctly	4
+2044	T	n: viii	1
+2045	T	r: specifically	9
+2046	T	n: plot	11
+2047	T	n: paradox	2
+2048	T	n: category	13
+2049	T	r: automatically	7
+2050	T	r: nicely	4
+2051	T	n: rule	54
+2052	T	r: faithfully	1
+2053	T	n: virus	8
+2054	T	a: brown	17
+2055	T	n: source	35
+2056	T	n: version	17
+2057	T	n: objective	14
+2058	T	n: region	56
+2059	T	r: marginally	3
+2060	T	n: side-effect	2
+2061	T	n: result	109
+2062	T	n: root	9
+2063	T	an: high quality	2
+2064	T	n: design	34
+2065	T	n: availability	2
+2066	T	n: description	7
+2067	T	a: inappropriate	3
+2068	T	n: exhibit	2
+2069	T	an: low level	3
+2070	T	a: equivalent	3
+2071	T	n: addition	25
+2072	T	a: accessible	4
+2073	T	n: blast	7
+2074	T	a: average	20
+2075	T	n: width	1
+2076	T	n: stanley	1
+2077	T	n: test	43
+2078	T	n: mammal	1
+2079	T	n: insect	2
+2080	T	a: correct	7
+2081	T	n: restriction	8
+2082	T	n: goodman	1
+2083	T	n: recipient	2
+2084	T	n: difference	32
+2085	T	a: suitable	5
+2086	T	a: pure	2
+2087	T	n: mixture	3
+2088	T	n: information	56
+2089	T	a: convenient	2
+2090	T	an: subject matter	1
+2091	T	a: inconsistent	1
+2092	T	r: previously	19
+2093	T	n: diagnosis	2
+2094	T	a: sufficient	5
+2095	T	n: proportion	9
+2096	T	n: testing	7
+2097	T	n: researcher	7
+2098	T	a: unpredictable	1
+2099	T	n: decrease	2
+2100	T	r: practically	3
+2101	T	r: potentially	5
+2102	T	n: constituent	4
+2103	T	n: arrow	1
+2104	T	a: simple	12
+2105	T	n: confusion	7
+2106	T	n: ease	3
+2107	T	r: internally	1
+2108	T	r: similarly	6
+2109	T	r: widely	13
+2110	T	n: fungus	1
+2111	T	a: ultimate	1
+2112	T	r: satisfactorily	1
+2113	T	n: figure	83
+2114	T	r: broadly	3
+2115	T	n: transformation	2
+2116	T	n: format	4
+2117	T	a: scarce	1
+2118	T	n: mohammed	1
+2119	T	n: maintenance	4
+2120	T	n: oval	1
+2121	T	r: continuously	1
+2122	T	a: total	32
+2123	T	n: jason	1
+2124	T	a: feasible	1
+2125	T	r: indirectly	1
+2126	T	n: score	30
+2127	T	a: responsive	1
+2128	T	n: solution	17
+2129	T	a: adequate	2
+2130	T	an: good result	2
+2131	T	n: exception	7
+2132	T	r: directly	13
+2133	T	n: obstacle	3
+2134	T	r: generally	16
+2135	T	n: invasion	2
+2136	T	n: belonging	1
+2137	T	r: briefly	3
+2138	T	a: critical	6
+2139	T	r: essentially	4
+2140	T	r: firstly	1
+2141	T	n: sentence	25
+2142	T	r: successfully	9
+2143	T	n: miss	2
+2144	T	r: infinitely	1
+2145	T	a: evident	4
+2146	T	n: clarification	1
+2147	T	n: construction	9
+2148	T	n: reduction	16
+2149	T	r: considerably	7
+2150	T	n: regulator	6
+2151	T	a: routine	1
+2152	T	n: characteristic	2
+2153	T	a: crucial	5
+2154	T	n: core	3
+2155	T	a: fast	5
+2156	T	n: variety	8
+2157	T	r: progressively	1
+2158	T	an: wide range	2
+2159	T	r: evenly	1
+2160	T	n: concept	8
+2161	T	r: frequently	6
+2162	T	n: approach	29
+2163	T	n: word	46
+2164	T	n: discovery	5
+2165	T	n: subject	25
+2166	T	r: accurately	2
+2167	T	n: step	26
+2168	T	n: topic	3
+2169	T	r: consistently	4
+2170	T	n: language	16
+2171	T	n: worm	1
+2172	T	n: staple	1
+2173	T	n: assessment	6
+2174	T	a: central	7
+2175	T	a: helpful	3
+2176	T	n: interval	5
+2177	T	a: powerful	4
+2178	T	r: importantly	3
+2179	T	r: routinely	1
+2180	T	a: english	6
+2181	T	r: preferably	1
+2182	T	n: plant	27
+2183	T	n: cost	54
+2184	T	r: convincingly	1
+2185	T	n: identity	8
+2186	T	r: prior	5
+2187	T	n: aspect	7
+2188	T	n: evolution	1
+2189	T	a: dependent	4
+2190	T	n: level	49
+2191	T	a: generous	2
+2192	T	a: inaccurate	1
+2193	T	a: short	21
+2194	T	n: material	18
+2195	T	a: common	8
+2196	T	n: medium	15
+2197	T	n: respect	11
+2198	T	a: overwhelming	1
+2199	T	a: essential	7
+2200	T	n: cycle	4
+2201	T	n: principle	12
+2202	T	n: number	91
+2203	T	n: redundancy	6
+2204	T	n: proposition	2
+2205	T	r: easy	1
+2206	T	n: knowledge	10
+2207	T	r: basically	4
+2208	T	n: improvement	15
+2209	T	r: newly	4
+2210	T	r: fortunately	3
+2211	T	n: sense	18
+2212	T	r: exceptionally	1
+2213	T	n: significance	3
+2214	T	r: surprisingly	4
+2215	T	n: phase	4
+2216	T	r: professionally	1
+2217	T	n: discussion	11
+2218	T	n: column	5
+2219	T	n: basis	18
+2220	T	n: speaker	6
+2221	T	r: radically	1
+2222	T	r: severely	3
+2223	T	n: publication	5
+2224	T	r: hitherto	1
+2225	T	n: note	13
+2226	T	n: unit	24
+2227	T	a: akin	1
+2228	T	n: presence	8
+2229	T	n: dame	1
+2230	T	n: novice	1
+2231	T	n: extent	8
+2232	T	n: gender	1
+2233	T	n: search	8
+2234	T	n: berlin	3
+2235	T	a: important	24
+2236	T	n: accounting	1
+2237	T	n: separation	2
+2238	T	n: specification	2
+2239	T	a: true	14
+2240	T	n: chapman	1
+2241	T	r: alternatively	1
+2242	T	n: file	3
+2243	T	r: completely	10
+2244	T	n: instance	8
+2245	T	n: agreement	17
+2246	T	n: simplicity	1
+2247	T	r: confidently	1
+2248	T	r: forwards	1
+2249	T	n: eagle	3
+2250	T	n: proof	3
+2251	T	n: hand	37
+2252	T	n: delivery	5
+2253	T	n: context	4
+2254	T	r: adequately	1
+2255	T	n: therapy	2
+2256	T	n: purpose	8
+2257	T	n: link	12
+2258	T	a: weak	3
+2259	T	n: manner	7
+2260	T	n: flaw	1
+2261	T	n: paper	20
+2262	T	n: uncertainty	4
+2263	T	n: registration	1
+2264	T	a: substantial	2
+2265	T	r: publicly	4
+2266	T	n: conclusion	6
+2267	T	r: initially	5
+2268	T	n: clarity	1
+2269	T	n: consequence	6
+2270	T	n: revision	1
+2271	T	r: actively	2
+2272	T	r: strongly	7
+2273	T	a: prone	1
+2274	T	n: ability	12
+2275	T	n: object	3
+2276	T	n: bate	1
+2277	T	n: rabbit	1
+2278	T	r: individually	1
+2279	T	r: ideally	1
+2280	T	n: article	10
+2281	T	n: gordon	4
+2282	T	a: redundant	2
+2283	T	n: sister	7
+2284	T	a: satisfactory	1
+2285	T	n: condition	25
+2286	T	r: finally	13
+2287	T	a: great	15
+2288	T	a: interesting	5
+2289	T	n: frank	1
+2290	T	n: system	44
+2291	T	n: partner	12
+2292	T	a: overnight	1
+2293	T	n: importance	5
+2294	T	a: poor	6
+2295	T	r: separately	1
+2296	T	r: slightly	7
+2297	T	a: successful	8
+2298	T	n: term	24
+2299	T	n: dozen	2
+2300	T	n: entity	1
+2301	T	a: strong	10
+2302	T	a: sound	1
+2303	T	n: assumption	2
+2304	T	a: express	1
+2305	T	r: fairly	4
+2306	T	n: yield	3
+2307	T	n: zone	4
+2308	T	n: compound	1
+2309	T	n: hundred	2
+2310	T	n: access	10
+2311	T	n: range	11
+2312	T	n: competitor	4
+2313	T	n: copy	3
+2314	T	n: existence	3
+2315	T	n: procedure	8
+2316	T	n: order	23
+2317	T	a: obvious	4
+2318	T	n: norm	1
+2319	T	n: escape	2
+2320	T	r: freely	1
+2321	T	n: depth	2
+2322	T	n: horn	1
+2323	T	n: speech	8
+2324	T	n: finding	4
+2325	T	n: church	14
+2326	T	n: inability	1
+2327	T	n: bottom	2
+2328	T	n: fault	3
+2329	T	n: control	15
+2330	T	n: case	50
+2331	T	n: reynolds	1
+2332	T	n: christopher	1
+2333	T	n: distance	4
+2334	T	r: largely	6
+2335	T	r: gradually	2
+2336	T	r: precisely	2
+2337	T	n: role	16
+2338	T	a: realistic	1
+2339	T	n: branch	4
+2340	T	r: dramatically	2
+2341	T	n: quantity	1
+2342	T	n: generation	6
+2343	T	n: doyle	1
+2344	T	n: contrary	2
+2345	T	n: frankfurt	1
+2346	T	r: recently	17
+2347	T	n: window	7
+2348	T	n: scale	4
+2349	T	n: instruction	2
+2350	T	n: response	9
+2351	T	n: implication	3
+2352	T	n: justification	1
+2353	T	a: cautious	1
+2354	T	n: detail	9
+2355	T	a: full	8
+2356	T	n: collection	5
+2357	T	r: solely	1
+2358	T	r: differently	1
+2359	T	n: output	3
+2360	T	n: scratch	1
+2361	T	r: altogether	2
+2362	T	n: quality	9
+2363	T	n: property	9
+2364	T	n: request	3
+2365	T	a: modest	1
+2366	T	r: purely	1
+2367	T	n: argument	7
+2368	T	n: outcome	3
+2369	T	n: software	1
+2370	T	r: closely	3
+2371	T	n: capability	1
+2372	T	n: utility	2
+2373	T	n: mackay	3
+2374	T	r: greatly	2
+2375	T	n: possibility	5
+2376	T	n: relationship	6
+2377	T	n: package	5
+2378	T	n: creation	2
+2379	T	n: leave	2
+2380	T	n: turn	4
+2381	T	n: scheme	16
+2382	T	n: label	2
+2383	T	r: positively	1
+2384	T	n: unity	1
+2385	T	n: process	12
+2386	T	r: necessarily	2
+2387	T	n: left	2
+2388	T	n: trend	4
+2389	T	r: rapidly	2
+2390	T	n: proceed	1
+2391	T	a: present	7
+2392	T	n: lane	2
+2393	T	n: seed	2
+2394	T	n: plane	3
+2395	T	n: nature	4
+2396	T	n: explanation	2
+2397	T	n: entry	3
+2398	T	n: candidate	6
+2399	T	n: clue	1
+2400	T	r: faster	1
+2401	T	n: distinction	1
+2402	T	n: practice	6
+2403	T	a: fourth	2
+2404	T	n: record	12
+2405	T	n: correspondent	1
+2406	T	r: physically	1
+2407	T	n: technology	5
+2408	T	n: panel	2
+2409	T	a: unchanged	1
+2410	T	r: easily	4
+2411	T	r: locally	1
+2412	T	n: product	9
+2413	T	n: goal	12
+2414	T	n: space	6
+2415	T	n: option	7
+2416	T	a: difficult	14
+2417	T	n: recovery	3
+2418	T	a: close	4
+2419	T	n: desk	1
+2420	T	n: decision	19
+2421	T	r: deeply	2
+2422	T	a: future	12
+2423	T	n: work	30
+2424	T	n: means	1
+2425	T	n: evidence	11
+2426	T	n: operation	11
+2427	T	n: promise	2
+2428	T	n: point	21
+2429	T	n: answer	5
+2430	T	n: involvement	2
+2431	T	n: convention	2
+2432	T	n: reaction	3
+2433	T	n: issue	14
+2434	T	n: face	6
+2435	T	n: representative	3
+2436	T	n: author	2
+2437	T	n: show	9
+2438	T	a: open	5
+2439	T	n: flower	2
+2440	T	r: fully	4
+2441	T	n: reserve	2
+2442	T	n: account	6
+2443	T	an: recent year	2
+2444	T	n: connection	2
+2445	T	a: vulnerable	1
+2446	T	n: defence	5
+2447	T	n: field	6
+2448	T	n: increase	9
+2449	T	n: index	2
+2450	T	r: shortly	2
+2451	T	n: disease	3
+2452	T	n: walker	3
+2453	T	n: shift	1
+2454	T	n: progress	3
+2455	T	r: immediately	4
+2456	T	n: cancer	2
+2457	T	n: fraser	2
+2458	T	n: manufacturer	2
+2459	T	r: equally	2
+2460	T	r: subsequently	1
+2461	T	a: surprising	1
+2462	T	n: belief	2
+2463	T	n: observer	1
+2464	T	n: computer	2
+2465	T	n: claim	6
+2466	T	a: impossible	2
+2467	T	n: resource	3
+2468	T	a: clear	7
+2469	T	n: balance	2
+2470	T	a: deep	1
+2471	T	n: script	1
+2472	T	n: problem	17
+2473	T	n: question	9
+2474	T	a: light	4
+2475	T	r: effectively	2
+2476	T	n: idea	7
+2477	T	n: support	8
+2478	T	n: maxwell	1
+2479	T	r: extremely	2
+2480	T	n: list	3
+2481	T	r: longer	4
+2482	T	a: easy	4
+2483	T	n: stand	2
+2484	T	r: increasingly	2
+2485	T	n: suggestion	2
+2486	T	r: naturally	1
+2487	T	n: high	1
+2488	T	n: event	9
+2489	T	n: designer	1
+2490	T	r: eventually	3
+2491	T	n: guideline	1
+2492	T	n: fact	12
+2493	T	n: gift	1
+2494	T	n: time	48
+2495	T	n: indication	1
+2496	T	n: substitute	1
+2497	T	n: group	16
+2498	T	r: perfectly	1
+2499	T	n: confidence	3
+2500	T	r: possibly	2
+2501	T	r: simply	5
+2502	T	n: rank	1
+2503	T	n: situation	5
+2504	T	n: part	10
+2505	T	n: controversy	1
+2506	T	n: press	2
+2507	T	n: thomas	1
+2508	T	n: cover	1
+2509	T	a: unable	2
+2510	T	n: break	2
+2511	T	n: reason	6
+2512	T	n: smith	6
+2513	T	n: block	1
+2514	T	n: chance	6
+2515	T	r: carefully	1
+2516	T	n: atmosphere	1
+2517	T	n: funding	2
+2518	T	n: drop	1
+2519	T	n: avenue	1
+2520	T	n: advantage	2
+2521	T	r: partly	1
+2522	T	r: heavily	1
+2523	T	n: edge	1
+2524	T	r: regularly	1
+2525	T	a: rich	1
+2526	T	n: stage	4
+2527	T	n: compensation	1
+2528	T	n: speculation	1
+2529	T	n: penalty	2
+2530	T	n: survey	2
+2531	T	r: originally	1
+2532	T	n: interest	6
+2533	T	n: family	7
+2534	T	n: tradition	1
+2535	T	n: blood	1
+2536	T	n: state	6
+2537	T	n: statement	3
+2538	T	n: period	3
+2539	T	r: earlier	4
+2540	T	n: challenge	2
+2541	T	r: properly	1
+2542	T	n: university	4
+2543	T	n: village	1
+2544	T	n: failure	1
+2545	T	n: james	1
+2546	T	n: action	4
+2547	T	n: view	3
+2548	T	n: ticket	1
+2549	T	n: side	5
+2550	T	n: japan	1
+2551	T	n: john	2
+2552	T	n: evening	1
+2553	T	n: past	1
+2554	T	n: date	1
+2555	T	a: aware	1
+2556	T	n: attention	1
+2557	T	n: colleague	1
+2558	T	n: border	1
+2559	T	n: fire	1
+2560	T	n: risk	1
+2561	T	n: seat	1
+2562	T	n: rise	1
+2563	T	n: call	1
+2564	T	n: morning	1
+2565	T	a: past	1
+2566	T	n: heart	1
+2567	T	n: attempt	1
+2568	T	n: money	3
+2569	T	n: proposal	1
+2570	T	r: forward	1
+2571	T	r: long	1
+2572	T	n: title	1
+2573	T	n: area	2
+2574	T	n: share	1
+2575	T	n: place	2
+2576	T	n: city	1
+2577	T	n: report	1
+2578	T	n: market	1
+2579	T	n: child	1
+2580	T	r: back	1
+2581	T	n: year	3
