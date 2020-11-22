@@ -1,5 +1,9 @@
 #Directories 
-.DS_Store/*
+.DS_Store
+
+corpus/.DS_Store
+output_dir/.DS_Store
+
 bootcat/*
 treetagger/*
 corpus/*
@@ -8,6 +12,4 @@ corpus/*
 termsuite-core-3.0.10.jar
 project.pdf
 TEST.ipynb
-test.py.DS_Store
-corpus/.DS_Store
-output_dir/.DS_Store
+test.py
